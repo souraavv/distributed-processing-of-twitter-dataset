@@ -1,0 +1,1000 @@
+34982,O2,False,Wed Nov 01 13:23:35 +0000 2017,@123609 Hi Rachy 🤔 This can take up to 24 hours for the number to change. Has it been 24 hours since you requested this?,34983,34984
+34983,123609,True,Wed Nov 01 13:24:27 +0000 2017,@O2 It was yesterday I went into the shop,34985,34982
+34985,O2,False,Wed Nov 01 13:42:24 +0000 2017,@123609 Okay. What time did you request it? Has it been over 24 hours? Have you tried rebooting your phone?,34986,34983
+34986,123609,True,Wed Nov 01 13:43:30 +0000 2017,@O2 It’s was  bout 11-12 am,34987,34985
+34987,O2,False,Wed Nov 01 13:47:23 +0000 2017,"@123609 Okay, have you rebooted your phone?",34988,34986
+34988,123609,True,Wed Nov 01 13:47:57 +0000 2017,@O2 How do I do that,34989,34987
+34989,O2,False,Wed Nov 01 13:59:16 +0000 2017,"@123609 Turn your phone off, leave it for a few seconds then turn it back on ☺",34990,34988
+34990,123609,True,Wed Nov 01 14:05:29 +0000 2017,@O2 I’ve tryed that has not worked,34991,34989
+34991,O2,False,Wed Nov 01 14:18:34 +0000 2017,"@123609 Okay, chat with us here and we'll take a look: https://t.co/F2VbqC3BoM",,34990
+34984,123609,True,Wed Nov 01 13:18:39 +0000 2017,@O2  hi I’ve been in to the o2 in mboro to change my mobile number yesterday im just wondering when will my new number work,34982,
+34992,O2,False,Wed Nov 01 13:23:13 +0000 2017,@123610 We've replied to your private message Simon.,34993,34994
+34993,123610,True,Wed Nov 01 13:25:15 +0000 2017,@O2 Yes but only telling me that once you’ve sent my phone you’ll then tell me you’ve sent it. That’s not really what I was asking or particularly helpful.,34995,34992
+34995,O2,False,Wed Nov 01 13:44:35 +0000 2017,@123610 That's all the information we have Simon.,34996,34993
+34996,123610,True,Wed Nov 01 13:57:50 +0000 2017,@O2 Okay. Thanks for trying. It must be frustrating for you guys as well not being given any details to be able to pass on.,34997,34995
+34997,O2,False,Wed Nov 01 14:53:55 +0000 2017,@123610 🤔 😫 😖,,34996
+34994,123610,True,Wed Nov 01 12:30:19 +0000 2017,@O2 Yes I ordered online and I don’t remember there being any timescale shown apart from the launch date. I have DM you the order number,"34998,34992",34999
+34999,O2,False,Wed Nov 01 12:27:14 +0000 2017,"@123610 Hi Simon, did you pre-order online? If so, it'll be delivered in the timescale showing when you pre-ordered.",34994,35000
+35000,123610,True,Wed Nov 01 12:24:30 +0000 2017,@O2 hi. Any way anyone can tell me whether my iPhone X will be delivered on Friday and if not when I might expect it?,34999,
+35001,O2,False,Wed Nov 01 13:20:23 +0000 2017,"@123611 Hey there, no news at the moment but register here to be notified when there is: https://t.co/UcPgezkL14 👍",,35002
+35002,123611,True,Wed Nov 01 12:22:19 +0000 2017,Are the rumors on the OnePlus 5t true? I was looking at getting the 5 but if a new version is coming I might as well wait @O2 @123612,"35003,35001",
+35004,O2,False,Wed Nov 01 13:18:09 +0000 2017,@123613 😟 What's happened to make you say that Connie? Please drop us a DM with more details: https://t.co/X6jjaZO883,,35005
+35005,123613,True,Wed Nov 01 13:14:03 +0000 2017,Terrible service from @O2 customer service,35004,
+35006,ATVIAssist,False,Thu Nov 30 18:59:42 +0000 2017,@123614 If you're still having issues please provide me a DM to help you. ^ME https://t.co/c9WoAfwenP,35007,35008
+35007,123614,True,Thu Nov 30 19:06:09 +0000 2017,@ATVIAssist Seems to be limited to the epic variant which I've just stopped using.,,35006
+35008,123614,True,Sat Nov 25 23:00:19 +0000 2017,@ATVIAssist  #PS4share https://t.co/7WihuT9mQz,35006,
+35009,comcastcares,False,Wed Nov 22 18:36:05 +0000 2017,@123615 Hi Chris. The Terabyte Internet Data Usage Plan provides 1TB of usage monthly and is in many areas across the country (https://t.co/2fM6OjtrWZ). I'd be happy to review your current usage with you. Please send me a DM with your address and phone number to get started. - SL,,35010
+35010,123615,True,Wed Nov 22 18:23:37 +0000 2017,"@comcastcares I never got my 30 day notice I was getting a data cap, and now I have a data cap? What is going on...",35009,
+35011,LondonMidland,False,Wed Nov 01 13:02:17 +0000 2017,"@123616 hello, perhaps the easiest way would be to refer to our paper timetable, available to view online https://t.co/664HWEG5Dd ne",,35012
+35012,123616,True,Wed Nov 01 12:55:58 +0000 2017,@LondonMidland where I can find details of last fridays actual timetable from Euston to berkhamsted. I am trying to claim delay repay,35011,
+35013,SW_Help,False,Wed Nov 01 13:14:54 +0000 2017,"@123617 Hi Alex, when did you submit this form? ^MB",35014,35015
+35014,123617,True,Thu Nov 02 23:38:20 +0000 2017,@SW_Help About 2 weeks ago.,35016,35013
+35016,SW_Help,False,Thu Nov 02 23:41:40 +0000 2017,"@123617 Hi Alex, you should have received an automated reference regarding the complaint. Have you checked your spam folder? ^JW",35017,35014
+35017,123617,True,Fri Nov 03 16:04:00 +0000 2017,"@SW_Help Hello, I have just checked and have received no emails from yourself.",35018,35016
+35018,SW_Help,False,Fri Nov 03 16:06:09 +0000 2017,"@123617 Hi, sorry to hear you have not had any confirmation, would you be able to DM us?  ^AW",,35017
+35015,123617,True,Wed Nov 01 13:11:26 +0000 2017,@SW_Help I submitted an online form with a complaint about an incomplete journey due to your poor service and haven't received a response?,35013,
+35019,Safaricom_Care,False,Wed Nov 01 13:27:22 +0000 2017,@119432 Customer was already assisted with the reversal issue. Have a good evening. ^AB,"35020,35021",35022
+35020,119432,True,Wed Nov 01 13:31:36 +0000 2017,@Safaricom_Care Be sure and don't  speculate,,35019
+35021,119432,True,Wed Nov 01 13:30:09 +0000 2017,@Safaricom_Care At what time because she has not received the message,,35019
+35022,119432,True,Wed Nov 01 13:13:34 +0000 2017,@Safaricom_Care @123302 @119433 @119309 Kindly reverse LIO6DMT4LC,35019,35023
+35023,Safaricom_Care,False,Wed Nov 01 12:16:30 +0000 2017,"@123302 @119432 @119433 @119309 Hi, your reversal requested was captured under reference number 1-DBEQ4LV, you shall be advised once complete. ^LW @119433","35024,35022",35025
+35025,123302,True,Wed Nov 01 11:43:17 +0000 2017,"@Safaricom_Care @119432 @119433 @119309 kindly reverse this transaction. LJV3XVAUPJ
+View details ·",35023,35026
+35026,Safaricom_Care,False,Wed Nov 01 11:36:08 +0000 2017,"@119432 @119433 We appreciate that you've been patient thus far, we're still following up &amp; we'll be in touch as soon as we have feedback^LW @119433","35025,35027,35028,35029",35030
+35030,119432,True,Wed Nov 01 11:04:14 +0000 2017,@119433 They have been looking into the problem for over a month,35026,35031
+35031,119432,True,Wed Nov 01 10:27:26 +0000 2017,@119433 No one has assisted me yet regarding my Safaricom Home Fibre connection. It has a pull and push since 24th September.,35030,
+35032,Safaricom_Care,False,Wed Nov 01 13:25:14 +0000 2017,@123618 Share the email reference number for follow up. ^KR,,35033
+35033,123618,True,Wed Nov 01 13:07:47 +0000 2017,@Safaricom_Care @2106 @2107 I have received no assistance to this day..,35032,35034
+35034,123618,True,Mon Oct 30 12:22:15 +0000 2017,@Safaricom_Care The Email sent by the following address: @2106.com or @2107.com to __email__ or com,35033,35035
+35035,Safaricom_Care,False,Mon Oct 30 11:57:48 +0000 2017,@123618 Sent to us through which email? What is it about? Please advise. ^IN,35034,35036
+35036,123618,True,Mon Oct 30 11:11:21 +0000 2017,"@Safaricom_Care Please look for an email sent from them with the following address: @2106.com or @2107.com
+
+Website Certificate",35035,
+35037,Safaricom_Care,False,Wed Nov 01 13:22:18 +0000 2017,"@123619 Hi, kindly provide a brief description of the issue so that we can assist you. ^MU",35038,35039
+35038,123619,True,Wed Nov 01 14:55:28 +0000 2017,"@Safaricom_Care Received a call frm the no although i did not pick it, saved as mshwari on truecaller",35040,35037
+35040,Safaricom_Care,False,Wed Nov 01 15:05:38 +0000 2017,"@123619 Yes, we call through that number to advise our clients to pay back their M-shwari loans.^TK",,35038
+35039,123619,True,Wed Nov 01 13:08:01 +0000 2017,"@Safaricom_Care  hi,is 0709 096000 your mshwari no ?",35037,
+35041,idea_cares,False,Wed Nov 01 13:28:29 +0000 2017,"@123620 Sorry for the trouble caused to you. Please DM us your Idea and alternate contact details to assist you better. Rgds, Arti","35042,35043",35044
+35042,123620,True,Wed Nov 01 13:29:16 +0000 2017,@idea_cares 7566925372,,35041
+35043,123620,True,Wed Nov 01 13:29:03 +0000 2017,@idea_cares I have only Ur number,,35041
+35044,123620,True,Wed Nov 01 13:17:16 +0000 2017,@116331 very poor service always network problem always out off coverage just a cheater,35041,
+35045,idea_cares,False,Wed Nov 01 13:28:00 +0000 2017,"@123621 As per our recent telecon, your concern has been discussed and will be addressed.
+
+Regards,
+Richard",,35046
+35046,123621,True,Wed Nov 01 12:48:27 +0000 2017,#ideacustomercare #ideapostpaid #ideacellular Could you please call back and resolve the issue ? Seems like you are not interested.,35045,
+35047,idea_cares,False,Wed Nov 01 13:25:27 +0000 2017,"@123622 We regret the inconvenience caused. Your contact details are with us and we will get back to you soon. Regards, Mahindra",,35048
+35048,123622,True,Wed Nov 01 13:18:09 +0000 2017,"idea team
+My no puk blocked 
+9506896979
+Idea customer and idea store 
+Not helping me.. 
+Very poor service 
+Alt no 7666616852 @116331","35047,35049",
+35050,idea_cares,False,Wed Nov 01 13:24:00 +0000 2017,"@123623 We understand your https://t.co/gqCymSGFCf will get a resolution soon,so please bear with us for some time.Rgds,Arti",,35051
+35051,123623,True,Wed Nov 01 12:58:38 +0000 2017,@idea_cares can you pls refund my amount. Not getting any response from your customer care team. Pls check mail from __email__,"35050,35052,35053",
+35054,HPSupport,False,Wed Nov 01 13:25:26 +0000 2017,"@123624 Hi, thanks for reaching out. If you need any technical assistance, please let me know the product model and the issue. ^Prathap",,35055
+35055,123624,True,Tue Oct 31 22:18:25 +0000 2017,@HPSupport [TYPE YOUR QUESTION HERE] #hppsdr #ijkhelp,35054,
+35056,HPSupport,False,Wed Nov 01 13:23:10 +0000 2017,"@123625 Hi Bella, I'd be happy to help! What's the model name of the printer? Do you get any error message? Let me know :) 1/2",,35057
+35057,123625,True,Wed Nov 01 02:44:27 +0000 2017,@HPSupport Why am I not able to get my scanned documents sent to my email #hpcswus #hpprnt,"35056,35058",
+35059,HPSupport,False,Wed Nov 01 13:07:27 +0000 2017,@123626 Please reply as a DM so that I can assist you better. Regards ^ Sanal...2/2 https://t.co/a2xkfCrUG1,,35060
+35060,123626,True,Tue Oct 31 20:55:46 +0000 2017,"@HPSupport I have laser pro MFP M127fw
+I was working fine till yesterday
+I tried everything reboot reconnect nothing works","35059,35061,35062,35063",35064
+35064,HPSupport,False,Tue Oct 31 20:38:47 +0000 2017,"@123626 Hi Eleni, thanks for tweeting. Which printer do you use? Reboot the router and printer and then check. Do you get errors?...1/2",35060,35065
+35065,123626,True,Tue Oct 31 19:43:04 +0000 2017,@HPSupport I cant connect to my router #hpcswus #hpprnt,"35066,35064",
+35061,HPSupport,False,Wed Nov 01 13:07:00 +0000 2017,"@123626 Hi Elini, let's reboot the router, printer and PC. After that try steps from this link: https://t.co/LATjllXqi8 . ..1/2",,35060
+35067,HPSupport,False,Wed Nov 01 13:02:44 +0000 2017,"@123627 Hi, Our support is limited to English only. Please post back in English and I would love to help you. :) ..1/2",,35068
+35068,123627,True,Tue Oct 31 13:02:57 +0000 2017,"@HPSupport Mein neuer Hp envy 7640, S/N TH75J4X0KZ druckt nicht. Nur interne testseite. Vom laptop klappt der druck #hppsdr #ijkhelp","35067,35069",
+35070,AzureSupport,False,Wed Nov 01 13:11:07 +0000 2017,@123628 Sorry to hear you are having trouble. Please use https://t.co/heO4tfFVts for subscription/billing issues.  ^SB,,35071
+35071,123628,True,Wed Nov 01 13:08:23 +0000 2017,@azuresupport #azTechHelp Hi ! Does the Cognitive Services (Speech API) Free Tier resets monthly ? still getting error 429 after month end,35070,
+35072,AlaskaAir,False,Wed Nov 01 13:29:34 +0000 2017,@123629 I'm sorry to hear about this. Can you DM your confirmation code so I can look into this for you. -Maeghan,,35073
+35073,123629,True,Wed Nov 01 13:15:24 +0000 2017,Not wanting to wait until 2300 to catch defferent flight to PDX I reluctantly cancelled my ticket with @AlaskaAir for a hefty fee of $125.,35072,
+35074,TwitterSupport,False,Sun Dec 03 17:33:13 +0000 2017,@123630 Thanks for getting in touch. Send us a message and we'll get started helping you out. https://t.co/eXwzpNxIh4,,35075
+35075,123630,True,Sun Dec 03 17:32:14 +0000 2017,@TwitterSupport I need help with my account please,35074,
+35076,AlaskaAir,False,Wed Nov 01 13:05:52 +0000 2017,@123631 We're happy to welcome you on board! -Maeghan,35077,35078
+35077,123632,True,Wed Nov 01 17:45:14 +0000 2017,@AlaskaAir @123631 At all airports? Or just PDX?,35079,35076
+35079,AlaskaAir,False,Wed Nov 01 17:47:02 +0000 2017,@123632 @123631 Pre boarding for wearing a Timbers jersey is just when traveling out of Portland  -Sara,,35077
+35078,123631,True,Wed Nov 01 13:04:09 +0000 2017,Wow @AlaskaAir preboards passengers wearing @123633 gear. #perks,"35076,35080",
+25528,ArgosHelpers,False,Wed Nov 01 13:28:14 +0000 2017,@121526 2/3 in the morning at 9.00.  I am sorry for these problems.  Jan,35081,25525
+35081,121526,True,Wed Nov 01 13:28:55 +0000 2017,@ArgosHelpers Thanks for your help.  Not great though is it?,"35082,35083,35084,35085,35086,35087",25528
+35082,ArgosHelpers,False,Wed Nov 01 13:36:36 +0000 2017,@121526 3/ but to some one else.  So need to find out where.  Jan,,35081
+35083,ArgosHelpers,False,Wed Nov 01 13:34:40 +0000 2017,"@121526 Hi Val I understand your frustration, but the drivers are at a meeting and they can not be contacted until later.  I could  1/",,35081
+35084,ArgosHelpers,False,Thu Nov 02 09:59:53 +0000 2017,@121526 3/3 2 and 6. I hope this is ok.  Thank you Jan,35088,35081
+35088,121526,True,Thu Nov 02 10:02:02 +0000 2017,@ArgosHelpers Thanks. I'll let you know if it happens!,35089,35084
+35089,ArgosHelpers,False,Thu Nov 02 10:09:07 +0000 2017,"@121526 Thank you Jan,",,35088
+35085,ArgosHelpers,False,Thu Nov 02 09:59:24 +0000 2017,@121526 2/3  it seems they have been put through a wrong door.  They have now been rebooked for today 2/11/2017 on 1214184719 between,,35081
+35086,ArgosHelpers,False,Thu Nov 02 09:58:21 +0000 2017,"@121526 Hi Val, So sorry it has taken a while,I have spoken to the store again this morning Gavin and it is showing delivered  1/3",,35081
+35087,ArgosHelpers,False,Wed Nov 01 13:35:55 +0000 2017,@121526 2/ leave back in the pile too see if someone else can call later this afternoon but didnt really want too.  It has been delivered,,35081
+35090,ArgosHelpers,False,Wed Nov 01 13:27:49 +0000 2017,"@123634 Hi could you Dm me your order number and i can see what i can do for you.
+-Chantelle",35091,35092
+35091,123634,True,Wed Nov 01 13:29:36 +0000 2017,@ArgosHelpers done. Thank you,,35090
+35092,123634,True,Wed Nov 01 13:26:30 +0000 2017,"@ArgosHelpers pre-ordered an item, it’s still not been delivered to the store, last day to pick up today. Could you please help.",35090,
+35093,ArgosHelpers,False,Wed Nov 01 13:27:11 +0000 2017,"@123635 Thank you Jane, that's great to hear - Trevor",35094,35095
+35094,123635,True,Wed Nov 01 13:29:44 +0000 2017,@ArgosHelpers 👍😊,,35093
+35095,123635,True,Wed Nov 01 13:26:06 +0000 2017,@116245 Just to say how FAB your same day ordering &amp; delivery service is. Used it several times recently &amp; delighted- it's 5⭐️!👏👍😊,35093,
+35096,ArgosHelpers,False,Wed Nov 01 13:24:23 +0000 2017,"@123636 Hi David, I have not received your details?  sorry.  Parm",35097,35098
+35097,123636,True,Wed Nov 01 13:45:02 +0000 2017,@ArgosHelpers 1213847408,35099,35096
+35099,ArgosHelpers,False,Wed Nov 01 13:57:52 +0000 2017,"@123636 David, Can you please follow and DM us with the order details, for security, you may want to delete your last public tweet too - Jase",,35097
+35098,123636,True,Wed Nov 01 13:20:34 +0000 2017,@116245 Done,35096,35100
+35100,123636,True,Wed Nov 01 13:08:49 +0000 2017,"@116245 Same day delivery.. it’s a joke, doesn’t turn up, don’t call back. Then it’s coming two days later with no explanation","35098,35101",
+35102,ArgosHelpers,False,Wed Nov 01 13:17:00 +0000 2017,"@123637 Hi Cherelle, please can you DM us with your order details and we will be able to look into this for you ~ Vicky",35103,35104
+35103,123637,True,Wed Nov 01 13:20:05 +0000 2017,@ArgosHelpers Thanks Vicky. I just sent a DM,,35102
+35104,123637,True,Wed Nov 01 11:42:34 +0000 2017,Hi @ArgosHelpers I placed an order last night &amp; my bank has just informed me that 2 payments have been taken. How can we resolve this? TIA,35102,
+35105,airtel_care,False,Wed Nov 01 13:22:53 +0000 2017,@123638 social bundle for further assistance Thank you. (2/2),,35106
+35106,123638,True,Tue Oct 31 16:39:58 +0000 2017,"@airtel_care pls I need or assistance on my line number 09071378910, I was been block by punk number","35105,35107",
+35108,airtel_care,False,Wed Nov 01 13:20:27 +0000 2017,@123638 for data or social bundle for further assistance Thank you. (2/2),,35109
+35109,123638,True,Tue Oct 31 16:55:51 +0000 2017,"@airtel_care pls the number with puk  number 22472123. pls kindly assist,","35108,35110,35111",
+35112,AskTarget,False,Wed Nov 01 13:28:32 +0000 2017,@123639 That’s not the quality you come to expect from us. Please DM us your receipt number. https://t.co/8hWNNqZxBG… Thank you.,,35113
+35113,123639,True,Wed Nov 01 13:13:48 +0000 2017,Every time I buy @123640 juice at @116062 it’s expired 🙄💸,35112,
+35114,AskTarget,False,Wed Nov 01 13:20:11 +0000 2017,@123641 That is a good question! This exclusive promotion is available to all REDcard holders. Thanks.,35115,35116
+35115,123641,True,Wed Nov 01 13:31:55 +0000 2017,@AskTarget Thanks for the reply! : ),,35114
+35116,123641,True,Wed Nov 01 12:10:48 +0000 2017,@AskTarget Will Red Card Debit as well as Credit both work for the SNES purchase this morning?,35114,
+35117,AskPapaJohns,False,Wed Nov 01 12:52:00 +0000 2017,"@119599 We're sorry that you had a problem with your order, Michael! Please DM us your contact info and we will open a ticket. Thanks!",,35118
+35118,119599,True,Wed Nov 01 04:59:06 +0000 2017,@116076 Happy Halloween https://t.co/Fd2DhtpjOz,35117,
+35119,AskPapaJohns,False,Wed Nov 01 12:48:52 +0000 2017,"@123642 Oh no, Holly! We're sorry about that! Please DM us your contact info and we will open a ticket. Thanks!",,35120
+35120,123642,True,Wed Nov 01 06:22:32 +0000 2017,I literally want ONE slice of pizza and it's taken @116076 over a hour to deliver less than 3 miles from their location #snoozy,35119,
+35121,AWSSupport,False,Wed Nov 01 11:06:29 +0000 2017,@123643 I've added your +1 for wanting to see this feature looked into! Thanks for letting us know. 😉 ^ES,,35122
+35122,123643,True,Wed Nov 01 09:37:05 +0000 2017,Dear @123644 I wish we could manage Lambdas using Docker and ECS registry 👍🏻,35121,
+35123,NikeSupport,False,Wed Nov 01 13:02:24 +0000 2017,"@123645 Hola, gracias por tu opinión, lo tomaremos como feedback para futuras actualizaciones. Saludos y sigue en marcha",35124,35125
+35124,123645,True,Wed Nov 01 13:56:45 +0000 2017,@NikeSupport  https://t.co/UpBhOZN0aB,,35123
+35125,123645,True,Wed Nov 01 07:12:56 +0000 2017,@NikeSupport zonas cardiacas en NTC en vivo?  Sería excelente... Para marcar ritmo en base a objetivos...,35123,
+35126,NikeSupport,False,Wed Nov 01 13:01:56 +0000 2017,"@123646 Vamos a ayudarte. Prueba a desisntala la App, limpia cache y cookies, resetea el teléfono y reinstala la App. ¿Funciona?",35127,35128
+35127,123646,True,Thu Nov 02 01:43:57 +0000 2017,@NikeSupport No y ahora se ha eliminado mi última carrera del día de hoy 😓,35129,35126
+35129,NikeSupport,False,Thu Nov 02 14:20:29 +0000 2017,@123646 ¿Podrias cambiar el idioma y region del telefono a Inglés?¿Funciona? Si es asi vuelvelo al castellano.,,35127
+35128,123646,True,Wed Nov 01 01:05:52 +0000 2017,@NikeSupport tengo activados los comentarios para el #Ritmo X #Km y #Distancia pero durante la carrera no me los da..🤷🏽‍♀️,35126,
+35130,NikeSupport,False,Wed Nov 01 13:01:01 +0000 2017,@123647 ¿Podrías asegurarte que  estás corriendo con el modo ahorro energía desactivado?,,35131
+35131,123647,True,Wed Nov 01 00:02:10 +0000 2017,@NikeSupport tengo problemas con el recorrido no me lo está indicando de forma correcta a veces y otras no lo reporta,35130,
+35132,NikeSupport,False,Wed Nov 01 12:59:56 +0000 2017,@123648 ¿Podrías asegurarte que  estás corriendo con el modo ahorro energía desactivado?,35133,35134
+35133,123648,True,Wed Nov 01 14:15:01 +0000 2017,@NikeSupport Así es...,,35132
+35134,123648,True,Tue Oct 31 23:24:27 +0000 2017,@NikeSupport por qué ya no puedo ver el recorrido en mi app? Antes se veía así https://t.co/hViTEsdqxk,35132,
+35135,AmazonHelp,False,Wed Nov 01 13:44:00 +0000 2017,"@123649 Lamento lo sucedido Pitu, puedes hacer la devolución del producto verificando esta información: https://t.co/phvyhlHRWI ^AZ",35136,35137
+35136,123649,True,Wed Nov 01 13:46:43 +0000 2017,"@AmazonHelp Gracias @AmazonHelp , se de sobra como se devuelven las cosas en @116928 . Pero enviar esto así no tiene nombre. 
+Todo se arregla con un: ""Lo siento, no volverá ocurrir"" https://t.co/7kpNj4eRvh",,35135
+35137,123649,True,Wed Nov 01 13:34:40 +0000 2017,@116928 @123650 Vosotros @116928 . https://t.co/6ptm8a1bFi,35135,35138
+35138,123649,True,Wed Nov 01 13:27:54 +0000 2017,"@116928 de verdad creéis que se puede enviar un producto en este estado? Y siendo para un bebé ya... #NoTodoVale 
+#AsiNo @123650 https://t.co/advmDYE29g","35139,35137",
+35140,AmazonHelp,False,Wed Nov 01 13:43:00 +0000 2017,@123651 Please don’t provide your order details as we consider them to be personal info. Our page is visible to public. ^SG(2/2),,35141
+35141,123651,True,Wed Nov 01 13:18:01 +0000 2017,"@115850 
+ORDER # 405-0563842-3521944.  When I ordered it, there was cashback of 10% on using icici card.  I did not get the cash back","35140,35142",
+35142,AmazonHelp,False,Wed Nov 01 13:42:31 +0000 2017,@123651 I'm sorry about the delay in cashback. Kindly connect with us here: https://t.co/vlvfJr4nN9 we'd like to help. (1/2),,35141
+35143,AmazonHelp,False,Wed Nov 01 13:41:31 +0000 2017,@123652 We don't have any announcement regarding it. Request you to please stay tuned to our website for updates. ^AM,,35144
+35144,123652,True,Wed Nov 01 13:36:13 +0000 2017,@119625 please release Grand Tour on the same date as the global release. Waiting for it here!,35143,
+35145,AmazonHelp,False,Wed Nov 01 13:41:31 +0000 2017,@123653 here: https://t.co/rS49hgaADF so that we can assist you accordingly. (2/2) ^MO,35146,35147
+35146,123653,True,Thu Nov 02 22:58:54 +0000 2017,@AmazonHelp I am still waiting for the product to be picked up and refund,35148,35145
+35148,AmazonHelp,False,Thu Nov 02 23:03:17 +0000 2017,@123653 Could you confirm if you've escalated this to our support team from the link provided earlier? ^SQ,35149,35146
+35149,123653,True,Fri Nov 03 09:27:21 +0000 2017,@AmazonHelp Yes many times since yesterday however am getting very little help and the return pick is getting rescheduled every time,35150,35148
+35150,AmazonHelp,False,Fri Nov 03 09:30:31 +0000 2017,@123653 We regret the inconvenience. Please fill in your details here: https://t.co/GIJyeYqKE0. We’ll look into it. ^SB,,35149
+35147,123653,True,Wed Nov 01 13:28:48 +0000 2017,@115850 This is quality of the grinder that was delivered just now.Broken grinder stone and scratched product all over.Mere refnd engh??? https://t.co/FyCq2DSjnE,"35145,35151",
+35151,AmazonHelp,False,Wed Nov 01 13:41:31 +0000 2017,@123653 Truly sorry about the experience. We certainly did not expect this to happen. Please contact us (1/2) ^MO,,35147
+35152,AmazonHelp,False,Wed Nov 01 13:41:00 +0000 2017,"@123654 Hi Stanley, we'd like to look into this for you. Please send us your details on this form: https://t.co/daqBYrjfiQ ^RS",,35153
+35153,123654,True,Sun Oct 29 13:46:23 +0000 2017,You want BBC Radio 1? Alexa serves up BBC Radio Guernsey. Radio 2 - still Guernsey. Radio 3? Ditto. Amazon has 5000 people working on Echo… https://t.co/uJf1w1tpYF,35152,
+35154,AmazonHelp,False,Wed Nov 01 13:40:32 +0000 2017,"@123655 Hi, sorry to hear there's been a delay. What's your parcel status: https://t.co/PCtircFm5C ^TS",35155,35156
+35155,123655,True,Wed Nov 01 13:43:20 +0000 2017,@AmazonHelp Supposed to arrive Nov 2nd or 3rd now and I need the package no later than tomorrow night,35157,35154
+35157,AmazonHelp,False,Wed Nov 01 13:46:00 +0000 2017,@123655 What was the original delivery date given in your order confirmation e-mail? ^MH,35158,35155
+35158,123655,True,Wed Nov 01 13:49:54 +0000 2017,"@AmazonHelp Yesterday, Oct 31",35159,35157
+35159,AmazonHelp,False,Wed Nov 01 13:53:01 +0000 2017,@123655 Please contact us via phone or chat here: https://t.co/hApLpMlfHN and we'll investigate this for you right away. ^RL,,35158
+35156,123655,True,Wed Nov 01 13:37:56 +0000 2017,First attempt at ordering an @115821 package to an Amazon Pickup Point and they are 3 days late on delivery. Why bother paying for prime?,35154,
+35160,AmazonHelp,False,Wed Nov 01 13:40:32 +0000 2017,@123656 we consider them to be personal info. Our page is visible to public. ^SG(3/3),,35161
+35161,123656,True,Wed Nov 01 13:17:46 +0000 2017,What happened to my order #402-7818801-0665933 it's not moving since 28/10/17 @115850,"35160,35162,35163",
+35164,AmazonHelp,False,Wed Nov 01 13:40:32 +0000 2017,"@123657 Sorry to hear that, please contact us here: https://t.co/rS49hgaADF so that we can assist you accordingly. ^SU",35165,35166
+35165,123657,True,Wed Nov 01 14:44:58 +0000 2017,"@AmazonHelp It was delivered on 15-Jul-2017,so no way of returning this.... full waste of money
+Bt plz deliver 
+Sennheiser CX 180 at asap!!",35167,35164
+35167,AmazonHelp,False,Wed Nov 01 14:52:30 +0000 2017,@123657 We shall be doing our best to meet the estimated delivery date. ^CB,,35165
+35166,123657,True,Wed Nov 01 13:29:22 +0000 2017,@115850 d worst product i bought frm Amazon.not working proprly https://t.co/cATOiFV4tP,35164,
+35162,AmazonHelp,False,Wed Nov 01 13:40:00 +0000 2017,@123656 missed the estimates mentioned here: https://t.co/pYHdlcj0Ot ? Please don’t provide your order details as (2/3),,35161
+35163,AmazonHelp,False,Wed Nov 01 13:39:31 +0000 2017,@123656 We ship the order as per the estimates mentioned while placing the order. Could you let us know if we've (1/3),,35161
+35168,AmazonHelp,False,Wed Nov 01 13:38:02 +0000 2017,"@123658 I'm sorry for any poor delivery experiences you've had. Without account details, can you tell us more about what's happened? ^RA",,35169
+35169,123658,True,Wed Nov 01 13:27:18 +0000 2017,"@115821, are you getting too big for great service? Amazon logistics is failing your company. Fed up with the lousy delivery service lately!",35168,
+35170,AmazonHelp,False,Wed Nov 01 13:38:00 +0000 2017,@123659 My apologies Andrew. Was any additional information provided? ^DC,35171,35172
+35171,123659,True,Wed Nov 01 13:40:25 +0000 2017,@AmazonHelp Just that the specialist team were investigating and this may take 48hrs (at time of email sent to me early hours of this morning).,35173,35170
+35173,AmazonHelp,False,Wed Nov 01 13:45:30 +0000 2017,@123659 I apologize for the troubling experience. Please let us know if you do not receive an email from us within 48 hours. ^MW,,35171
+35172,123659,True,Wed Nov 01 13:33:29 +0000 2017,"Ordered via @AmazonHelp, notified its been delivered. Get home, not delivered. Request them to investigate, their response.Salt in the wound https://t.co/AmxnePgcpF",35170,
+35174,AmazonHelp,False,Wed Nov 01 13:35:38 +0000 2017,@123660 So sorry for the poor experience! Please contact us here: https://t.co/hApLpMlfHN so we can look into this for you! ^AD,35175,35176
+35175,123660,True,Wed Nov 01 13:37:53 +0000 2017,"@AmazonHelp I've complained about this several times, and each time I get my $1.99 back, which really isn't the point.",,35174
+35176,123660,True,Wed Nov 01 13:30:25 +0000 2017,Maybe someone at @115821 can machine learn their way into telling someone at @117093 that bananas and cans don't go in the same bag?,35174,
+35177,AmazonHelp,False,Wed Nov 01 13:35:00 +0000 2017,@123661 That's sooo much better than the skirt we made! Please drop your details here for some accessories: https://t.co/tkLCr7DNil 😍 ^TS,35178,35179
+35178,123661,True,Wed Nov 01 13:47:17 +0000 2017,@AmazonHelp Done!,35180,35177
+35180,AmazonHelp,False,Wed Nov 01 13:58:00 +0000 2017,@123661 Thank you for the update. We received your information. ^CO,,35178
+35179,123661,True,Wed Nov 01 13:29:40 +0000 2017,@115821 my colleagues fashioned my packaging into a must have autumn accessory! What do you think? https://t.co/fVGBRwxZvC,35177,
+35181,AmazonHelp,False,Wed Nov 01 13:34:35 +0000 2017,@123662 失礼いたします。ご存知かと存じますが、当サイトからSMSでメールをお送りすることはございません。アマゾンの名をかたるフィッシング行為が増えているようです。どうぞお気を付けくださいませ。https://t.co/k4jy2iTq1Y  SM,35182,35183
+35182,123662,True,Wed Nov 01 13:51:40 +0000 2017,"@AmazonHelp 
+ご丁寧にありがとうございます。
+安心しました。",35184,35181
+35184,AmazonHelp,False,Wed Nov 01 14:00:00 +0000 2017,@123662 恐れ入ります、どうぞよろしくお願いいたします。リプライありがとうございました。　SM,,35182
+35183,123662,True,Wed Nov 01 13:32:14 +0000 2017,"アマゾンジャパン（株）
+ってところから SMS？きたんやけど
+なにこれ？って検索したら
+なんと 詐欺っぽい。
+電話なんか怪しすぎてしてないから
+安心してもいいんですよね…？",35181,
+35185,AmazonHelp,False,Wed Nov 01 13:33:31 +0000 2017,"@123663 Hello, Kate! We're here to help. I'm sorry for the troubles. Is this the one you are looking for? https://t.co/RhgiyQru2k ^AL",35186,35187
+35186,123663,True,Wed Nov 01 13:41:04 +0000 2017,@AmazonHelp I don’t think so - my understanding it was a deal for prime members and sold by Amazon and not 3rd party vendors. See email I received 👇🏼 https://t.co/lMQZ5mOqew,35188,35185
+35188,AmazonHelp,False,Wed Nov 01 13:49:25 +0000 2017,@123663 The e-mail states the deal starts at a specific time for the release of the item. Pls let us know if it isn't available then! ^TG,35189,35186
+35189,123663,True,Thu Nov 02 02:12:01 +0000 2017,@AmazonHelp It wasn’t! That I could see!,35190,35188
+35190,AmazonHelp,False,Thu Nov 02 02:30:27 +0000 2017,@123663 I apologize for any inconvenience. I hope you will be able to take advantage of our future promotions. ^EB,,35189
+35187,123663,True,Wed Nov 01 13:30:25 +0000 2017,Signed up for @116090 Prime to buy a SNES today. Can’t find it! @AmazonHelp Is it there or am I now a person who can’t use websites? 🙈,35185,
+35139,AmazonHelp,False,Wed Nov 01 13:31:31 +0000 2017,"@123649 Hola, sentimos esta experiencia. El producto ¿es vendido y gestionado por Amazon o es vendido por un vendedor externo? ^DA",,35138
+35191,AskCiti,False,Wed Nov 22 18:47:26 +0000 2017,@123664 I'm sorry to hear of the issues with this dispute and I want to escalate this to my billing disputes partners. Can you click/direct message only your phone number? They will call in 1-2 business days. Do not send account numbers/PINs over Twitter. Thank you! ^KC https://t.co/gvC4jAOA9c,35192,35193
+35192,123664,True,Mon Nov 27 15:22:01 +0000 2017,@AskCiti Why did you have CSR contact Me? This was still a waste of my time. I will be cancelling this card.,,35191
+35193,123664,True,Wed Nov 22 18:28:25 +0000 2017,"$850 lesson. Don’t use Costco @117176 Visa for Black Friday shopping. Weak dispute/credit card protections. Ordered 2 ebikes, one using each card. never received bikes. Still fighting charges at @117176 . @116988 dispute one and done. Use @116988 ! #100.","35191,35194",
+35195,AmazonHelp,False,Wed Nov 01 13:31:00 +0000 2017,"@123665 Bonjour, je suis navrée pour cela. Pour vérifier cela, veuillez remplir le formulaire suivant : https://t.co/HtUowg2UGX ^SB",35196,35197
+35196,123665,True,Sat Nov 04 12:17:55 +0000 2017,"@AmazonHelp Bonjour, il faudrait aussi mettre le livre en ""Football"" plutôt que ""Hockey"". La première requête a été exhaussée mais pas celle-ci. Merci.",35198,35195
+35198,AmazonHelp,False,Sat Nov 04 12:25:00 +0000 2017,@123665 Je vais transmettre votre requête à la personne en charge de votre dossier. ^SM,35199,35196
+35199,123665,True,Mon Nov 06 23:00:23 +0000 2017,"@AmazonHelp N'hésitez pas à insister, cela fait désormais plusieurs jours et c'est très pénalisant.",35200,35198
+35200,AmazonHelp,False,Mon Nov 06 23:09:00 +0000 2017,@123665 Vous pouvez compter sur moi et merci pour votre patience et votre compréhension.,35201,35199
+35201,123665,True,Wed Nov 08 11:09:40 +0000 2017,@AmazonHelp Toujours pas (alors qu'on est théoriquement la meilleure vente de la catégorie foot). Je ne sais plus comment m'y prendre pour vous demander de changer de catégorie.,35202,35200
+35202,AmazonHelp,False,Wed Nov 08 11:32:31 +0000 2017,@123665 Je suis désolé pour cette situation et comprends votre commentaire. J'ai relancé le service pour changé cela rapidement.,35203,35201
+35203,123665,True,Thu Nov 09 18:51:34 +0000 2017,"@AmazonHelp Bonjour, voici mon point quotidien pour signaler que nous sommes toujours dans le top 300 (et en promo radio quotidienne) et pas dans la bonne catégorie. D'autant plus frustrant que vu de l'extérieur, ça ressemble à un truc solvable en 30 secondes.",35204,35202
+35204,AmazonHelp,False,Thu Nov 09 19:06:00 +0000 2017,"@123665 Bonjour, nous avons bien remonté cela, notre service en charge est en train de vérifier votre dossier et reviendra vers vous. 
+^KE",35205,35203
+35205,123665,True,Sat Nov 11 12:54:34 +0000 2017,@AmazonHelp Le dossier a l'air compliqué pour un livre qui a le nom du sport en guise de titre. N'y a-t-il pas un autre moyen de contacter le service qui gère ça ? La couverture avait été ajoutée en quelques heures donc 10 jours pour changer une catégorie...,"35206,35207",35204
+35206,123666,True,Sat Nov 11 13:16:57 +0000 2017,"@123665 @AmazonHelp Entre Fourcade, @89191, le code Rousseau et votre livre : superbe classement ""Hockey"" !",,35205
+35207,AmazonHelp,False,Sat Nov 11 13:13:00 +0000 2017,"@123665 Vous pouvez contacter le service en question, en envoyant un e-mail au service client via le lien suivant : https://t.co/qzuu0dgDXz ^ME",,35205
+35197,123665,True,Wed Nov 01 13:10:31 +0000 2017,"@AmazonHelp Bonjour. On sort un livre demain : https://t.co/HVj0BLvFQZ
+Il n'y a toujours pas la couv (et mon vrai nom). Comment changer ?",35195,
+35208,AppleSupport,False,Wed Nov 01 13:44:00 +0000 2017,@123667 You're in the right place. Let's meet up via DM so we can dig in to this in greater detail. https://t.co/GDrqU22YpT,,35209
+35209,123667,True,Wed Nov 01 13:37:22 +0000 2017,"I don’t know if it’s either my #iPhone 6 or The new #iOS update I installed yesterday but, my battery had been draining out! #Apple @115858",35208,
+35210,AppleSupport,False,Wed Nov 01 13:43:25 +0000 2017,@123668 That should not be happening. Let us help. DM us more details about this. https://t.co/GDrqU22YpT,,35211
+35211,123668,True,Wed Nov 01 13:30:49 +0000 2017,"@AppleSupport why is the new update savaging my battery please, 100% to 1% in the space of an hour, get ya shit together",35210,
+35212,AppleSupport,False,Wed Nov 01 13:43:25 +0000 2017,@123669 You'll find more info on compatibilty with your AIrPods at the following link: https://t.co/Kd8IAdG7nA,,35213
+35213,123669,True,Wed Nov 01 10:08:24 +0000 2017,@AppleSupport Hola/Hello! I can use the AirPods witch Bluetooth audio transmisor? Any model? This no... https://t.co/ULMExUlaoX,35212,
+35214,AppleSupport,False,Wed Nov 01 13:43:25 +0000 2017,"@123670 We're more than happy to take a look. DM us with more details, and we'll pick back up there. https://t.co/GDrqU22YpT",,35215
+35215,123670,True,Wed Nov 01 13:22:33 +0000 2017,@AppleSupport Installed ios11.1 and now my phone doesn’t recognize capital I’s,35214,
+35216,AppleSupport,False,Wed Nov 01 13:43:25 +0000 2017,@123671 We'd like to look into this with you. Can you tell us which device and OS version you're using?,35217,35218
+35217,123671,True,Wed Nov 01 13:44:07 +0000 2017,@AppleSupport 7 Plus and most recent,35219,35216
+35219,AppleSupport,False,Wed Nov 01 13:51:32 +0000 2017,@123671 Thank you. Please send us a DM and tell us the specific version number you see under Settings &gt; General &gt; About &gt; Version. https://t.co/GDrqU22YpT,,35217
+35218,123671,True,Wed Nov 01 13:38:20 +0000 2017,Is my iPhone the only one doing this ?  @115858 @AppleSupport https://t.co/vbjmrw7IaE,"35216,35220,35221",
+35222,AppleSupport,False,Wed Nov 01 13:43:00 +0000 2017,"@123672 You're right, that email is not from us. This link will help identify phishing and how to report it: https://t.co/LNMCdqt6fD",,35223
+35223,123672,True,Wed Nov 01 13:19:41 +0000 2017,"#phishing 
+Fake, fake, fake.
+This adress is trying to take my @115858 account
+‼️Check adress mail sender https://t.co/6ifjy91pM7",35222,
+35224,AppleSupport,False,Wed Nov 01 13:42:28 +0000 2017,@123673 We'd like to assist you with your iPad too. Join us in DM at the link below to get started. https://t.co/GDrqU22YpT,,35225
+35225,123673,True,Wed Nov 01 13:34:20 +0000 2017,@123674 @115858 I’m also having issues with my iPad. The battery has suddenly decided to lose 75% from a full charge,35224,35226
+35226,123674,True,Wed Nov 01 09:04:13 +0000 2017,The amount of issues with my iPhone now since update is a joke. @115858 clearly making old handsets obsolete on purpose.,"35227,35228,35225",
+35229,AppleSupport,False,Wed Nov 01 13:42:28 +0000 2017,"@123675 So we have a good starting place, can you tell us which device and OS version you're using?",35230,35231
+35230,123675,True,Wed Nov 01 13:43:17 +0000 2017,@AppleSupport I phone 6s and iOS 11,35232,35229
+35232,AppleSupport,False,Wed Nov 01 13:58:32 +0000 2017,@123675 Which iOS 11 version are you running? You can check by going to Settings &gt; General &gt; About &gt; Version.,,35230
+35231,123675,True,Wed Nov 01 13:37:22 +0000 2017,@AppleSupport So I have to shut my phone down then turn it back on to get it back and it just keeps happening,35229,35233
+35233,123675,True,Wed Nov 01 13:36:47 +0000 2017,@AppleSupport Ye every now and then my keyboard keeps disappearing and doesn’t come back up can you help please?,35231,35234
+35234,AppleSupport,False,Wed Nov 01 13:36:00 +0000 2017,@123675 We'd be happy to see how we can help. What's going on?,35233,35235
+35235,123675,True,Wed Nov 01 13:09:15 +0000 2017,@AppleSupport can you help me yo you literally replying to everyone else except me 👋🏼 https://t.co/AG3KoDLJ7e,35234,
+35236,AppleSupport,False,Wed Nov 01 13:40:27 +0000 2017,@118188 Thanks for reaching out to us. We are always happy to help. Is this the only playlist that this happens with?,35237,35238
+35237,118188,True,Wed Nov 01 14:22:43 +0000 2017,"@AppleSupport the thumbnail is re-fetched every time, and if you keep going from playlist#1 to playlist#2 to playlist#1 to playlist#2 it'll always refetch https://t.co/jB31IVu5pD",35239,35236
+35239,AppleSupport,False,Wed Nov 01 15:08:32 +0000 2017,@118188 Thanks for following up. Send us a DM so we can talk about this with you there. https://t.co/GDrqU22YpT,,35237
+35238,118188,True,Wed Nov 01 13:17:52 +0000 2017,hey @AppleSupport why does @115948 keep re-fetching the thumbnail when it obviously hasn't changed? #appleQA #ChiefQA #Apple https://t.co/Ipj2L9H8CJ,35236,
+35240,AppleSupport,False,Wed Nov 01 13:40:00 +0000 2017,@123676 Thanks for reaching out. DM which iPhone and specific iOS version you are using to get started. https://t.co/GDrqU22YpT,,35241
+35241,123676,True,Wed Nov 01 13:22:14 +0000 2017,For those that have been wondering. @AppleSupport why are y’all punishing us for using pronouns!? https://t.co/rwpj6LqUce,35240,
+35242,AppleSupport,False,Wed Nov 01 13:39:44 +0000 2017,"@123677 If you're still having troubles, be sure to follow up with our team that helps with GarageBand here:https://t.co/IBIY3vMgPj",,35243
+35243,123677,True,Wed Nov 01 09:29:06 +0000 2017,@AppleSupport @123678 @AppleSupport oh dear @123678 still not co-oping with iCloud in ios11.1 really really poor show. #garageband,"35242,35244",35245
+35245,123677,True,Wed Nov 01 09:28:12 +0000 2017,@AppleSupport oh dear @123678 still not co-oping with iCloud in ios11.1 really really poor show.,35243,
+35246,AppleSupport,False,Wed Nov 01 13:39:42 +0000 2017,"@123679 We're here to help. To start, what device model and software version are you currently using?",,35247
+35247,123679,True,Wed Nov 01 10:13:13 +0000 2017,"@AppleSupport @115858 guys, I miss Steve. What the hell is this? https://t.co/Tv5HmkrUrb",35246,
+35248,AppleSupport,False,Wed Nov 01 13:39:42 +0000 2017,@123680 We're here to help. DM us and tell us the device you have and the exact version of iOS you're running. https://t.co/GDrqU22YpT,35249,35250
+35249,123681,True,Wed Nov 01 14:56:59 +0000 2017,@AppleSupport @123680 help me too lol,,35248
+35250,123680,True,Wed Nov 01 13:29:04 +0000 2017,"Everytime I type the letter ""I"" this pops up. #PleaseFixThis @115858 https://t.co/bhB5snCHXr","35248,35251",
+35252,AppleSupport,False,Wed Nov 01 13:39:12 +0000 2017,"@123682 There's an update to 11.1 now, let's go ahead and do that now: https://t.co/80YRnjDFDk",,35253
+35253,123682,True,Wed Nov 01 09:34:20 +0000 2017,@AppleSupport My battery life is a drama for me I work and it turns to 100% yo 80% in five minutes (ios11.0.3) 😫😫😫 Help plz 😰,35252,
+35254,AppleSupport,False,Wed Nov 01 13:39:00 +0000 2017,@123683 DM the country or region where you are currently located to continue. https://t.co/GDrqU22YpT,,35255
+35255,123683,True,Wed Nov 01 13:19:22 +0000 2017,"@AppleSupport Yes, I able to :)",35254,35256
+35256,AppleSupport,False,Tue Oct 31 14:38:31 +0000 2017,@123683 Are you able to connect when using Wi-Fi? Are you able to make and take calls?,35255,35257
+35257,123683,True,Tue Oct 31 14:05:21 +0000 2017,"@AppleSupport If I open Safari, for example, a message appears which says that there is no internet connection.",35256,35258
+35258,AppleSupport,False,Tue Oct 31 13:49:00 +0000 2017,@123683 We can help you. Could you tell us what happens when you try to connect to the Internet? Do you get an error message?,35257,35259
+35259,123683,True,Tue Oct 31 11:49:26 +0000 2017,"@AppleSupport Hi! Although I have full coverage, even with LTE, on my iPhone, I can’t connect to the internet. Can you help me?",35258,
+35260,AppleSupport,False,Wed Nov 01 13:38:52 +0000 2017,"@123684 Hey there! Depending on your bank, it can take 3-5 business days to reflect in your account. We hope this helps.",35261,35262
+35261,123684,True,Wed Nov 01 13:50:42 +0000 2017,@AppleSupport Thank you for letting me know.,35263,35260
+35263,AppleSupport,False,Wed Nov 01 13:55:00 +0000 2017,@123684 No problem! Feel free to reach out to us here if you need help in the future.,,35261
+35262,123684,True,Wed Nov 01 13:16:52 +0000 2017,"@AppleSupport I got refunded for an in app purchase on Monday &amp; got a conformation email, but there’s no sign of it in my account yet...",35260,
+35264,AppleSupport,False,Wed Nov 01 13:38:25 +0000 2017,"@123685 It's important for your iPhone to charge reliably. To start, check out these steps: https://t.co/uqxquyfdn0",,35265
+35265,123685,True,Wed Nov 01 13:30:18 +0000 2017,@AppleSupport why is my iphone not charging? i don’t got time for this shit dawg,35264,
+35266,AppleSupport,False,Wed Nov 01 13:38:25 +0000 2017,@123686 We'd like to help out with this. Join us in DM so that we can gather more details about your device. https://t.co/GDrqU22YpT,35267,35268
+35267,123686,True,Thu Nov 09 10:49:47 +0000 2017,@AppleSupport How can I go back to the previous ios version? This one sucks for real... still keeps being stuck 😫🤢,35269,35266
+35269,AppleSupport,False,Thu Nov 09 15:44:42 +0000 2017,@123686 Going back to a previous iOS version is not possible. What we can do is perform steps that can help us overcome these challenges. Rest assured we'll do our best to help. Send us a Direct Mesage to continue. https://t.co/GDrqU22YpT,,35267
+35268,123686,True,Wed Nov 01 09:16:26 +0000 2017,"@AppleSupport iPhone 7 and I updated to the newest ios but the phone started crashing and the screen freezing, also powering off",35266,35270
+35270,AppleSupport,False,Tue Oct 31 21:24:00 +0000 2017,@123686 We'd love to help. Which iPhone model are you using? DM the answer below. https://t.co/GDrqU22YpT,35268,35271
+35271,123686,True,Tue Oct 31 21:12:27 +0000 2017,@AppleSupport what the hell is wrong with ur new update?? My phone keeps getting stuck and powering off (unresponsive). Get ur shit together,35270,
+35272,AppleSupport,False,Wed Nov 01 13:38:25 +0000 2017,@123687 We want to help get your iPhone working properly. Which exact iOS version and iPhone are you using?,35273,35274
+35273,123687,True,Wed Nov 01 14:14:06 +0000 2017,"@AppleSupport iPhone 8, iOS 11",35275,35272
+35275,AppleSupport,False,Wed Nov 01 15:12:00 +0000 2017,@123687 Thanks.  Please take look under Settings &gt; General &gt; About and let us know the exact iOS version.,35276,35273
+35276,123687,True,Wed Nov 01 15:13:08 +0000 2017,@AppleSupport  https://t.co/yvu10fymce,35277,35275
+35277,AppleSupport,False,Wed Nov 01 15:44:31 +0000 2017,@123687 Thank you. Please check to see if you have an update available under Settings &gt; General &gt; Software Update.,,35276
+35274,123687,True,Wed Nov 01 13:12:01 +0000 2017,@AppleSupport WHY will my phone not stop locking itself when I’m in the middle of doing things???,35272,
+35278,AppleSupport,False,Wed Nov 01 13:38:25 +0000 2017,@123688 We want to look into this with you. Send us a DM letting us know more about what happened. https://t.co/GDrqU22YpT,,35279
+35279,123688,True,Wed Nov 01 13:28:37 +0000 2017,"Got burned and scarred with my magsafe charger and Apple didn't give a shit, so I'm switching to Microsoft. @AppleSupport @115858 https://t.co/GivRMgiSWk",35278,
+35280,AppleSupport,False,Wed Nov 01 13:38:24 +0000 2017,@123689 We're here for you. Does this happen when Do Not Disturb is enabled? Do newly created alarms have the same issue?,,35281
+35281,123689,True,Wed Nov 01 10:10:04 +0000 2017,@AppleSupport why is my alarm sound not working when on silent and volume on lock screen not working after the update??,35280,
+35282,AppleSupport,False,Wed Nov 01 13:37:26 +0000 2017,@123690 We'd be happy to see how we can help. Which device and OS version are you experiencing this on?,35283,35284
+35283,123690,True,Wed Nov 01 14:08:11 +0000 2017,"@AppleSupport 7 Plus, iOS 11.1",35285,35282
+35285,AppleSupport,False,Wed Nov 01 14:11:29 +0000 2017,"@123690 DM us your country, and we'll continue working there. https://t.co/GDrqU22YpT",,35283
+35284,123690,True,Wed Nov 01 10:19:17 +0000 2017,@AppleSupport These question mark boxes are about to make me mad lol please help,35282,
+35286,AppleSupport,False,Wed Nov 01 13:37:26 +0000 2017,@123691 We want to be sure you receive notifications as you'd expect. Let us know if this helps: https://t.co/vXqj8bZGU7,"35287,35288",35289
+35287,123691,True,Wed Nov 01 13:41:27 +0000 2017,@AppleSupport Phone was 😴 Apple Watch ⌚️ 👌. I was wearing during workout this a.m.  usually get all Twitter notifications,35290,35286
+35290,AppleSupport,False,Wed Nov 01 13:48:36 +0000 2017,@123691 Thanks for clarifying this for us. Have you restarted both devices since you noticed this behavior?,35291,35287
+35291,123691,True,Wed Nov 01 13:49:05 +0000 2017,@AppleSupport I will. Have not😉,35292,35290
+35292,AppleSupport,False,Wed Nov 01 13:55:30 +0000 2017,@123691 Sounds good! Do you have any app updates available? Let us know if it persists once you restart.,35293,35291
+35293,123691,True,Wed Nov 01 14:00:33 +0000 2017,@AppleSupport All apps up to date. Not getting notifications on ⌚️ after shutting down both. Maybe Twitter’s app needs to catch up to ⌚️,35294,35292
+35294,AppleSupport,False,Wed Nov 01 14:03:32 +0000 2017,"@123691 OK, we can definitely look into this further with you. Go ahead and send us a DM and we'll take it from there. https://t.co/GDrqU22YpT",,35293
+35288,123691,True,Wed Nov 01 13:48:47 +0000 2017,"@AppleSupport A thought. Since I was getting notified before updates, maybe Twitter need update to support ⌚️",,35286
+35289,123691,True,Wed Nov 01 13:08:55 +0000 2017,@AppleSupport did update on 📱 n ⌚️ result? No more Twitter notifications😱 Yup mirrors my 📱 #itsalwayssomething,"35286,35295",
+35296,AppleSupport,False,Wed Nov 01 13:37:26 +0000 2017,"@123692 We're here for you. Send us a DM, and we'll take a closer look at updating your macOS. https://t.co/GDrqU22YpT",35297,35298
+35297,123692,True,Wed Nov 01 14:02:43 +0000 2017,"@AppleSupport Thanks for the prompt reply. Scary error, seemingly unrelated to the actual issue: I think a bit of Disk Utility love will get me there.",35299,35296
+35299,AppleSupport,False,Wed Nov 01 14:06:58 +0000 2017,@123692 OK. Feel free to send us a DM if you still have questions.,,35297
+35298,123692,True,Wed Nov 01 13:14:48 +0000 2017,"Yay for the rock solid @115858 update process. Such upgrade, much Sierra. WTF is with firmware verification errors on a working MacBook Pro? https://t.co/GKCY32Z8Ob",35296,
+35300,AppleSupport,False,Wed Nov 01 13:37:00 +0000 2017,@123693 We'll be happy to look into this. DM us which iPhone you're using and we'll go from there. https://t.co/GDrqU22YpT,35301,35302
+35301,123693,True,Wed Nov 01 13:55:14 +0000 2017,"@AppleSupport Thanks, will do",,35300
+35302,123693,True,Wed Nov 01 12:49:10 +0000 2017,new iOS 11.1 bug? @AppleSupport https://t.co/EPcqhcyxPd,"35300,35303,35304",
+35305,AppleSupport,False,Wed Nov 01 13:36:38 +0000 2017,@123694 DM is a Direct Message. Click the link here: https://t.co/GDrqU22YpT,,35306
+35306,123694,True,Wed Nov 01 13:16:08 +0000 2017,"@AppleSupport Sorry, I don’t know what is DM? Can u please help me out.",35305,35307
+35307,AppleSupport,False,Wed Nov 01 12:58:31 +0000 2017,"@123694 Good morning, Sai! We're sorry that the update isn't working out. Send us a DM, and tell us why. We'd love to sort it out. https://t.co/GDrqU22YpT",35306,35308
+35308,123694,True,Wed Nov 01 12:49:46 +0000 2017,"@116333 Hi,can you please update iOS software to 11.2 because I am facing a lots of issues with the latest version iOS 10.1",35307,
+35309,AppleSupport,False,Wed Nov 01 13:36:36 +0000 2017,@123695 Hi. We'd like to help. DM us and tell us the exact version of iOS you're running on your device. https://t.co/GDrqU22YpT,35310,35311
+35310,123695,True,Wed Nov 01 13:57:21 +0000 2017,@AppleSupport DM’ed you,,35309
+35311,123695,True,Wed Nov 01 13:17:22 +0000 2017,This new @115858 update sucks! I’m not getting any texts in group chats and it’s terribly slow!,"35309,35312",
+35313,AppleSupport,False,Wed Nov 01 13:36:00 +0000 2017,@123696 Thanks for reaching out. DM which iPhone and specific iOS version you are using to get started. https://t.co/GDrqU22YpT,,35314
+35314,123696,True,Wed Nov 01 10:18:45 +0000 2017,"@AppleSupport why does the podcast app freeze up and not work, constantly?",35313,
+35315,AppleSupport,False,Wed Nov 01 13:35:30 +0000 2017,@123697 We're here for you. Tell us what's happening with your iPhone 7 Plus.,35316,35317
+35316,123697,True,Wed Nov 01 13:36:06 +0000 2017,@AppleSupport please check your DMs,35318,35315
+35318,AppleSupport,False,Wed Nov 01 13:53:26 +0000 2017,@123697 We've received your DM and will reply to you there shortly. https://t.co/GDrqU22YpT,,35316
+35317,123697,True,Wed Nov 01 13:16:13 +0000 2017,hi @AppleSupport - there’s a bug with my iPhone 7 Plus! SOS - send help. 🆘📱🤕,35315,
+35319,AppleSupport,False,Wed Nov 01 13:35:02 +0000 2017,@123698 We're here for you. Let's take a closer look at this issue together in DM. https://t.co/GDrqU22YpT,,35320
+35320,123698,True,Wed Nov 01 10:11:08 +0000 2017,@AppleSupport after updating to iOS 11.0.3 my home screen turns black when on a call. What’s the fix? Cust care not helping.,35319,
+35321,AppleSupport,False,Wed Nov 01 13:35:00 +0000 2017,@123699 We can help. This looks like a phishing attempt. See how to handle and report these here: https://t.co/6Ye6EtSytB,35322,35323
+35322,123699,True,Wed Nov 01 16:26:25 +0000 2017,@AppleSupport just done that 👍,35324,35321
+35324,AppleSupport,False,Wed Nov 01 17:06:30 +0000 2017,"@123699 Perfect, thanks. Be sure to reach out if you need us again. Take care.",,35322
+35323,123699,True,Wed Nov 01 09:18:32 +0000 2017,@AppleSupport suspect fraud for you to look into #fraud #crime #dontfallforit https://t.co/hbQ7PGl3bV,35321,
+35325,AppleSupport,False,Wed Nov 01 13:34:38 +0000 2017,@123700 We've received your DM and will contiue with you from there. Keep an eye out for our response.,,35326
+35326,123700,True,Wed Nov 01 09:49:47 +0000 2017,@123701 Well if you find out how to resolve it please let me know 😩 @AppleSupport can you help us ..... no I know I’ll stick with apple haha,"35327,35325",35328
+35328,123701,True,Wed Nov 01 09:33:57 +0000 2017,"@123700 Mine just goes onto a black screen with the restart sign then just locks, haha you still wont change from a Iphone though Lindsey will you",35326,35329
+35329,123700,True,Wed Nov 01 09:32:05 +0000 2017,@123701 That’s exactly what happens to mine :( they’re legit just designed to last 2 years it’s bs,35328,35330
+35330,123701,True,Tue Oct 31 23:33:40 +0000 2017,@123700 Mines doing the same keeps looking like its gonna restart then just freezing and locking like 3/4 times a day 😤,35329,35331
+35331,123700,True,Tue Oct 31 19:11:18 +0000 2017,My iPhone is completely fkd keeps freezing and restarting anyone know any quick fixes 😩,35330,
+35332,AppleSupport,False,Wed Nov 01 13:33:05 +0000 2017,@123702 Hello! You'll want to work with our Enterprise support team on this. You can reach them through this link: https://t.co/IBIY3vMgPj,,35333
+35333,123702,True,Wed Nov 01 08:37:51 +0000 2017,"Hello,i have a question but i'm not sure is that possible, we have 150 ipads and we use apple configurator 2 for install apps to devices. First we connect devices to imac then we install with app configurator, can we install apps without connect to imac ?@AppleSupport #apple",35332,
+35228,AppleSupport,False,Wed Nov 01 13:33:00 +0000 2017,@123674 We want to help with any issues you're experiencing. Please let us know in DM what's going on with your iPhone. https://t.co/GDrqU22YpT,,35226
+35334,AppleSupport,False,Wed Nov 01 13:32:00 +0000 2017,"@123703 We'd be happy to look into this display issue with you. To start, can you tell us which Apple Watch you're using?",35335,35336
+35335,123703,True,Wed Nov 01 13:46:58 +0000 2017,@AppleSupport Series 3 LTE,35337,35334
+35337,AppleSupport,False,Wed Nov 01 13:53:26 +0000 2017,@123703 Which iPhone and iOS version are you using on the paired iPhone?,35338,35335
+35338,123703,True,Wed Nov 01 14:05:16 +0000 2017,@AppleSupport 6s plus iOS 11.03,35339,35337
+35339,AppleSupport,False,Wed Nov 01 14:15:00 +0000 2017,@123703 Do you notice this display issue with any other apps?,35340,35338
+35340,123703,True,Wed Nov 01 14:16:16 +0000 2017,@AppleSupport Only twitter currently,35341,35339
+35341,AppleSupport,False,Wed Nov 01 15:13:27 +0000 2017,@123703 Thanks. Let's start by updating both devices to see if the issues continues. This can help: https://t.co/80YRnjDFDk,,35340
+35336,123703,True,Wed Nov 01 09:28:22 +0000 2017,@AppleSupport @TwitterSupport I thought the issue with icons not displaying correctly was a bug fix for watchOS 4.1? #AppleWatch https://t.co/r8h9zMExx7,35334,
+35342,AppleSupport,False,Wed Nov 01 13:31:28 +0000 2017,"@123704 We're happy to help out with your sync issues. To get started, let us know which version of Windows and iTunes you have installed.",35343,35344
+35343,123704,True,Wed Nov 01 14:36:52 +0000 2017,"@AppleSupport Thanks for getting back to me. I have Windows 10 &amp; the latest version of iTunes, which updated this morning just before I did the sync.",35345,35342
+35345,AppleSupport,False,Wed Nov 01 15:18:02 +0000 2017,@123704 Thanks for letting us know. Check out this article for troubleshooting: https://t.co/czNgyf4Rgl DM us if the issue persists. https://t.co/GDrqU22YpT,,35343
+35344,123704,True,Wed Nov 01 10:05:33 +0000 2017,"Dear @AppleSupport I have an iPhone 7 &amp; iTunes, both genuine. So why do I always get this message when I sync? Hope you can help. Thanks. https://t.co/QgJ14liJDw",35342,
+35346,AppleSupport,False,Wed Nov 01 13:29:52 +0000 2017,@123705 Let's look into what's happening together. Send us a DM telling us the country you're located in to begin. https://t.co/GDrqU22YpT,,35347
+35347,123705,True,Wed Nov 01 10:01:36 +0000 2017,"@AppleSupport my iphone 6s is rendered two 2 hours. Drained battery, killed all non used apps and still two hours. #newiosblows",35346,
+35348,Uber_Support,False,Wed Nov 01 13:44:16 +0000 2017,@116113 We were able to follow up with you via DM. Please get back to us there if you have any questions.,35349,35350
+35349,116113,True,Wed Nov 01 13:49:56 +0000 2017,@Uber_Support i have twice,,35348
+35350,116113,True,Wed Nov 01 13:37:38 +0000 2017,@115873 beware uber defends there crazy drivers AFTER they email me with credits ?? geeze i'm trying to move on with my day !!,35348,
+35351,Uber_Support,False,Wed Nov 01 13:44:02 +0000 2017,@123706 Here to help! Send us a note at https://t.co/e8HVorX5rh so our team can connect right away.,,35352
+35352,123706,True,Wed Nov 01 13:42:08 +0000 2017,@Uber_Support it's the morning and you give me a Uber driver who took 30 min to get to me. I'm so fucking late to school,35351,
+35353,Uber_Support,False,Wed Nov 01 13:44:02 +0000 2017,@123707 We're here to help! Please send us a note here; https://t.co/kGIXas5Cxg so our team can assist.,,35354
+35354,123707,True,Wed Nov 01 13:39:37 +0000 2017,"@Uber_Support Dear uber support team , some one has hacked my uber account and debited my uber account of sgd 563.00. Request action",35353,
+35355,Uber_Support,False,Wed Nov 01 13:43:50 +0000 2017,"@123708 Happy to help, Srinu! Can you DM us your email address associated with your Uber account so we can follow up?",,35356
+35356,123708,True,Wed Nov 01 13:40:18 +0000 2017,@115873 @Uber_Support am trying to  explaining the issue with customer service along with the screenshot but they seem to not get it. Pls help,35355,
+35357,Uber_Support,False,Wed Nov 01 13:41:46 +0000 2017,@123709 Here to help! Send us a note at https://t.co/OWBkgXcbMl so our team can connect right away.,35358,35359
+35358,123709,True,Wed Nov 01 13:43:48 +0000 2017,"@Uber_Support Raised a complaint first thing this morning, email address on the account is __email__",35360,35357
+35360,Uber_Support,False,Wed Nov 01 13:46:50 +0000 2017,@123709 We apologize for the trouble! We're currently reviewing your email and will connect right away.,35361,35358
+35361,123709,True,Wed Nov 01 13:47:18 +0000 2017,@Uber_Support Cheers,,35360
+35359,123709,True,Wed Nov 01 13:37:17 +0000 2017,Hi @115877 - had to leave my own birthday party to collect a cold food order from the restaurant last night. Thanks!,35357,
+35362,Uber_Support,False,Wed Nov 01 13:41:13 +0000 2017,@123710 Happy to help! Send us a message here; https://t.co/balq3Eyso6 and we'd be happy to take a look.,,35363
+35363,123710,True,Wed Nov 01 12:50:15 +0000 2017,@Uber_Support I wana change my uber profile from Australia to Malaysia.,35362,
+35364,Uber_Support,False,Wed Nov 01 13:36:43 +0000 2017,@123711 Sorry for the trouble! Contact us via https://t.co/dInR3racif so we can connect right away.,,35365
+35365,123711,True,Wed Nov 01 13:32:42 +0000 2017,@Uber_Support Ive been charged money from you from my bank I havent booked a journey in ages and theres no journey for this amount on my app,35364,
+35366,Uber_Support,False,Wed Nov 01 13:31:31 +0000 2017,@123712 Uber support here! Please DM us with the details of your inquiry and we'll be happy to follow up.  https://t.co/sd7yH5jmbJ,,35367
+35367,123712,True,Wed Nov 01 13:29:08 +0000 2017,@123713 Hi is this uber eats?,35366,35368
+35368,123713,True,Wed Nov 01 12:14:22 +0000 2017,bahala kayo basta eto all mineeeeee❤️ https://t.co/3lapPDh310,35367,
+35369,Uber_Support,False,Wed Nov 01 13:29:38 +0000 2017,"@119220 We're here to help! Send us a note here, https://t.co/tv4psVy8sr and so our team will assist.",,35370
+35370,119220,True,Wed Nov 01 13:22:37 +0000 2017,@Uber_Support I am having issues with the sign up process It has been 12 days since adding my licence and reges and this it taking very long,35369,
+35371,Tesco,False,Wed Nov 01 13:44:13 +0000 2017,"@123714 Hi Jude, we have had a few customers say the same thing, so the shopping list will be coming back in the near future. 1/2",,35372
+35372,123714,True,Wed Nov 01 12:22:19 +0000 2017,@Tesco When will the Tesco tuna 400g cans be back in stock? It's annoying opening 4 cans for a tuna pasta bake &amp; environmentally unfriendly.,"35371,35373",
+35374,Tesco,False,Wed Nov 01 13:37:13 +0000 2017,"@123715 Hi Vicki, I've spoken to the Chesterfield store and they've told me for diesel it's 118.9 per litre. Thanks - Marian",,35375
+35375,123715,True,Wed Nov 01 10:59:00 +0000 2017,"@Tesco Hello, what are today's diesel prices at Tesco fuel stations (particularly the Chesterfield one) please?",35374,
+35376,Tesco,False,Wed Nov 01 13:35:43 +0000 2017,"@123716 Hi, Ruthie. I'm sorry the bottles arrived damaged, please could you DM your full name, address and email address? Thanks - Terri",35377,35378
+35377,123716,True,Wed Nov 01 13:57:23 +0000 2017,"@Tesco Thank you, have just done so.",,35376
+35378,123716,True,Wed Nov 01 09:59:14 +0000 2017,@Tesco Hi - I bought these in an online shop and have just realised they are all split 😭 https://t.co/CrIC84xql5,35376,
+35379,Tesco,False,Wed Nov 01 13:30:51 +0000 2017,@116303 26th November is the date delivery saver customers can book slots up to and including 23rd December. Thanks - Jennifer,35380,35381
+35380,116303,True,Wed Nov 01 13:41:52 +0000 2017,@Tesco many thanks! have been a saver customer for years now. Are you delivering Xmas Eve?,"35382,35383",35379
+35382,Tesco,False,Wed Nov 01 23:07:52 +0000 2017,@116303 The majority of these are in the London areas. I hope this helps. Thanks - Chris 2/2,,35380
+35383,Tesco,False,Wed Nov 01 23:07:23 +0000 2017,"@116303 Hi Maria, thank you for your query, only customers in our Fulfillment Centres can get Christmas Eve slots. 1/2",,35380
+35381,116303,True,Wed Nov 01 09:09:21 +0000 2017,@Tesco have I missed when Xmas slots are open for delivery saver folks?,"35379,35384",
+35385,XboxSupport,False,Wed Nov 22 19:06:42 +0000 2017,"@123717 Hi there, we're sorry to see this. Please file a report: https://t.co/MayxdkLIdD about this user to the Xbox Enforcement Team in addition to reaching out to Ubisoft Support to let them know about this as we see you've done. If you have any other questions, please let us know. ^ZM",,35386
+35386,123717,True,Tue Nov 21 14:18:25 +0000 2017,This #Nazis name is darkninja14250 .@123718 .@16958 .@XboxSupport .@123719 https://t.co/EuEVLcyhFT,"35385,35387,35388",
+35389,SpotifyCares,False,Wed Nov 01 13:37:55 +0000 2017,"@123720 Fingers crossed we'll have it available to you soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /KM",,35390
+35390,123720,True,Wed Nov 01 13:32:59 +0000 2017,Put Gfriend’s song “Me Gustas Tu” back on Spotify before I cry myself to sleep @115888 @SpotifyCares,35389,
+35391,Delta,False,Wed Nov 01 13:38:35 +0000 2017,@123721 Hi Lauren. SkyClub access requires a membership.  *AMR,35392,35393
+35392,123721,True,Wed Nov 01 13:42:44 +0000 2017,"@Delta *AMR I am a platinum medallion member, with any other airline I would be granted access to the lounge",,35391
+35393,123721,True,Wed Nov 01 13:16:38 +0000 2017,So @Delta remind me why I should make you my primary airline when once again I’m turned away from the lounge at @116147 as platinum?,35391,
+34767,Delta,False,Wed Nov 01 13:32:50 +0000 2017,@123544 personal entertainment system. Please reach out to a onboard FA to see if you can get assistance with it. *ALS,35394,34765
+35394,123544,True,Wed Nov 01 13:42:17 +0000 2017,@Delta It is not appearing on anyone's personal entertainment system on board.,35395,34767
+35395,Delta,False,Wed Nov 01 13:45:36 +0000 2017,@123544 I'm sorry to hear that. Please DM for a message. *ALS,,35394
+34768,Delta,False,Wed Nov 01 13:32:44 +0000 2017,@123544 I'm showing Live Satellite TV is available on DL2286. I'm so sorry if you are having a problem with your (cont)... *ALS,,34765
+35396,comcastcares,False,Wed Nov 01 13:41:01 +0000 2017,"@123722 I'd be happy to look into your data overage. Please DM your full address, primary phone number, and full name? -DT",,35397
+35397,123722,True,Tue Oct 31 04:55:48 +0000 2017,"Am confused, @comcastcares—was told I had a freebie data overage, but apparently that was false?",35396,
+35398,TMobileHelp,False,Wed Nov 01 13:31:02 +0000 2017,"@123723 Hey! If you're having service troubles, let us know in a DM. We're here to help! *NaeJ",35399,35400
+35399,123723,True,Wed Nov 01 14:35:44 +0000 2017,@TMobileHelp I’m fine usually when it’s no service it’s when I’m driving (riding shotgun of course),35401,35398
+35401,TMobileHelp,False,Wed Nov 01 14:39:00 +0000 2017,"@123723 Ty for the heads up, Strider! We're just a DM away if you ever need us.Thx for being a #MagentaRockStar https://t.co/6NxKsl5RJm *JoshHenegar",,35399
+35400,123723,True,Wed Nov 01 13:28:14 +0000 2017,This was supposed to be yesterday’s but none of my stuff uploaded yesterday probably cause @115911 is very spotty and I have no WiFi 😤 https://t.co/jD2OESZKGn,35398,
+35402,British_Airways,False,Wed Nov 01 13:41:02 +0000 2017,"@123724 to look into this further, please DM us the requested details. Thanks. ^Jane 2/2",,35403
+35403,123724,True,Wed Nov 01 11:40:30 +0000 2017,"@British_Airways How does over booking &amp; then lying 2 high paying Customers,keep fares low?ur customer care was appalling!You can't fix everything with comp","35402,35404",35405
+35405,British_Airways,False,Sat Oct 28 22:27:11 +0000 2017,"@123724 Hi Russ, while most airlines overbook flights to keep fares as low as possible, it's disappointing to hear that we misjudged the numbers 1/2",35403,35406
+35406,123724,True,Sat Oct 28 13:51:58 +0000 2017,"@British_Airways awful service u give! LHR/DEN  over booked,passed from pillar 2 post.Lack of C care ""every airline does it"" #BAneveragain","35405,35407,35408",
+35409,British_Airways,False,Wed Nov 01 13:37:30 +0000 2017,"@123725 We're very sorry to hear this, Neil. Have the school been in touch with us to discuss alternative rebooking options? ^Jane",35410,35411
+35410,123725,True,Wed Nov 01 14:12:53 +0000 2017,@British_Airways Hi Jane they have....sadly having to come back a day early so they are missing out.,,35409
+35411,123725,True,Wed Nov 01 11:40:26 +0000 2017,Shame on you @British_Airways my 14 year old son on a school trip but has to come back a day early due to the flight being cancelled #joke,"35409,35412",
+35413,AmericanAir,False,Wed Nov 01 13:40:41 +0000 2017,"@123726 Absolutely, that's the perfect way to start a trip!",,35414
+35414,123726,True,Wed Nov 01 13:36:09 +0000 2017,"The only way to fly!!! Makes my trips way easier! (@ American Airlines Admirals Club - @americanair in Chicago, IL) https://t.co/mOQ4l8JHRX",35413,
+35415,AmericanAir,False,Wed Nov 01 13:38:55 +0000 2017,@123727 We appreciate you hanging in there! Have a good time.,35416,35417
+35416,123727,True,Wed Nov 01 13:39:37 +0000 2017,"@AmericanAir Again, it was ironic...",,35415
+35417,123727,True,Wed Nov 01 13:32:45 +0000 2017,Finally Miami after only 12 of delay 🌴☀️ (thanks to @AmericanAir) https://t.co/ZFwgnTAR3p,"35415,35418",
+35419,AmericanAir,False,Wed Nov 01 13:34:18 +0000 2017,@121196 Please speak with the final carrier on any reimbursement options.,"35420,35421",24112
+35420,121196,True,Wed Nov 01 13:38:42 +0000 2017,"@AmericanAir @AmericanAir took our cases off your delayed flight, and failed to put them on the @British_Airways flight",,35419
+35421,121196,True,Wed Nov 01 13:37:42 +0000 2017,@AmericanAir Great to see that the customer service of America is not extended to your national airline! @AmericanAir lost our bags,,35419
+24112,121196,True,Wed Nov 01 13:30:27 +0000 2017,@AmericanAir @British_Airways Can we recover cost for items we have to buy up to the 21 days? All my essentials and best clothes are in my case! Waiting 3 weeks is unfair,35419,24110
+35422,AmericanAir,False,Wed Nov 01 13:32:37 +0000 2017,"@123728 Did you mean Tucson? If so, we offer direct flights to PHX and then you can take a quick hop over TUS in no time!",,35423
+35423,123728,True,Wed Nov 01 13:28:49 +0000 2017,@AmericanAir ugh wish you guys flew direct from PHL to TUC...,35422,
+35424,AmericanAir,False,Wed Nov 01 13:31:48 +0000 2017,@123729 You bet! A great experience is what we aim for every time.,,35425
+35425,123729,True,Wed Nov 01 13:23:46 +0000 2017,"@AmericanAir 
+4 flights in 2 days ... You did a great job getting me place to place quickly and hassle free.  Great staff.  Thank you!",35424,
+35426,AmericanAir,False,Wed Nov 01 13:30:02 +0000 2017,"@123730 We'd like to get you an update, what's your flight number?",35427,35428
+35427,123730,True,Wed Nov 01 13:32:44 +0000 2017,"@AmericanAir AA2266, I already have a solution... he's here all of a sudden but it's just pretty messed up.",35429,35426
+35429,AmericanAir,False,Wed Nov 01 13:34:08 +0000 2017,@123730 We hear your frustration and will have you on your way soon. Our sincere apologies for any inconvenience caused.,,35427
+35428,123730,True,Wed Nov 01 13:24:50 +0000 2017,"Curious to know how many @AmericanAir pilots are stuck in traffic this morning, as I wait. https://t.co/rWhzrrxZ5l","35426,35430",
+35431,VirginTrains,False,Wed Nov 01 13:37:19 +0000 2017,"@123731 Great to hear, Matty ^LC",,35432
+35432,123731,True,Wed Nov 01 13:35:43 +0000 2017,"£30 from Glasgow Central to London Euston in 4 1/2 hours (£19.80 with my railcard)!! @VirginTrains nice one folks, never need to fly again.",35431,
+35433,VirginTrains,False,Wed Nov 01 13:34:42 +0000 2017,@123732 Could you DM us further details? ^LC,,35434
+35434,123732,True,Wed Nov 01 13:33:44 +0000 2017,@VirginTrains Could someone pls contact me from your customer relations team.I need ur assistance in sorting out a troubling security issue.,35433,
+35435,VerizonSupport,False,Wed Nov 01 13:43:00 +0000 2017,"@123733 Just so that we are clear on our end. The Linksys is currently not hooked up to anything, correct? ^KMG","35436,35437",35438
+35436,123733,True,Wed Nov 01 13:45:42 +0000 2017,@VerizonSupport But then we get no internet light https://t.co/pjXvJSf9j3,,35435
+35437,123733,True,Wed Nov 01 13:45:02 +0000 2017,@VerizonSupport Yeah. It’s off,35439,35435
+35439,VerizonSupport,False,Wed Nov 01 13:49:25 +0000 2017,@123733 Is there a cable plugged into the WAN port on the Actiontec router? ^KMG,"35440,35441",35437
+35440,123733,True,Wed Nov 01 13:55:48 +0000 2017,@VerizonSupport Can someone call me? It might be easier/faster,,35439
+35441,123733,True,Wed Nov 01 13:52:27 +0000 2017,@VerizonSupport Yes and the box “system status” light is green,"35442,35443",35439
+35442,VerizonSupport,False,Wed Nov 01 13:56:28 +0000 2017,@123733 Then give it a good 5 minutes to boot back up to see if any other lights show up on the router. ^BCW,35444,35441
+35444,123733,True,Wed Nov 01 13:57:53 +0000 2017,@VerizonSupport Ok where is the alarm reset button? https://t.co/bSc2OVAFOa,35445,35442
+35445,VerizonSupport,False,Wed Nov 01 14:00:00 +0000 2017,@123733 You can press the Alarm Silence button for 15 seconds. ^BCW,35446,35444
+35446,123733,True,Wed Nov 01 14:01:06 +0000 2017,@VerizonSupport It beeps. Is that normal?,35447,35445
+35447,VerizonSupport,False,Wed Nov 01 14:03:00 +0000 2017,@123733 Yes that is normal. ^CAR,35448,35446
+35448,123733,True,Wed Nov 01 14:03:56 +0000 2017,@VerizonSupport Ok great! Still no internet,35449,35447
+35449,VerizonSupport,False,Wed Nov 01 14:06:29 +0000 2017,"@123733 If we can get you to DM us, we can gather more details to get to the bottom of this for you. ^BCW",35450,35448
+35450,123733,True,Wed Nov 01 14:07:32 +0000 2017,@VerizonSupport Sure already provided phone number,,35449
+35443,VerizonSupport,False,Wed Nov 01 13:56:00 +0000 2017,@123733 Can you press and hold the Alarm reset button on the battery backup unit for 15 seconds to reboot that device? ^BCW,,35441
+35438,123733,True,Wed Nov 01 13:39:27 +0000 2017,@VerizonSupport When we removed our old router no light for internet went on and then when we plugged in the new one we got the orange light,35435,35451
+35451,VerizonSupport,False,Wed Nov 01 13:38:00 +0000 2017,@123733 Did this start happening after you hooked up the Linksys router? ^KMG,35438,35452
+35452,123733,True,Wed Nov 01 13:33:27 +0000 2017,@115722 Yeah but the internet button keeps going orange https://t.co/C2ED5Py3f5,35451,35453
+35453,123733,True,Wed Nov 01 13:27:06 +0000 2017,@115722 we’re having issues in our office trying to set up our linksys router. Can someone help? Even with Fios tower we can’t connect,"35454,35452",
+35455,VerizonSupport,False,Wed Nov 01 13:42:00 +0000 2017,@123734 Let me partner you with our Verizon Wireless team @115990.  ^CAR,35456,35457
+35456,123734,True,Wed Nov 01 13:42:43 +0000 2017,@VerizonSupport @115990 I need your marketing team to work with your dev team to give me an option to disable push notifications,35458,35455
+35458,123734,True,Wed Nov 01 13:43:33 +0000 2017,"@VerizonSupport @115990 But if you're here @verizonsupport, none of my cloud photos or documents are loading. I'm trying to delete them off your service",,35456
+35457,123734,True,Wed Nov 01 13:38:12 +0000 2017,@115725 how many times in a fucking hour can your shitty cloud service ads appear on my phone. It's a terrible cloud service,35455,
+35459,VerizonSupport,False,Wed Nov 01 13:35:27 +0000 2017,@123735 That sounds like you might be getting some wireless interference.  Have you tried to reboot the router yet? ^BCW,35460,35461
+35460,123735,True,Wed Nov 01 13:43:20 +0000 2017,"@VerizonSupport Ive rebooted on multiple occasions. It’s never been this bad, just a month ago it started acting up though I expected it to return",35462,35459
+35462,VerizonSupport,False,Wed Nov 01 13:46:00 +0000 2017,@123735 Does your router have two white lights on it?  ^CAR,35463,35460
+35463,123735,True,Wed Nov 01 13:47:20 +0000 2017,"@VerizonSupport I don’t have access to my router right now, but usually the earth looking icon is lit white",35464,35462
+35464,VerizonSupport,False,Wed Nov 01 13:50:00 +0000 2017,@123735 We need to isolate your wireless equipment.  Can you please contact us at when you are at the premise?  ^CAR,35465,35463
+35465,123735,True,Wed Nov 01 13:51:19 +0000 2017,"@VerizonSupport Sure, I can do that. Tty in 6 hours",,35464
+35461,123735,True,Wed Nov 01 13:27:02 +0000 2017,@VerizonSupport I pay for 150mbps but I get 1.72mbps unless I’m directly next to the router.,35459,
+35466,VerizonSupport,False,Wed Nov 01 13:32:24 +0000 2017,"@123736 Thank you for the shout out.  
+^CAR",,35467
+35467,123736,True,Wed Nov 01 13:30:46 +0000 2017,"When your internet network is better than WiFi &gt; 😎
+Shoutout @115725",35466,
+35454,VerizonSupport,False,Wed Nov 01 13:30:00 +0000 2017,"@123733 We can certainly help, Melissa.  Are you just trying to plug up the Linksys router to work on our network? ^BCW",,35453
+35468,marksandspencer,False,Wed Nov 01 13:42:37 +0000 2017,"@123737 We apologise, this is a mistake on our website and is currently being updated.",,35469
+35469,123737,True,Wed Nov 01 08:02:54 +0000 2017,@marksandspencer I believe this is distinctly racist and also ludicrous for a company in decline https://t.co/fTOrCkdDd5,35468,
+35470,ATVIAssist,False,Thu Nov 30 18:58:37 +0000 2017,"@123738 This is being looked into currently, hang in there while it gets remedied! ^KO",,35471
+35471,123738,True,Thu Nov 30 03:30:10 +0000 2017,@ATVIAssist ok I’m not able to prestige a division now. help?,35470,
+35472,marksandspencer,False,Wed Nov 01 13:41:20 +0000 2017,"@123739 We apologise, this is a mistake on our website and is currently being updated.","35473,35474,35475",35476
+35473,123739,True,Mon Nov 06 07:57:27 +0000 2017,@marksandspencer https://t.co/WNxwkBPTtD,,35472
+35474,123739,True,Wed Nov 01 13:49:46 +0000 2017,@marksandspencer Thats good. See Tesco removing Saltire from products due to complaints from english customers! Rather suspect leant on by WM,,35472
+35475,123739,True,Mon Nov 06 07:39:00 +0000 2017,"@marksandspencer need to make sure have educated website designers and who  know difference between Eng/UK/Britain, not all the same.UK not country",,35472
+35476,123739,True,Wed Nov 01 12:58:51 +0000 2017,@123740 @marksandspencer Like Great British this and that on TV part of cultural onslaught with union jacks everywhere that is what happens to colonies,35472,35477
+35477,123740,True,Wed Nov 01 07:53:14 +0000 2017,@123739 @marksandspencer What’s to be gained? Are they saying Scotland is somehow a tainted brand even on its top products?,35476,35478
+35478,123739,True,Wed Nov 01 07:11:21 +0000 2017,@marksandspencer on website Marks and Spencer promoted 'English' or 'British' whisky — but refused to use 'Scottish',"35479,35477",
+35480,marksandspencer,False,Wed Nov 01 13:27:39 +0000 2017,"@123741 We're sorry for any disappointment, Matt :(",,35481
+35481,123741,True,Tue Oct 31 22:55:30 +0000 2017,"Boring @marksandspencer at Cannon St. Hard working Joes can't buy a drink after 10pm, you can take it off the shelf and take it to the till.",35480,
+35482,marksandspencer,False,Wed Nov 01 13:17:55 +0000 2017,"@123742 Oh no Kate, sorry to hear this. Did you return the shoes via post or to one of our stores?",35483,35484
+35483,123742,True,Wed Nov 01 13:25:59 +0000 2017,@marksandspencer Via post! Order number was 301-0007308-7227994. Thanks so much! They cost about £300 so a bit gutted :(,"35485,35486",35482
+35485,marksandspencer,False,Wed Nov 01 17:23:22 +0000 2017,"@123742 email, postal address and we'll ask them to contact you directly 👍 2/2 https://t.co/FqaAto1cHU",35487,35483
+35487,123742,True,Wed Nov 01 17:46:49 +0000 2017,@marksandspencer Lovely. Thanks so much!,35488,35485
+35488,marksandspencer,False,Wed Nov 01 17:56:04 +0000 2017,"@123742 No probs, just responded to your DM, Kate :)",,35487
+35486,marksandspencer,False,Wed Nov 01 17:23:17 +0000 2017,"@123742 No worries, Kate. If you call our Ordering Team on &gt; 0333 014 8000 they can help you further. Alternatively feel free to DM us your 1/2 https://t.co/FqaAto1cHU",,35483
+35484,123742,True,Wed Nov 01 11:56:44 +0000 2017,@marksandspencer @marksandspencer Can you help at all?,35482,35489
+35489,123742,True,Tue Oct 31 22:31:25 +0000 2017,@marksandspencer Hi M&amp;S. I've done something really stupid. I think I've left my orthotics in some shoes I've returned😖 Can you help at all?,35484,
+35490,ATVIAssist,False,Thu Nov 30 18:54:38 +0000 2017,@123743 If you have any issues please DM me to help you. ^ME https://t.co/c9WoAfwenP,,35491
+35491,123743,True,Sat Nov 25 22:13:28 +0000 2017,@ATVIAssist Today the whole time I’ve been online from 12pm-3pm,35490,35492
+35492,ATVIAssist,False,Sat Nov 25 20:28:19 +0000 2017,@123743 Thank you and when would you say the last time you experienced this was? ^SM,35491,35493
+35493,123743,True,Sat Nov 25 18:56:27 +0000 2017,"@ATVIAssist Every game mode, I’m in the Midwest region and my psn is JoshWard23",35492,35494
+35494,ATVIAssist,False,Sat Nov 25 18:53:50 +0000 2017,"@123743 Thanks for the information. Which game modes does this happen after, what's your region and what is your PSN ID? ^SM",35493,35495
+35495,123743,True,Sat Nov 25 18:19:39 +0000 2017,@ATVIAssist PS4 and yes in a party with atleast 3-4 people,35494,35496
+35496,ATVIAssist,False,Sat Nov 25 18:17:32 +0000 2017,"@123743 Hi. What platform are you on and are you in a party when this happens? If so, how many players (including yourself)? ^SM",35495,35497
+35497,123743,True,Sat Nov 25 17:22:46 +0000 2017,@115766 FIX BLACK SCREEN AFTER LEAVING A LOBBY GLITCH,35496,
+35498,AirbnbHelp,False,Wed Nov 01 13:21:44 +0000 2017,"@123744 We want to help you, Jess. Can you please DM us with your email address to help us find your account? Thank you.",,35499
+35499,123744,True,Wed Nov 01 13:20:26 +0000 2017,@115783 I travel 70+ nights a year &amp; would have been a top user if you'd had a better system in place to review accounts. #illspendmymoneyelsewhere,35498,35500
+35500,123744,True,Wed Nov 01 13:18:31 +0000 2017,hey @115783 your customer service sucks! Someone hacked my account and because of it you permanently deactivated it. #badcustomerservice,"35501,35502,35499",
+35503,ATVIAssist,False,Thu Nov 30 18:50:40 +0000 2017,"@123745 Awesome Soldier, if you need anything just let us know, i hope to see you on the field ^JR",,35504
+35504,123745,True,Sat Nov 25 21:58:10 +0000 2017,"@ATVIAssist thank you, still an awesome game 👍🏽",35503,35505
+35505,ATVIAssist,False,Sat Nov 25 21:46:56 +0000 2017,"@123745  Hello there, we are currently investigating this issue. I apologize for the inconvenience. Please look out for updates. ^RN",35504,35506
+35506,123745,True,Sun Nov 19 14:12:25 +0000 2017,@115765 plz fix this glitch. Ruins this map when someone is hiding here. PS never used it myself :) #PS4share https://t.co/cLenBEDSrU,35505,
+35507,O2,False,Wed Nov 01 13:43:42 +0000 2017,"@123746 Hi Katherine, 😞 Is there anything you'd like us to feed back? Please DM us some details about this: https://t.co/X6jjaZO883",35508,35509
+35508,123746,True,Wed Nov 01 13:45:40 +0000 2017,"@O2 It's cool, I've been with you since 2003. However, my contract ends in December so ill let you know how my in store visit goes!",,35507
+35509,123746,True,Wed Nov 01 13:36:33 +0000 2017,@123747 @O2 I've had mixed customer service in their stores (both here and London). Costs nothing to be polite! Such a shame.,"35507,35510",35511
+35511,123747,True,Wed Nov 01 13:21:41 +0000 2017,Wow. And the award for rudest staff at an @O2 store goes to the one on The Strand. One assistant seemed angry at me for saying hi.,"35512,35509",
+35513,O2,False,Wed Nov 01 13:43:00 +0000 2017,@123748 We don't currently offer this however we do still offer our Classic SIM. More info on this here: https://t.co/6DBkXxfJKv,35514,35515
+35514,123748,True,Wed Nov 01 13:45:02 +0000 2017,"@O2 Thanks. That’s £5 for 100MB, which seems a bit much. Trying to bring them into the modern age, but they can’t get over how expensive it is",35516,35513
+35516,O2,False,Wed Nov 01 13:55:21 +0000 2017,@123748 We're regularly reviewing our prices and packages and will take your feedback on board Simon.,,35514
+35515,123748,True,Wed Nov 01 13:24:45 +0000 2017,@O2 I’ve seen your PAYG “Big Bundles”. Do you offer “Small Bundles”? Helping an elderly relative who needs at most 100MB per month.,35513,
+35517,O2,False,Wed Nov 01 13:42:40 +0000 2017,"@123749 Okay, keep us updated on this.",35518,35519
+35518,123749,True,Wed Nov 01 15:06:35 +0000 2017,"@O2 How do I cancel the upgrade, I can’t see how in my account online?",35520,35517
+35520,O2,False,Wed Nov 01 15:14:07 +0000 2017,@123749 Please chat with us so we can look into this for you. https://t.co/F2VbqC3BoM,,35518
+35519,123749,True,Wed Nov 01 13:37:06 +0000 2017,"@O2 Won’t be able to for a while, will either change it to home delivery or go with someone else",35517,35521
+35521,O2,False,Wed Nov 01 13:32:43 +0000 2017,@123749 😞 We'd always assist you as soon as we possibly could Edward. Have you rearranged to pick the phone up? Feel free to DM us. https://t.co/5pyLDJBC6r,35519,35522
+35522,123749,True,Wed Nov 01 13:28:12 +0000 2017,When you order a new phone from @O2 arrange to collect it from their store and then they won’t see you for over 40mins so have to leave 🙄,35521,
+35512,O2,False,Wed Nov 01 13:39:38 +0000 2017,@123747 😱 What happened exactly Phil? DM us your mobile number and we'll pass on your feedback: https://t.co/5pyLDJBC6r,,35511
+35523,O2,False,Wed Nov 01 13:35:57 +0000 2017,@123750 We've replied to your DM Chris.,,35524
+35524,123750,True,Wed Nov 01 13:13:23 +0000 2017,@O2 Direct message sent. It was regarding https://t.co/Tq640LocRk,35523,35525
+35525,O2,False,Wed Nov 01 13:08:55 +0000 2017,"@123750 Hi Chris 😕 We're not sure what you mean by this, are you waiting to pick up an order with us? DM us more info ⬇ https://t.co/5pyLDJBC6r",35524,35526
+35526,123750,True,Wed Nov 01 13:04:12 +0000 2017,Dam @115858 and @o2. Knowing my phone is stilling waiting for me in Thanet but can't get it yet.,35525,
+35527,O2,False,Wed Nov 01 13:33:03 +0000 2017,@123751 Amazing news Oli 📱 🤗,,35528
+35528,123751,True,Wed Nov 01 13:08:33 +0000 2017,@O2  THANK YOU!!!!  Cant wait to be one of the first!!! #iPhoneX https://t.co/BhO6p3ZddG,35527,
+35529,O2,False,Wed Nov 01 13:31:44 +0000 2017,"@123752 There's always a chance Elliot, this would depend on stock levels 🤞 You'll receive a notification when it's been dispatched.",35530,35531
+35530,123752,True,Wed Nov 01 13:32:55 +0000 2017,"@O2 I was hoping it come earlier :) can’t wait for it, I ordered it on release date but afternoon time so missed the earlier time, up to 4 weeks isn’t too bad, all I wanna know is will it be any longer than 4?",35532,35529
+35532,O2,False,Wed Nov 01 13:49:38 +0000 2017,"@123752 If this was confirmed at the time you placed your order, this will be the timescale 👍",35533,35530
+35533,123752,True,Wed Nov 01 13:50:40 +0000 2017,@O2 Yeah it just said up to 4 weeks so hopefully before then,,35532
+35531,123752,True,Wed Nov 01 13:01:27 +0000 2017,@O2 is there a chance the iPhone x could be delivered earlier than the estimate delivery date they give? Mine said up to 4 weeks so am I guaranteed it before 4 weeks or maybe even after?,35529,
+35534,VirginAtlantic,False,Wed Nov 01 13:35:07 +0000 2017,@123753 Have a great flight guys! ^BM,,35535
+35535,123753,True,Wed Nov 01 12:35:08 +0000 2017,"Tweeting from @VirginAtlantic vs117 direct to Miami at 37,000 prefect signal - and great crew https://t.co/ttUXhBp9Ib","35536,35534,35537,35538,35539,35540",
+35541,VirginAtlantic,False,Wed Nov 01 13:33:57 +0000 2017,@123754 Sorry for any disappointment Shane. You need to check in on the Delta site with your existing booking reference ^BM,35542,35543
+35542,123754,True,Wed Nov 01 13:35:31 +0000 2017,@VirginAtlantic Trying to use their App to check in but says I need an account? Won't accept my virgin details.,35544,35541
+35544,VirginAtlantic,False,Wed Nov 01 14:32:18 +0000 2017,"@123754 If you'd like to DM your booking ref, flight no and date of travel we can look into this for you ^S",,35542
+35543,123754,True,Wed Nov 01 12:33:34 +0000 2017,"@VirginAtlantic Hi.  You've changed my flight from virgin to delta. Where do I check in online? 1st time virgin flyer, seems a shambles!!","35545,35541",
+35546,VirginAtlantic,False,Wed Nov 01 13:32:30 +0000 2017,@123755 Here is a link that will help you Sammy 🙂 https://t.co/aYrgDOaiY6 ^BM,,35547
+35547,123755,True,Wed Nov 01 12:33:29 +0000 2017,@VirginAtlantic are there any limits to the size/capacity of power banks that you can take in your hand luggage? Mine is 20000mAh,35546,
+35548,VirginAtlantic,False,Wed Nov 01 13:27:59 +0000 2017,@123756 We do have an issue at the moment i'm afraid Elliot but if you try later this should be working fine ^BM,"35549,35550",35551
+35549,123756,True,Wed Nov 01 13:29:21 +0000 2017,@VirginAtlantic Ok no worries thanks guys 🙂,,35548
+35550,123757,True,Wed Nov 01 14:03:14 +0000 2017,@VirginAtlantic @123756 When will the issue be fixed? Trying to book a flight and been on hold for 35mins!,,35548
+35551,123756,True,Wed Nov 01 12:30:03 +0000 2017,Hey @VirginAtlantic is there a issue with the app it keeps crashing and not letting me check in for my flight tomorrow?,35548,
+35552,VirginAtlantic,False,Wed Nov 01 13:24:42 +0000 2017,@123758 Have a great flight on board with us Jason! 🐞✈ ^BM,,35553
+35553,123758,True,Wed Nov 01 12:19:40 +0000 2017,Flying on a Ladybird @VirginAtlantic https://t.co/0ACi1pJA7T,"35552,35554",
+35555,VirginAtlantic,False,Wed Nov 01 13:23:38 +0000 2017,"@123759 That's really great to hear Murray, thank you for your kind feedback 😊 ^BM",,35556
+35556,123759,True,Wed Nov 01 12:03:48 +0000 2017,I say.... @VirginAtlantic sales support are really rather good. Always nice to talk to someone who knows what they are doing.,35555,
+35557,VirginAtlantic,False,Wed Nov 01 13:22:31 +0000 2017,@123760 That's right Luke! We operate on Thursdays and Sundays next September 😃✈ ^BM,,35558
+35558,123760,True,Wed Nov 01 11:20:29 +0000 2017,"@VirginAtlantic hi, are you only doing 2 flights from MAN to Las Vegas next September?",35557,
+35559,Safaricom_Care,False,Wed Nov 01 13:40:54 +0000 2017,@123761 Share the transaction number we advise on the status. ^RI,,35560
+35560,123761,True,Wed Nov 01 13:29:17 +0000 2017,@Safaricom_Care Please assist me with an Mpesa reversal. I contacted you yesterday but till now i haven't received the money back.,"35559,35561",
+35562,Safaricom_Care,False,Wed Nov 01 13:37:07 +0000 2017,"@123618 Our sincere apologies, we are following up on the issue and will advise on the resolution as soon as possible. ^SD",,35563
+35563,123618,True,Wed Nov 01 13:12:18 +0000 2017,@Safaricom_Care  check Service Request 1-D9REFPU that was created under your subscriber 1-28682164245 on 26th October. Major delays.,35562,
+35564,Safaricom_Care,False,Wed Nov 01 13:34:41 +0000 2017,"@123762 Hi, we have been in touch and advised.^TK",,35565
+35565,123762,True,Wed Nov 01 13:15:52 +0000 2017,@Safaricom_Care Serious problems with my M-Pesa Call ASAP 0721825089,35564,
+35566,Safaricom_Care,False,Wed Nov 01 13:31:03 +0000 2017,"@123763 Hi Justice, your number is currently busy advice on the best time to call.^WW","35567,35568,35569",35570
+35567,123763,True,Wed Nov 01 13:38:00 +0000 2017,@Safaricom_Care Call 0725546255 or Agent No. 083659,,35566
+35568,123763,True,Wed Nov 01 13:35:17 +0000 2017,@Safaricom_Care call me through 0725546255,,35566
+35569,123763,True,Wed Nov 01 14:17:56 +0000 2017,@Safaricom_Care send me e-mail of agent admin to follow up my commission.I didn't gt my last month commission,35571,35566
+35571,Safaricom_Care,False,Wed Nov 01 14:25:45 +0000 2017,"@123763 Sorry, we do not have that information available.^WW",,35569
+35570,123763,True,Wed Nov 01 13:09:00 +0000 2017,@Safaricom_Care Hey I have a problem with my till. I didn't get commission whats https://t.co/hTVZNJLLsZ me through Agent O83659/0725546255,"35572,35566",
+35573,GreggsOfficial,False,Wed Nov 01 13:34:07 +0000 2017,@123764 We can guess how that ends 😛,,35574
+35574,123764,True,Wed Nov 01 13:31:47 +0000 2017,"Hey @123765, please can you give me 280 characters as 140 is not enough for me to tell @GreggsOfficial that their festive bake is the grea",35573,
+35575,GreggsOfficial,False,Wed Nov 01 13:26:19 +0000 2017,@123766 Oh no!! We hope your moth's cooled down now!,35576,35577
+35576,123766,True,Wed Nov 01 13:47:04 +0000 2017,@GreggsOfficial Moth? 😂🤣😂🤣,35578,35575
+35578,GreggsOfficial,False,Wed Nov 01 13:49:31 +0000 2017,@123766 *mouth 🙈,,35576
+35577,123766,True,Wed Nov 01 12:59:23 +0000 2017,"Thank you @GreggsOfficial steak bake, I didn't like my mouth anyway
+That mother f_€$@€ was Hot","35575,35579",
+35580,GreggsOfficial,False,Wed Nov 01 13:25:53 +0000 2017,@123767 Next Thursday 😬😬😬,35581,35582
+35581,123767,True,Wed Nov 01 13:26:45 +0000 2017,@GreggsOfficial 🙌🏼😍 https://t.co/sYi4APWotY,,35580
+35582,123767,True,Wed Nov 01 13:20:53 +0000 2017,"@GreggsOfficial, can you tell me the exact date you’re selling your little pockets of heaven (festive bakes) x",35580,
+35583,GreggsOfficial,False,Wed Nov 01 13:21:51 +0000 2017,"@123768 Sorry Aaron, we hope our friendship isn't over 🙁",,35584
+35584,123768,True,Wed Nov 01 13:06:24 +0000 2017,"@GreggsOfficial No veggie sandwich? You used to do a Brie and Grape sarnie which was great. 
+
+WTF man, I thought we were mates... 😓 https://t.co/MnBl6pEoL2","35583,35585",
+35586,GreggsOfficial,False,Wed Nov 01 13:08:17 +0000 2017,@123769 Awww Allen 😔,35587,35588
+35587,123769,True,Wed Nov 01 13:18:20 +0000 2017,"@GreggsOfficial I know, I'm devastated 😣😣
+You should open a store in america or ship them via online sales. I know loads of people that would order them",35589,35586
+35589,GreggsOfficial,False,Wed Nov 01 14:14:55 +0000 2017,@123769 Always a good excuse for a trip home?!,,35587
+35588,123769,True,Wed Nov 01 12:56:59 +0000 2017,Man I do miss a good @GreggsOfficial festive Bake https://t.co/FjlsFfTldy,35586,
+35590,GreggsOfficial,False,Wed Nov 01 13:06:20 +0000 2017,@123770  https://t.co/inPoznLRRn,,35591
+35591,123770,True,Wed Nov 01 12:56:47 +0000 2017,Over the moon the Festive Bake is getting released next week mind @GreggsOfficial,"35590,35592",
+35593,GreggsOfficial,False,Wed Nov 01 13:04:47 +0000 2017,@123771 We have been having some issues but it should all be sorted now. What happened?,35594,35595
+35594,123771,True,Fri Nov 03 13:01:56 +0000 2017,"@GreggsOfficial Just the staff never know the buttons to press on the till, look at me like I’m trying to pay with foreign coins, clearly it’s too complex",35596,35593
+35596,GreggsOfficial,False,Fri Nov 03 14:18:35 +0000 2017,@123771 It shouldn't be as they're all trained on it. We'll pas your feedback on.,,35594
+35595,123771,True,Wed Nov 01 12:52:51 +0000 2017,@GreggsOfficial - Why is it Greggs in Ware find it so difficult to accept payment by ‘App’? 60% of the time I give up and pay by card!,35593,
+35597,GreggsOfficial,False,Wed Nov 01 13:04:01 +0000 2017,@123772 We're with you 😬,,35598
+35598,123772,True,Wed Nov 01 12:52:47 +0000 2017,I honestly can't wait for @GreggsOfficial to bring their Festive Bake back,35597,
+35599,SW_Help,False,Wed Nov 01 13:44:43 +0000 2017,@123773 safety reasons.  ^AE 2/2,35600,35601
+35600,123773,True,Wed Nov 01 13:51:32 +0000 2017,@SW_Help It's the doors from that carriage to the facilities.,35602,35599
+35602,123773,True,Wed Nov 01 13:52:48 +0000 2017,"@SW_Help They keep trying but with no great success. 
+
+Getting on ones pip, all this hissing and clicking... https://t.co/TMFhhA8TxD","35603,35604",35600
+35603,SW_Help,False,Wed Nov 01 13:56:52 +0000 2017,@123773 to assist during the journey.  ^AE 2/2,,35602
+35604,SW_Help,False,Wed Nov 01 13:56:49 +0000 2017,"@123773 Hello, apologies for this, I was under the impression it was the external doors. Please can you inform the guard, they will be able 1/2",,35602
+35601,123773,True,Wed Nov 01 13:40:09 +0000 2017,"@SW_Help 
+The doors on the first carriage on the 13:30 from Exe to Wat are broken. 
+
+The keep hissing away, trying to close but wont.","35599,35605",
+35606,SW_Help,False,Wed Nov 01 13:33:36 +0000 2017,@123774 @122270 @123775 Below the statement there are timetables and a map ^MB,,35607
+35607,123774,True,Wed Nov 01 13:30:53 +0000 2017,@SW_Help @122270 @123775 That links to a statement saying you are still finalising the timetable?,35606,35608
+35608,SW_Help,False,Wed Nov 01 13:30:03 +0000 2017,"@123774 @122270 @123775 Yes, it can be found here &gt; https://t.co/jDv3qGPuzt ^MB",35607,35609
+35609,123774,True,Wed Nov 01 13:27:49 +0000 2017,"@122270 @SW_Help @123775 If you were finalising strike timetable on 25th oct, presumably you have it finalised now? Where can I see it please?","35608,35610",35611
+35611,122270,True,Wed Oct 25 08:42:21 +0000 2017,"@SW_Help If pointless @123775 strike goes ahead, what level of service will SWR run in those days?","35612,35609",
+35613,SW_Help,False,Wed Nov 01 13:30:41 +0000 2017,"@123776 Hi Marc, you can find the options on this page, I've done the details - https://t.co/rO9XNgGQrd ^BV",35614,35615
+35614,123776,True,Wed Nov 01 14:13:59 +0000 2017,@SW_Help Link comes up with an error,"35616,35617",35613
+35616,SW_Help,False,Wed Nov 01 14:20:18 +0000 2017,"@123776 The site I was looking at is on National Rail Enquiries under 'Season Ticket Calculator', you can see all the details there. ^BV",,35614
+35617,SW_Help,False,Wed Nov 01 14:18:20 +0000 2017,"@123776 It's working for me, maybe copy and try in a different browser. ^BV",,35614
+35615,123776,True,Wed Nov 01 13:27:29 +0000 2017,@SW_Help please could I get a quote for fareham to Waterloo 1 year season ticket (no underground)? Your website gives 2 different prices?,35613,
+35618,idea_cares,False,Wed Nov 01 13:44:32 +0000 2017,"@123777 Hello, sorry for the trouble caused, reqeust you to share exact issue so we can assist you further. Rgrds,Sanket.","35619,35620",35621
+35619,123777,True,Wed Nov 01 13:49:19 +0000 2017,@idea_cares But now charges start deducting from main balance 2/2,35622,35618
+35622,idea_cares,False,Wed Nov 01 13:59:32 +0000 2017,"@123777 We wish to affirm that your concern has been discussed and resolution has been communicated. Regards, Sanket. https://t.co/LBfZgLCSfr",35623,35619
+35623,123777,True,Wed Nov 01 14:00:49 +0000 2017,@idea_cares Again fake reply. No calls and no resolution given,"35624,35625",35622
+35624,idea_cares,False,Wed Nov 01 14:09:29 +0000 2017,"@123777 As checked the details of your account you have received the benefits of the recharge.Regards,Arti https://t.co/LBfZgLCSfr",35626,35623
+35626,123777,True,Wed Nov 01 14:17:11 +0000 2017,@idea_cares Benifits was commited for 84 days bit received for only 48 days this type of benefits you are giving to customers #notoidea,35627,35624
+35627,idea_cares,False,Wed Nov 01 14:32:29 +0000 2017,"@123777 As checked, it was not eligible for ur number hence not appicable. If you have snapshot of the offer please share. Rgds,Sanket https://t.co/LBfZgLCSfr","35628,35629",35626
+35628,123777,True,Wed Nov 01 14:36:03 +0000 2017,@idea_cares Please check the recording of customer care call on 6/09/17. How would i have the screenshot,35630,35627
+35630,idea_cares,False,Wed Nov 01 15:11:28 +0000 2017,"@123777 Request you to share the agent full name and his contact details, so that we can assist you better. Regards, Vicky https://t.co/LBfZgLCSfr",35631,35628
+35631,123777,True,Wed Nov 01 15:15:17 +0000 2017,@idea_cares You can check the recording how would some one remember the name of cusotmer care agent after 48 days,35632,35630
+35632,idea_cares,False,Wed Nov 01 16:37:00 +0000 2017,"@123777 Apologies for the trouble. To take any further actions on your concern we will require the agent name.
+Rgds,
+Darshan.",35633,35631
+35633,123777,True,Wed Nov 01 17:06:52 +0000 2017,@idea_cares This is ridicules how would i know the agent name. You only check at your end i am providing the date also to you.,"35634,35635",35632
+35634,idea_cares,False,Wed Nov 01 17:57:27 +0000 2017,"@123777 Apologies for the trouble. We have noted your contact detail and concern. We'll get in touch with you.
+Rgds,
+Darshan.",,35633
+35635,idea_cares,False,Thu Nov 02 08:11:49 +0000 2017,"@123777 We forwarded your concern to appropriate team &amp; you shall be updated on the same shortly.
+
+Regards,
+Jagjeet https://t.co/LBfZgLCSfr",35636,35633
+35636,123777,True,Fri Nov 03 18:54:52 +0000 2017,"@idea_cares After 3 days also no support and communication from idea company. After paying money also service are not providing to customer.
+#notoidea",35637,35635
+35637,idea_cares,False,Fri Nov 03 20:14:02 +0000 2017,@123777 Sorry we gave you a chance of being upset with the services. We are working on your concern. Please bear us for sometime.,35638,35636
+35638,123777,True,Mon Nov 06 12:51:52 +0000 2017,"@idea_cares 4 days over since i have complained but no resolution from idea the forgery company.
+#notoidea",35639,35637
+35639,idea_cares,False,Tue Nov 07 11:55:26 +0000 2017,@123777 Apologies for the trouble. We wish to affirm that your concern with has been discussed &amp; resolution has been communicated.,35640,35638
+35640,123777,True,Tue Nov 07 13:22:16 +0000 2017,"@idea_cares What the hell is this???
+Neither a single call nor a message received till date. #notoidea",35641,35639
+35641,idea_cares,False,Wed Nov 08 07:13:26 +0000 2017,"@123777 We have already forwarded your concern to higher authority and our team will connect with you and update you. Rgds,Sneha.",35642,35640
+35642,123777,True,Wed Nov 08 07:23:00 +0000 2017,@idea_cares But when already 6 days over and nobody has contact. After paying money also we are suffering #notoidea,35643,35641
+35643,idea_cares,False,Wed Nov 08 07:41:30 +0000 2017,"@123777 We understand the wait has been long for you. Please give us some more time &amp; we will get this sorted out for you. Rgds,Sneha.","35644,35645",35642
+35644,123777,True,Wed Nov 08 07:49:14 +0000 2017,@idea_cares If you people will understand then problem will get resolve in one day only. This is the strategy to create trouble and earn money. #notoidea,35646,35643
+35646,idea_cares,False,Wed Nov 08 08:03:00 +0000 2017,"@123777 As informed you we have already forwarded your concern to higher authority, our team will connect with you Kindly bare with us",35647,35644
+35647,123777,True,Mon Nov 13 04:31:09 +0000 2017,@idea_cares Till date no response #notoidea,35648,35646
+35648,idea_cares,False,Mon Nov 13 10:27:00 +0000 2017,"@123777 We are working on this to get it resolved at the earliest. Please bear with us for some time. Rgds, Amit",35649,35647
+35649,123777,True,Mon Nov 13 14:56:30 +0000 2017,@idea_cares Will you please confirm how much time you hardworking people need?? As already 10 days over #notoidea,,35648
+35645,123777,True,Wed Nov 08 07:48:02 +0000 2017,@idea_cares Who will pay the money to use the number. After paying in advance also i have to recharge again to use number what a bullshit it is. #notoidea,,35643
+35629,123777,True,Wed Nov 01 14:34:39 +0000 2017,@idea_cares But your customer representative only confirm for the same before recharge how you can deny now such a fake company #notoidea,,35627
+35625,idea_cares,False,Wed Nov 01 14:09:00 +0000 2017,"@123777 In this case, our team had spoken and updated on the same.
+
+Rgrds, Sanket. https://t.co/LBfZgLCSfr",,35623
+35620,123777,True,Wed Nov 01 13:48:59 +0000 2017,@idea_cares recharg with 404 on 6/09/17 aftr discussing with customer care for unlimited data &amp; calls for 84 days validity.1/2,,35618
+35621,123777,True,Wed Nov 01 13:34:40 +0000 2017,"One more forgery by @116331 this time with prepaid no. 9608555559 fake commitment by customer care
+#notoidea",35618,
+35650,idea_cares,False,Wed Nov 01 13:43:29 +0000 2017,"@123778 We would like to inform you that you have requested for some feature activation hence, you have received the SMS. Rgds, Yogita",35651,35652
+35651,123778,True,Fri Nov 03 07:51:20 +0000 2017,@idea_cares Sorry but I didn’t requested anything that’s why I am complaining. Rgds,"35653,35654",35650
+35653,idea_cares,False,Fri Nov 03 08:14:37 +0000 2017,"@123778 Sorry for the inconvenience. We've noted your concern and we will get in touch with you and discuss your concern. Rgds, Ganesh",,35651
+35654,idea_cares,False,Sat Nov 04 07:17:30 +0000 2017,"@123778 Please let us know convenient time to reach you as we were unable to get through on given contact number. Rgds, Richard",35655,35651
+35655,123778,True,Sat Nov 04 09:20:07 +0000 2017,@idea_cares Your services making me unreachable,35656,35654
+35656,idea_cares,False,Sat Nov 04 09:43:57 +0000 2017,"@123778 Sorry for the trouble caused.We have your contact details.Our team will get in touch with you.Regards,
+Shweta",35657,35655
+35657,123778,True,Sat Nov 04 09:45:21 +0000 2017,@idea_cares Let’s stop it here. Do not call me.,35658,35656
+35658,idea_cares,False,Sun Nov 05 10:56:29 +0000 2017,"@123778 Please suggest an alternate number &amp; convenient date/time to reach you as we were unable to reach you. Rgds, Richard",,35657
+35652,123778,True,Wed Nov 01 13:34:16 +0000 2017,@116331 I have not requested for anything. Why are you closing fake requests ? https://t.co/1UhqtlOuB0,35650,
+35659,idea_cares,False,Wed Nov 01 13:40:25 +0000 2017,"@123779 We're awaiting for your response to resolve ur issue. Pls provide the same within next 24 hrs. Rgds, Idea Care",,35660
+35660,123779,True,Mon Oct 30 12:56:33 +0000 2017,"@118343 @116588 @120219 @116331 Vodafone Fails to Provide Network, We Plan to Port 58 Vodafone Connections to other Network","35659,35661",35662
+35662,118343,True,Thu Oct 26 08:22:43 +0000 2017,@123779 Hi Umesh! We are not able to reach you :( Please share a suitable time and an alternate contact number. - Alex,35660,35663
+35663,123779,True,Thu Oct 26 02:25:01 +0000 2017,@118343 @31224  Pls intervene,35662,35664
+35664,118343,True,Wed Oct 25 16:40:02 +0000 2017,@123779 Hi Umesh! Please don't worry. We are working on your concern and will update you. - Arun,35663,35665
+35665,123779,True,Wed Oct 25 16:32:51 +0000 2017,@118343 No Solutions Till Date,35664,35666
+35666,118343,True,Sat Oct 21 03:55:47 +0000 2017,@123779 Hi Umesh! We will call you shortly to help you out with your concern. - Amit,35665,35667
+35667,123779,True,Sat Oct 21 03:25:16 +0000 2017,@118343 @120219 @116331 @116327  When it will be done.. Vodafone is checking since last 3 Years... Vodafone is Cheating with Customer,35666,35668
+35668,118343,True,Thu Oct 19 18:08:43 +0000 2017,"@123779 Hi Umesh, Please don't worry! We will have this checked and will call you with an update. - Vinod",35667,35669
+35669,123779,True,Thu Oct 19 18:05:00 +0000 2017,@118343 False Commitment by Vodafone !!,35668,35670
+35670,118343,True,Thu Oct 19 03:12:23 +0000 2017,@123779 Hi Umesh! Please be assured that our team is working on your concern and we will soon call you with an update. - Amit,35669,35671
+35671,123779,True,Thu Oct 19 03:06:00 +0000 2017,@118343 Still Problem Resolved by Vodafone..Low Sensitivity..!! NO NETWORK COVERAGE.!! LOOTING the CUSTOMER.!!,35670,35672
+35672,118343,True,Wed Oct 11 23:52:23 +0000 2017,@123779 Hi! We have informed our team and they will get back to you for further help. - Alex,35671,35673
+35673,123779,True,Wed Oct 11 19:07:41 +0000 2017,@116589 @118343 @116588 @123780 @11127 @2517 @120320 @99580 https://t.co/7prUJBweUn,35672,
+35674,idea_cares,False,Wed Nov 01 13:37:00 +0000 2017,"@123781 But don't worry, we will surely look into the network site to upgrade in your area and revert you as soon as possible.2/2",,35675
+35675,123781,True,Wed Nov 01 13:25:34 +0000 2017,@116331 again fake promise from idea no improvement in idea network in sangamner (422605) area.  #Bakwasideanetwork,"35674,35676",
+35676,idea_cares,False,Wed Nov 01 13:36:25 +0000 2017,"@123781 nderstand your concern. As checked, we are providing optimized network in your area.1/2",,35675
+35677,idea_cares,False,Wed Nov 01 13:31:53 +0000 2017,"@120208 We have noted your concern. Our team will get in touch with you soon. Rgds, Yogita",,34409
+34409,120208,True,Wed Nov 01 12:52:25 +0000 2017,@116331 @116331 @idea_cares your network,"35677,35678,35679",34408
+35680,SouthwestAir,False,Wed Nov 22 18:59:40 +0000 2017,@123782 Apologies for the continued disappointment. We're experiencing a mechanical challenge with your aircraft and this has caused an upline delay. Feel free to DM your confirmation number once your travel is complete for follow up. ^BL,35681,35682
+35681,123782,True,Wed Nov 22 19:05:42 +0000 2017,"@SouthwestAir Do you know if it's been fixed, or will my flight get delayed even more?",35683,35680
+35683,SouthwestAir,False,Wed Nov 22 20:35:56 +0000 2017,"@123782 We don't have any additional information at this time, but you can stay up to date with your flight status here: https://t.co/x7DWYOxd6n. ^BL",,35681
+35682,123782,True,Wed Nov 22 18:50:50 +0000 2017,@SouthwestAir That doesn't help the fact that we now have to deal with our 1 year old's schedule being totally screwed up. What's the reason for the delay for flight 6035 TPA-&gt;IND?,35680,35684
+35684,SouthwestAir,False,Wed Nov 22 18:32:30 +0000 2017,"@123782 We know delays are frustrating and apologize for any frustration caused, Danny. We hope to make up some time so we can get you on your way later today. ^BL",35682,35685
+35685,123782,True,Wed Nov 22 18:29:06 +0000 2017,"Never a good sign when your @SouthwestAir flight is already delayed 2.5 hours, 8 hours before scheduled departure... That tells me it's just poor scheduling.",35684,
+35686,SouthwestAir,False,Wed Nov 22 18:58:32 +0000 2017,"@123783 Ha! Whenever momma needs an extra hand, we got you! Let's just make sure that any diaper changes take place in the bathroom. ^AC",,35687
+35687,123783,True,Wed Nov 22 18:45:23 +0000 2017,Multi-use trays @SouthwestAir https://t.co/PG0Fs6TAkm,35686,
+35688,DellCares,False,Wed Nov 01 13:04:30 +0000 2017,"@123784 Hi, 
+We haven't heard back from you yet. If you still need assistance, we are available 24/7. ^MU",,35689
+35689,123784,True,Tue Oct 31 16:22:43 +0000 2017,@DellCares @118197 Now I know why not to buy Dell - horribly slow tech support wasting my time.,"35688,35690,35691",
+35692,nationalrailenq,False,Wed Nov 01 13:44:03 +0000 2017,@123785 We provide information about services only. Network Rail own and maintain most of the track.,35693,35694
+35693,123785,True,Wed Nov 01 14:33:57 +0000 2017,@nationalrailenq My apologies.  I will direct my complaint elsewhere,,35692
+35694,123785,True,Wed Nov 01 13:40:31 +0000 2017,@nationalrailenq Don't national rail control the signals?,35692,35695
+35695,nationalrailenq,False,Wed Nov 01 13:33:53 +0000 2017,"@123785 Hi Nicholas. NRE don't run the trains, we just report on them. You can contact Heathrow Connect here https://t.co/nEG10eSCo0",35694,35696
+35696,123785,True,Wed Nov 01 13:29:26 +0000 2017,@nationalrailenq This happens frequently. You owe the public an apology for your incompetence,35695,35697
+35697,nationalrailenq,False,Wed Nov 01 09:45:37 +0000 2017,#Paddington - Heathrow Connect services are suspended today due to a fault with the signalling system.,35696,
+35698,AirAsiaSupport,False,Wed Nov 01 13:35:33 +0000 2017,"@123786 &gt;&gt; departure. Refer here https://t.co/1iI181ppCo, Article 4.3.1. Thank you. -Miza",,35699
+35699,123786,True,Wed Nov 01 08:18:11 +0000 2017,"@AirAsiaSupport @734 Introduce another category , saying Airport faculty request for cancellation @AirAsiaSupport","35698,35700,35701",35702
+35702,123786,True,Wed Nov 01 08:17:14 +0000 2017,@AirAsiaSupport @AirAsiaSupport I need my money under right category. Why are you asking me to do voluntary cancellation. You forced me to cancel @734 https://t.co/tYfja6YRnP,35699,35703
+35703,AirAsiaSupport,False,Mon Oct 30 19:21:18 +0000 2017,"@123786 Since you have sent in a airport tax refund request, you will be updated once its validated ya Varun-Yana","35704,35702",35705
+35705,123786,True,Mon Oct 30 19:02:27 +0000 2017,"@AirAsiaSupport @AirAsiaSupport Do me the refund , eform request are : 00031194 , 00110455 . I have raised so many complaints . None answered @734",35703,35706
+35706,123786,True,Sun Oct 29 11:42:39 +0000 2017,"@AirAsiaSupport @AirAsiaSupport Are you nuts ? U ppl provide same url always where there is no category where I can file refunds?
+Why do bullshit, credit me https://t.co/RRXzV0XIgw","35705,35707",35708
+35708,123786,True,Fri Oct 27 10:53:30 +0000 2017,"@AirAsiaSupport How do you know that I reached 45 mins before the counter. Firstly , u ppl provide 2 counters for 500 passengers where I’m delayed.","35709,35710,35711,35712,35706",35713
+35713,AirAsiaSupport,False,Tue Oct 24 10:08:23 +0000 2017,"@123786 Hi Varun, please be advised that counters closed 1 hour before departure. However, we  can still accept up to 45 minutes &gt;&gt;","35714,35708",35715
+35715,123786,True,Tue Oct 24 07:25:06 +0000 2017,@115798 What the F... is this response from @115802 @1238 @AirAsiaSupport  . Do you think that I would recommend to someone else.Idiots https://t.co/hn7OiSLAJu,"35716,35713",35717
+35717,123786,True,Wed Oct 18 11:51:31 +0000 2017,@115798 I’m 30 mins before departure and you idiots not allowed me to board the flight- I5-1584 PNR GG7GUY,"35718,35715",
+35700,AirAsiaSupport,False,Wed Nov 01 13:35:22 +0000 2017,@123786 &gt;&gt; booking as you are No Show and refund is only available for guest request for voluntary cancellation up to 4 hours before &gt;&gt;,,35699
+35701,AirAsiaSupport,False,Wed Nov 01 13:35:06 +0000 2017,"@123786 Sorry but the case was rejected due to improper tagging, Varun. As advised, only Airport Tax refund is available for your &gt;&gt;","35719,35720",35699
+35719,123786,True,Thu Nov 02 16:22:51 +0000 2017,@AirAsiaSupport Why is the idiots of AirAsia staff at the airport say to raise this request and why have you suggested me to raise. Wasting my time.Cheaters,"35721,35722,35723",35701
+35721,AirAsiaSupport,False,Fri Nov 03 09:08:38 +0000 2017,"@123786 Hi there, we have assisted you via DM. Kindly check your inbox. Thanks-Sha",,35719
+35722,123786,True,Fri Nov 03 16:27:03 +0000 2017,"@AirAsiaSupport Hey you screwedup idiots , y don’t u understand. What is DM , u nuts @AirAsiaSupport.","35724,35725,35726,35727",35719
+35724,AirAsiaSupport,False,Sat Nov 04 07:26:51 +0000 2017,@123786 We believe we  have assisted you the details about Airport tax refund you accordingly via DM. Thanks-Sha,,35722
+35725,AirAsiaSupport,False,Sat Nov 04 07:26:45 +0000 2017,@123786 it is used to send a private tweet (Twitter update) to a person you are following. &gt;&gt;&gt;,,35722
+35726,AirAsiaSupport,False,Sat Nov 04 07:25:45 +0000 2017,"@123786 (1) On the Twitter Web site (a free social messaging tool), DM is short for direct message, and &gt;&gt;&gt;",,35722
+35727,AirAsiaSupport,False,Sat Nov 04 07:25:29 +0000 2017,"@123786 Dear Varun, in computer and Internet phrases there are multiple definitions for the DM abbreviation, including the following: &gt;&gt;",,35722
+35723,123786,True,Fri Nov 03 16:29:48 +0000 2017,"@AirAsiaSupport @AirAsiaSupport I’m told Refund is possible by Air Asia staff at Airport. So do me the honours. Else, I assume that u r cheating @5484","35728,35729,35730",35719
+35728,AirAsiaSupport,False,Fri Nov 03 17:01:37 +0000 2017,@123786 &gt;&gt;we believe counter team advice same.Thanks- Mariya,,35723
+35729,AirAsiaSupport,False,Fri Nov 03 17:01:27 +0000 2017,@123786 &gt; which you reporting at counter at 16:50 hours. Thus in your case only allow refund airport tax and &gt;&gt;,35731,35723
+35731,123786,True,Sat Nov 04 05:50:25 +0000 2017,@AirAsiaSupport @AirAsiaSupport So I’m also asking the same to do the refund of Airport taxes. Do me the refund,35732,35729
+35732,AirAsiaSupport,False,Sat Nov 04 06:15:19 +0000 2017,"@123786 Hi Varun, kindly send an email https://t.co/yUyvTZDtHT explain as your concern is to refund the airport tax. Thanks-Sha",,35731
+35730,AirAsiaSupport,False,Fri Nov 03 17:00:47 +0000 2017,"@123786 Hi Varun, we check this booking GG7GUY, you approach at check in counter within 45 minute before flight departing time &gt;&gt;",,35723
+35720,123786,True,Thu Nov 02 16:24:16 +0000 2017,"@AirAsiaSupport @AirAsiaSupport don’t you ppl have common sense , that you are saying now it is not possible. Refund my taxes @734 please screw idiots",,35701
+35733,AskCiti,False,Wed Nov 01 13:40:00 +0000 2017,@123787 Just wanted to reach out to see if you still needed assistance. Let us know. We're here to help from 9a-10p EST. ^BS,,35734
+35734,123787,True,Tue Oct 31 01:59:20 +0000 2017,@117176 is a piece of shit bank.  Will be closing my accounts ASAP.,"35733,35735",
+35736,AskCiti,False,Wed Nov 01 13:36:30 +0000 2017,@123788 Just wanted to reach out to see if you still needed assistance. Let us know. We're here to help from 9a-10p EST. ^BS,,35737
+35737,123788,True,Sun Oct 29 17:57:17 +0000 2017,@117176 hello I m getting email in my mail __email__ for credit card transactions. I m not your customer...please stop email.,"35736,35738,35739,35740,35741",
+35742,AskCiti,False,Wed Nov 01 13:00:43 +0000 2017,@123789 Thank you for contacting us with this concern. I am sorry to hear of this issue. I'd like to see how I can help. 1/2,,35743
+35743,123789,True,Wed Nov 01 10:01:40 +0000 2017,@AskCiti I'm a student trying to register to an Investment banking event in London and I can't access my account (neither recover password),"35742,35744,35745,35746",
+35747,AskCiti,False,Wed Nov 01 13:00:03 +0000 2017,@123790 Sorry for the trouble getting through. Pls visit https://t.co/W7g6iN7ahv. Our team in India can arrange to connect w/u. TY. ^JJ,,35748
+35748,123790,True,Wed Nov 01 08:43:59 +0000 2017,"@117176 Is ur 24/7 number(18602102484) nt functional,  I have been trying since yesterday both from mobile n landline...  Can't connect?",35747,
+35749,AskCiti,False,Wed Nov 01 13:00:02 +0000 2017,@123791 I'm happy to escalate the request to our partners. Pls click to send a ph number you can be contacted on. (No acct3s/PINs). ^JT,,35750
+35750,123791,True,Wed Nov 01 08:33:20 +0000 2017,"@AskCiti For giving credit card u guys call continuous ,after payment not reflecting to acc,no response from customer care,where is my money gone??",35749,35751
+35751,AskCiti,False,Tue Oct 31 13:21:00 +0000 2017,@123791 I understand the concern and appreciate you reaching out. Pls visit https://t.co/W7g6iN7ahv to request to be contacted. ^JT,"35750,35752",35753
+35753,123791,True,Tue Oct 31 12:58:26 +0000 2017,"@AskCiti will u please tell me easiest process to talk to ur executives???,tried all options but not able to connect#noresponse",35751,
+35754,AskCiti,False,Wed Nov 01 13:00:01 +0000 2017,@123792 I understand ur concern. I'd like for u to visit: https://t.co/W7g6iN7ahv. Please allow 1-2 business days for a reply. ^BS,35755,35756
+35755,123792,True,Tue Nov 07 06:40:38 +0000 2017,"@AskCiti Hey @AskCiti done this like 5 days ago.. #NoResponse
+How #Pathetic is this 🤔🤔",,35754
+35756,123792,True,Wed Nov 01 06:11:37 +0000 2017,"Hey @117176 @117157 @2182 my #Loan was closed a month back. Awaiting #ClosureLetter
+Please help. https://t.co/Q26BOF4GVJ",35754,
+35757,AskCiti,False,Wed Nov 01 13:00:01 +0000 2017,"@123793 Thx 4 reaching out, 2 escalate ur concern 2 our Citi India Team pls complete the link: https://t.co/W7g6iN7ahv. ^ZJ",,35758
+35758,123793,True,Wed Nov 01 06:29:09 +0000 2017,@2182 How can one make payment through Citi mobile app?? Tried different ways but no success😢,35757,
+35759,AskCiti,False,Wed Nov 01 13:00:01 +0000 2017,"@123794 Thank you for contacting us with this concern. For help from our partners in India, please visit https://t.co/W7g6iN7ahv. ^JT",,35760
+35760,123794,True,Wed Nov 01 05:39:27 +0000 2017,@117176 OTP are not coming on time - Citi India. This is a recent problem and it is causing huge troubles.,35759,
+35761,AskPayPal,False,Wed Nov 22 18:42:22 +0000 2017,"@123795 Hi there. Thanks for reaching out to us and for bringing this to our attention. After taking a look at this email, we can confirm that it was not sent by us.
+
+If you could please forward this email to __email__ , it would be really appreciated. I... https://t.co/v6BjKgb9IJ",,35762
+35762,123795,True,Tue Nov 21 17:54:24 +0000 2017,@115993 Panic password change done haha,35761,35763
+35763,123795,True,Tue Nov 21 17:53:57 +0000 2017,I can't believe I fell for a phishing site!! @115993 FYI on this website pls! activity-review-inc-us dot info https://t.co/W2FYLil7W5,35762,
+35764,AskCiti,False,Wed Nov 01 13:00:01 +0000 2017,@123796 Most of our cards have access to a virtual account#s. Which card were u interested in? I'd be happy to see if eligible. ^BS,35765,35766
+35765,123796,True,Thu Nov 02 14:14:49 +0000 2017,@AskCiti The Citi double cash card,"35767,35768",35764
+35767,AskCiti,False,Thu Nov 02 16:07:38 +0000 2017,@123796 here: https://t.co/9rYWSNgiDy I hope this helps. Thanks for choosing CITI! 2/2 ^ML,,35765
+35768,AskCiti,False,Thu Nov 02 16:07:00 +0000 2017,"@123796 Yes, the Citi Double Cash card dose have the VANs available. You can apply online &amp; review our card products &amp; benefits 1/2",,35765
+35766,123796,True,Wed Nov 01 04:49:40 +0000 2017,@AskCiti Hello I am planning to open up a citi credit card. Which card supports the vcc feature u guys have?,35764,
+35769,TfL,False,Wed Nov 01 12:32:00 +0000 2017,@123797 2/2 Please keep an eye on our web page for such updates. Thanks ^Mark,,35770
+35770,123797,True,Wed Nov 01 12:04:17 +0000 2017,When will I be able to use my 18+ Student oyster through the @TfL app 😩 #struggle,"35769,35771",
+35771,TfL,False,Wed Nov 01 12:31:51 +0000 2017,"@123797 1/2 Hi Chlo, this feature isn't available at present although it may change in the future.",,35770
+35772,marksandspencer,False,Wed Nov 22 18:31:49 +0000 2017,"@123798 Good Evening Carrie-Ann, We're so sorry but the beauty advent calender has been so popular and sold out across a lot of our stores. We can of course double check this for you though, if you could DM us your postcode? https://t.co/FqaAto1cHU",,35773
+35773,123798,True,Wed Nov 22 16:33:47 +0000 2017,"@marksandspencer Hi, is anyone able to answer my question from this morning? https://t.co/BCMOSruQN2",35772,
+35774,JetBlue,False,Wed Nov 01 13:35:07 +0000 2017,@123799 Sorry! Please give us a call at 1-800-JETBLUE so we can help you reserve those seats.,,35775
+35775,123799,True,Wed Nov 01 13:29:53 +0000 2017,@JetBlue I was trying to purchase even more space seats to my confirmed reservation and keep getting a website error :(,35774,
+35776,JetBlue,False,Wed Nov 01 13:32:51 +0000 2017,@123800 You never know where we'll be able to fly next but for now you'll have to make a connection from JFK through BOS.,"35777,35778,35779",35780
+35777,123800,True,Wed Nov 01 13:33:54 +0000 2017,@JetBlue May just have to do that!,,35776
+35778,123801,True,Wed Nov 01 14:00:37 +0000 2017,@JetBlue Pick one of these great flight deals and go! https://t.co/l8Eo3ARyhp,,35776
+35779,123801,True,Thu Nov 02 14:00:43 +0000 2017,@JetBlue Pick one of these great flight deals and go! https://t.co/l8Eo3ARyhp,,35776
+35780,123800,True,Wed Nov 01 13:28:26 +0000 2017,"@JetBlue Incredible!!! Any chance you can add JFK, LGA, or EWR to MSP around then too 😉",35776,35781
+35781,JetBlue,False,Wed Nov 01 13:27:47 +0000 2017,@123800 Yes! We'll start service BOS-MSP on 5/3/2018. https://t.co/vwbl91BiOM,35780,35782
+35782,123800,True,Wed Nov 01 13:25:33 +0000 2017,@JetBlue are you going to start flying to MSP anytime soon?,35781,
+35783,ArgosHelpers,False,Wed Nov 01 13:36:38 +0000 2017,@123802 2/2 an update - Lauren,35784,35785
+35784,123802,True,Wed Nov 01 13:44:18 +0000 2017,@ArgosHelpers Thank you I will keep checking,,35783
+35785,123802,True,Wed Nov 01 13:30:57 +0000 2017,@116245 on you app it says I can order the big L.O.L suprise instore tho I tried to do this today and they said I can’t,"35783,35786",
+35786,ArgosHelpers,False,Wed Nov 01 13:36:32 +0000 2017,"@123802 Hey Ashley, we don't have a set date for when these will be restocked, it is a matter of continually checking the website for 1/2",,35785
+35787,KFC_UKI_Help,False,Wed Nov 01 13:30:23 +0000 2017,@123803 So sorry for the delayed response Danny! Are you able to send us a DM to tell us more? ^KR,35788,35789
+35788,123803,True,Wed Nov 01 14:40:13 +0000 2017,@KFC_UKI_Help Your service is terrible,,35787
+35789,123803,True,Sun Oct 29 19:05:30 +0000 2017,"@KFC_UKI_Help Just got a take away via drive thru and got home to see that 1 order was wrong and both of the drinks were not even fizzy, no condiments either. Happens everytime with drive thru. Awful service","35787,35790,35791",
+35792,Walmart,False,Wed Nov 01 13:44:56 +0000 2017,@123804 Candy with great deals? Amazing! What treat will you be grabbing up? -Ami,,35793
+35793,123804,True,Wed Nov 01 12:56:12 +0000 2017,Do you smell that? That's the smell of clearance Halloween candy! I'll be seeing you @Walmart today to stock up. 😂,35792,
+35794,Walmart,False,Wed Nov 01 13:43:16 +0000 2017,@123805 Come grab some great treats! Which candy is your favorite? -Ami,,35795
+35795,123805,True,Wed Nov 01 12:58:41 +0000 2017,Halloween candy is 1/2 priced today at Walmart :),35794,
+35796,ATVIAssist,False,Thu Nov 30 18:50:04 +0000 2017,"@123806 Keep an eye for every update in our social media, for more info send me a DM to help you. ^ME https://t.co/c9WoAfwenP",35797,35798
+35797,123807,True,Thu Nov 30 18:54:27 +0000 2017,@ATVIAssist @123806 @ATVIAssist you set me back a whole prestige. Lost a bunch of my cammo’s my kd is not what it was and time play should be 1 day 20 hours. This is what it’s showing now. You need to fix it ASAP! https://t.co/wUXxkzGALH,,35796
+35798,123806,True,Thu Nov 30 12:16:43 +0000 2017,@115765 When are you going to fix the  lag in south america?,35796,35799
+35799,115765,True,Thu Nov 30 07:00:49 +0000 2017,"FYI - We're aware that a recent #CODWWII security enforcement sweep may have resulted in some incorrect bans. For players who haven’t used exploits, we're working to resolve asap.","35800,35801,35802,35803,35804,35805,35806,35807,35808,35809,35810,35811,35812,35813,35814,35815,35816,35817,35798,35818,35819,35820,35821",
+35822,DellCares,False,Thu Sep 28 14:29:55 +0000 2017,"@123808 Hi, Mark,
+Thank you for reaching out to us. For security reasons kindly delete the system service tag from the public message.(1",35823,35824
+35823,123808,True,Wed Nov 01 13:36:19 +0000 2017,"@DellCares Hello, I need a mew motherboard  for this Dell XPS 8500. I guess my question is, will installing a new motherboard mess up my window?","35825,35826,35827,35828,35829",35822
+35825,DellCares,False,Wed Nov 01 14:26:01 +0000 2017,@123808 further assistance. Click on the link: https://t.co/WyvtOtaxyB which has a video which explains (4),35830,35823
+35830,123808,True,Wed Nov 01 14:29:15 +0000 2017,"@DellCares My service is CMX9NS1, is there a email address I can use to contact you,I'm to new to twitter to know how to really use it",,35825
+35826,DellCares,False,Wed Nov 01 14:26:00 +0000 2017,@123808 how to find the system service tag. ^MS(5),,35823
+35827,DellCares,False,Wed Nov 01 14:25:36 +0000 2017,@123808 contact our sales team if you want to purchase a new motherboard.  Kindly DM the system service tag if you require any(3),,35823
+35828,DellCares,False,Wed Nov 01 14:25:36 +0000 2017,@123808 activate windows after the Motherboard is replaced as the windows product key is embedded on the motherboard. You may (2),35831,35823
+35831,123808,True,Wed Nov 01 15:30:27 +0000 2017,"@DellCares I guess I don't understand, how do I get the embedded windows key if I need to enter it after replacing the MB?",,35828
+35829,DellCares,False,Wed Nov 01 14:25:00 +0000 2017,"@123808 Hi Mark,
+Thank you for reaching out to us. Changing the Motherboard will not affect windows. However, you may have to (1)",35832,35823
+35832,123808,True,Wed Nov 01 14:30:31 +0000 2017,@DellCares have to what?,35833,35829
+35833,DellCares,False,Wed Nov 01 15:22:25 +0000 2017,"@123808 HI Mark,
+We have replied to you via Direct Message. ^MS",,35832
+35824,123808,True,Thu Sep 28 13:47:43 +0000 2017,@DellCares Is there a email address I can email to tech support?,35822,
+35834,GloCare,False,Thu Sep 15 03:18:23 +0000 2016,@123809 Kindly forward your number for clarification. SO,35835,35836
+35835,123809,True,Wed Nov 01 13:13:44 +0000 2017,@GloCare 08079974767.Thanks,35837,35834
+35837,GloCare,False,Wed Nov 01 16:35:38 +0000 2017,@123809 We apologize for any inconvenience you may have experienced. Please describe the exact difficulty. Thank you. UO.,35838,35835
+35838,123809,True,Wed Nov 01 16:43:11 +0000 2017,@GloCare No issues... Just want to know which match you guys are showing for us tonight,,35837
+35836,123809,True,Wed Sep 14 19:51:54 +0000 2016,I got this again after the first message sent to you pls explain all to me @GloCare https://t.co/BGF3b0OOT1,35834,
+35839,AirAsiaSupport,False,Mon May 22 03:08:44 +0000 2017,"@123810 Hi Kelly, we've replied your DM. Check it out. Thanks. -Floi","35840,35841",35842
+35840,123810,True,Wed Nov 01 13:30:50 +0000 2017,@AirAsiaSupport I wrong buy ticket can I change it?,,35839
+35841,123810,True,Wed Nov 01 13:29:52 +0000 2017,@AirAsiaSupport I need the help,,35839
+35842,123810,True,Sun May 21 17:36:58 +0000 2017,@115798,35839,
+35843,AmazonHelp,False,Wed Nov 01 13:58:00 +0000 2017,@123811 What carrier is your order with? ^KM,35844,35845
+35844,123811,True,Wed Nov 01 18:43:50 +0000 2017,@AmazonHelp It did not say on the tracking who was carrying it.  I did get contacted from Amazon and now they promised first thing in the morning.,35846,35843
+35846,AmazonHelp,False,Wed Nov 01 18:50:00 +0000 2017,@123811 Oh no! I'm sorry for the delay. Please keep us in the loop and let us know if you receive the package by the new date. ^TG,35847,35844
+35847,123811,True,Thu Nov 02 09:43:45 +0000 2017,@AmazonHelp They said on he we site they tried to deliver at 853 last night.  Checked my video.  The delivery guy never showed.,35848,35846
+35848,AmazonHelp,False,Thu Nov 02 09:54:00 +0000 2017,@123811 Sorry to hear this - pls contact us so we can escalate to the carrier :  https://t.co/hApLpMlfHN ^TD,35849,35847
+35849,123811,True,Thu Nov 02 10:17:19 +0000 2017,@AmazonHelp I have twice.  This will not fix a stupid driver who cannot read the address or instructions correctly.,35850,35848
+35850,AmazonHelp,False,Thu Nov 02 10:22:00 +0000 2017,@123811 What was advised when you spoke with us directly? ^NV,35851,35849
+35851,123811,True,Thu Nov 02 20:26:35 +0000 2017,@AmazonHelp they took additional details and verified my phone and still failed to deliver today.  I assume i need to stand out on the street waving.,35852,35850
+35852,AmazonHelp,False,Thu Nov 02 20:29:32 +0000 2017,@123811 Please give us a call: https://t.co/JzP7hlA23B to go over your available options. ^CO,"35853,35854",35851
+35853,123811,True,Thu Nov 02 20:43:44 +0000 2017,@AmazonHelp The option i have chosen is to go to the store and buy it.   If i need underwear and soap i will consider amazon.   That all trust i have.,,35852
+35854,123811,True,Thu Nov 02 20:42:16 +0000 2017,@AmazonHelp I called and cancelled the order.   I have wasted too much time on the phone and there is no reason why you would make the delivery tomorrow,,35852
+35845,123811,True,Wed Nov 01 13:55:56 +0000 2017,Wow @115830 who do you use for delivery people.  Are they trained to lie?  I have been home all day.  This is shit.,35843,
+35855,AmazonHelp,False,Wed Nov 01 13:59:00 +0000 2017,"@123812 Hola, apenas esté disponible el contenido será anunciado directamente en la página web. Mantente atenta 😉 ^LG",,35856
+35856,123812,True,Wed Nov 01 13:53:38 +0000 2017,@123813 Cuándo podré ver la siguiente temporada de Mr.Robot ya que no está disponible para la región 😡,35855,35857
+35857,123813,True,Wed Nov 01 04:14:02 +0000 2017,"¡Ya ha llegado https://t.co/RVrBkQgdSR - Series, Películas y mucho más! https://t.co/nQgBvGrG8G","35856,35858,35859,35860,35861,35862,35863,35864,35865,35866,35867,35868,35869,35870,35871,35872,35873,35874,35875,35876,35877,35878,35879,35880,35881,35882,35883,35884,35885,35886,35887,35888,35889,35890,35891,35892,35893,35894,35895,35896,35897,35898,35899,35900",
+35901,AmazonHelp,False,Wed Nov 01 13:57:35 +0000 2017,"@123814 Certainly unintended, Bunty. Please share your details here: https://t.co/GIJyeYqKE0 and we'll check this out. ^MS",35902,35903
+35902,123814,True,Wed Nov 01 14:00:43 +0000 2017,@AmazonHelp Replied... With details.. Lets see if you can help from birthday party being ruined,35904,35901
+35904,AmazonHelp,False,Wed Nov 01 14:12:27 +0000 2017,@123814 Thanks for confirming. We'll check this and get back with an update shortly. ^YP,35905,35902
+35905,123814,True,Wed Nov 01 16:57:44 +0000 2017,@AmazonHelp How short is your shortly? A response with an ETA would have been professional,35906,35904
+35906,AmazonHelp,False,Wed Nov 01 17:09:00 +0000 2017,"@123814 Once we receive the details, we'd get back to you the latest by 12 hours. Appreciate your patience. ^BS",35907,35905
+35907,123814,True,Thu Nov 02 06:26:53 +0000 2017,@AmazonHelp How long would be this 12 hours wait #AmazonIndia? Is already 14 hours from your last tweet... Or clocks working differently at your end,35908,35906
+35908,AmazonHelp,False,Thu Nov 02 06:44:25 +0000 2017,@123814 I'm sorry for the stretch. We're working on the issue and will reach out to you end of the day today. ^AP,35909,35907
+35909,123814,True,Thu Nov 02 06:45:50 +0000 2017,@AmazonHelp #AmazonIndia what would reaching out that to end of day would do..Better try to get this atleast delivered today. That would be more helpful,"35910,35911",35908
+35910,AmazonHelp,False,Thu Nov 02 06:57:55 +0000 2017,@123814 email ID. Kindly check it here: https://t.co/8DAc10S7ww. 2/2 ^RS,,35909
+35911,AmazonHelp,False,Thu Nov 02 06:57:55 +0000 2017,"@123814 As mentioned earlier, if you've shared your details previously, you'll be seeing a correspondence to your registered 1/2 ^RS",35912,35909
+35912,123814,True,Thu Nov 02 07:08:42 +0000 2017,"@AmazonHelp #AmazonIndia few more lies from #aramex . Incorrect address, time restricted, office,.. 
+
+Is home not an office address. Stop lying https://t.co/dHO3eweRco",35913,35911
+35913,AmazonHelp,False,Thu Nov 02 07:12:27 +0000 2017,@123814 Kindly check the correspondence sent to your registered email and reply to it. We'll help you further. ^ZH,35914,35912
+35914,123814,True,Thu Nov 02 07:28:03 +0000 2017,"@AmazonHelp Yeah got your 'at the earliest' response.. 
+
+Can't you give a 100% sure answer by talking to your courier partner. Is it that hard ¡¡ https://t.co/nH1ziAugRH",35915,35913
+35915,AmazonHelp,False,Thu Nov 02 07:30:31 +0000 2017,@123814 We're currently working on your issue. We'll contact you with an update soon. Request you to wait for an update. ^ZH,35916,35914
+35916,123814,True,Thu Nov 02 10:09:37 +0000 2017,@AmazonHelp When will this soon of your arrive? Nearing end of day 3 without any real update or solution #Amazon #AmazonIndia #Flipkart,35917,35915
+35917,AmazonHelp,False,Thu Nov 02 10:29:56 +0000 2017,@123814 Apologies for the ordeal. We'll get back to you as soon as we have an update. ^PS,35918,35916
+35918,123814,True,Thu Nov 02 10:33:30 +0000 2017,"@AmazonHelp I'm hearing since 3 days.yet to receive update .. 
+ How can't you track and give an ETA on your own deliverance #AmazonIndia #Amazon",35919,35917
+35919,AmazonHelp,False,Thu Nov 02 10:53:01 +0000 2017,"@123814 I assure you, we're truly sorry for the stretch. Our team will get back to you with an update surely. ^RS",35920,35918
+35920,123814,True,Thu Nov 02 10:56:12 +0000 2017,@AmazonHelp #AmazonIndia i thought amazon had the best Service. Therefore ordered more than 100 items... But this incident lost my trust,35921,35919
+35921,AmazonHelp,False,Thu Nov 02 11:22:00 +0000 2017,"@123814 Apologies for the unpleasant experience, this wasn't intended. We request your patience while we work on it ^BS",35922,35920
+35922,123814,True,Thu Nov 02 11:31:26 +0000 2017,@AmazonHelp No one intends on this.. However one reported than taking more than 3 days to resolve or even update.. Is bad customer service #AmazonIndia,35923,35921
+35923,AmazonHelp,False,Thu Nov 02 11:47:52 +0000 2017,"@123814 I get your disappointment. As requested, please give us sometime to work and we'll get back to you with an update soon. ^NK",35924,35922
+35924,123814,True,Thu Nov 02 15:10:29 +0000 2017,@AmazonHelp Still waiting for your soon.. The entire day.. #AmazonIndia,,35923
+35903,123814,True,Wed Nov 01 13:49:31 +0000 2017,@AmazonHelp Already did.. Even to your escalation team.. The courier number they gave was even incorrect.. This was present for today's bday.. Ruined...,35901,35925
+35925,AmazonHelp,False,Wed Nov 01 13:47:34 +0000 2017,@123814 I'm sorry for the delay in delivery. Please get in touch with us via https://t.co/TxK11znixD and we'll check this out. ^AM,35903,35926
+35926,123814,True,Wed Nov 01 13:44:13 +0000 2017,"#AmazonIndia can't deliver in time and funny updates of timeline app..
+
+Even customer care couldn't help in two days #Amazon https://t.co/vdUuTXp6KP",35925,
+35927,AmazonHelp,False,Wed Nov 01 13:54:34 +0000 2017,"@123815 Olá, no momento não temos esta informação, mas fique de olho no site e midias socias para mais novidades. ❤ ^DA",35928,35929
+35928,123815,True,Wed Nov 01 13:56:15 +0000 2017,@AmazonHelp Muito obrigada de verdade,35930,35927
+35930,AmazonHelp,False,Wed Nov 01 14:02:34 +0000 2017,"@123815 De nada. Caso precisar de informação adicional, é só perguntar 😉 ^LG",35931,35928
+35931,123815,True,Wed Nov 01 14:47:49 +0000 2017,@AmazonHelp Pode deixar,,35930
+35929,123815,True,Wed Nov 01 13:49:24 +0000 2017,"@117086 Bom dia, gostaria de saber se o livro da @2200 a vida sem filtro vai está à venda em Portugal?!",35927,
+35932,AmazonHelp,False,Wed Nov 01 13:54:34 +0000 2017,"@122493 As informed, as you've already shared the details, we'll look into the issue and get back to you soon. ^SU",,35933
+35933,122493,True,Wed Nov 01 13:43:39 +0000 2017,"It's not disappointing,but""IRRITATING""for me and #SHAMEFUL on @115850 I know you'll come up with just a ""SORRY"" coz it can't be delivered. https://t.co/h0MehKwyhX",35932,
+35934,AmazonHelp,False,Wed Nov 01 13:54:08 +0000 2017,"@123816 Hi, sorry to see that. When is the order due to be dispatched: https://t.co/PyACxvY8Qo? ^JJ",35935,35936
+35935,123816,True,Wed Nov 01 16:12:46 +0000 2017,"@AmazonHelp I’m not sure, I ordered it at 8am this morning with 1 day shipping. I just got the email saying I will get an email when it’s been shipped","35937,35938",35934
+35937,AmazonHelp,False,Wed Nov 01 16:49:42 +0000 2017,"@123816 2/2 For details on how shipping and delivery dates are calculated, please see here: https://t.co/zGyLuHMPgq ^CO",35939,35935
+35939,123816,True,Wed Nov 01 21:53:30 +0000 2017,"@AmazonHelp Awesome, thank you!",35940,35937
+35940,AmazonHelp,False,Wed Nov 01 22:06:34 +0000 2017,"@123816 You're welcome. Please let us know if you have any other questions or concerns, we're here for you! 😃 ^EB",,35939
+35938,AmazonHelp,False,Wed Nov 01 16:49:29 +0000 2017,@123816 One-Day Shipping refers to the transit time in business days after an order has shipped. 1/2,,35935
+35936,123816,True,Wed Nov 01 13:50:41 +0000 2017,@115821 how come the order I made today using amazon prime guarantee next day delivery says guaranteed delivery Nov 6? https://t.co/NZPhnTDEEW,35934,
+35941,AmazonHelp,False,Wed Nov 01 13:54:01 +0000 2017,"@123817 I'm sorry, I'm unable to comprehend your concern, could you please elaborate the issue. ^SU",,35942
+35942,123817,True,Wed Nov 01 13:42:44 +0000 2017,@118919 called Glen Service Center to install but thier response is very cool.Pls help https://t.co/eM5K7bkkw7,35941,
+35943,AmazonHelp,False,Wed Nov 01 13:54:01 +0000 2017,@123818 お手数をおかけしております。恐れ入りますが、カスタマーサービスの回答をお待ちいただければと思います。　リプライありがとうございました。　SM,,35944
+35944,123818,True,Wed Nov 01 13:50:42 +0000 2017,@AmazonHelp ありがとうございます。問い合わせさせて頂いております。,35943,35945
+35945,AmazonHelp,False,Wed Nov 01 13:48:51 +0000 2017,@123818 失礼いたします。Amazonギフト券のご利用際しお困りの場合は、カスタマーサービスにて確認のうえご案内いたします。よろしければ、以下よりお問い合わせください。https://t.co/J6YEizo6qC　SM,35944,35946
+35946,123818,True,Wed Nov 01 13:42:40 +0000 2017,Amazon ギフト券が使えないorz,35945,
+35947,AmazonHelp,False,Wed Nov 01 13:53:32 +0000 2017,"@123819 Hi Pam, have we missed the date given in your order confirmation email? What info is visible here: https://t.co/PCtircFm5C ^TS",35948,35949
+35948,123819,True,Wed Nov 01 14:02:31 +0000 2017,@AmazonHelp this is what the app says https://t.co/fQk98Cqk4u,35950,35947
+35950,AmazonHelp,False,Wed Nov 01 14:08:38 +0000 2017,"@123819 So sorry for the delay, Pam! Please contact us here: https://t.co/hApLpMlfHN so we can look into this for you. ^AD",,35948
+35949,123819,True,Wed Nov 01 13:48:18 +0000 2017,"Twin Peaks the Final Dossier was expected to arrive yesterday, the day it was released. Yay, preorder! Except @115821 hasn’t shipped it yet.",35947,
+35951,AmazonHelp,False,Wed Nov 01 13:52:47 +0000 2017,"@123820 Julianaaa, assim você abala nossos corações com tanto amor! ❤ ^DA https://t.co/3YCtBQLIyg",35952,35953
+35952,123820,True,Wed Nov 01 14:11:19 +0000 2017,@AmazonHelp Por favor! Assim eu que não aguento. Venha cá e me dê um abracinho! ❤️,35954,35951
+35954,AmazonHelp,False,Wed Nov 01 14:17:43 +0000 2017,"@123820 Aaaah, que amor! Te mandamos um super abrazoo ❤ ^DA https://t.co/HhBAj6wri7",,35952
+35953,123820,True,Wed Nov 01 13:47:11 +0000 2017,"Quero declarar meu amor pela @117086. Melhor serviço! 
+Entregam meus livros quase que de um dia para o outro. ❤️",35951,
+35955,AmazonHelp,False,Wed Nov 01 13:52:14 +0000 2017,"@123821 Hey Vishal, she can do a lot more than that. Trying saying ""Alexa, beatbox for me"". ^MP",35956,35957
+35956,123821,True,Wed Nov 01 14:20:26 +0000 2017,@AmazonHelp I shall! 👍,,35955
+35957,123821,True,Wed Nov 01 13:23:58 +0000 2017,"It is so much fun coming home after a day at work, entering the room &amp; simply saying ""Alexa, play some trance music"". @115821 @116935 https://t.co/ikIHSIvd7g",35955,
+35958,AmazonHelp,False,Wed Nov 01 13:51:29 +0000 2017,@123822 I'm sorry to know about that. Kindly connect with us here: https://t.co/vlvfJr4nN9 we'd like to help. ^SG,,35959
+35959,123822,True,Wed Nov 01 13:44:07 +0000 2017,@115850 why you sending puzzles.. https://t.co/SszwFG1c7r,35958,
+35960,AmazonHelp,False,Wed Nov 01 13:51:00 +0000 2017,"@123823 Sorry for the trouble. We'd like to troubleshoot this with you in real-time, pls contact us: https://t.co/hApLpMlfHN ^CO",,35961
+35961,123823,True,Wed Nov 01 13:38:35 +0000 2017,@AmazonHelp Why is Amazon Prime Music stations repeating the first song? Every station I've tried does it.,35960,
+35962,AmazonHelp,False,Wed Nov 01 13:49:25 +0000 2017,"@123824 Hi, sorry you've had trouble getting in touch! Do you see one order, or several here: https://t.co/PCtircFm5C ^TS","35963,35964",35965
+35963,123824,True,Wed Nov 01 13:55:21 +0000 2017,@AmazonHelp Your overcharging made my account to overdraft and now my bank is slapping me with a $35 overdraft fees... I expect you can fix this!,,35962
+35964,123824,True,Wed Nov 01 13:51:45 +0000 2017,"@AmazonHelp My original order was split into 2, the 1st 1 was charged properly &amp; already delivered but I got 3 charges for the 2nd 1 which is on it way.",35966,35962
+35966,AmazonHelp,False,Wed Nov 01 14:01:29 +0000 2017,"@123824 Thanks for clarifying. We'd like to help, contact us by phone or chat at anytime: https://t.co/hApLpMlfHN ^MG",35967,35964
+35967,123824,True,Wed Nov 01 20:15:22 +0000 2017,"@AmazonHelp I just wanted to update you on my experience w/ your customer svc center. Carmina listen to my problem and successfully resolved it, thxs! 🙂",35968,35966
+35968,AmazonHelp,False,Wed Nov 01 20:25:38 +0000 2017,@123824 Wonderful! Thanks so much for sharing your experience with us! 😊 Let us know if you have any other questions/concerns. ^WJ,,35967
+35965,123824,True,Wed Nov 01 13:45:57 +0000 2017,"@115821 charging me 3 times for the same purchase is unacceptable, as well as not having a customer svc phone # easily accessible online! 😠",35962,
+35969,AppleSupport,False,Wed Nov 01 13:59:00 +0000 2017,@123825 We'd like to hear more about your experience. Go ahead and DM us more details here: https://t.co/GDrqU22YpT,35970,35971
+35970,123825,True,Wed Nov 01 18:55:49 +0000 2017,@AppleSupport Thanks for coming back to me this time but will it achieve anything?!? I’m still in the same position I was in 4 months ago!!! #frustrated,35972,35969
+35972,AppleSupport,False,Wed Nov 01 19:21:00 +0000 2017,@123825 We'd like to hear more about your experience. Reach out to us in DM. https://t.co/GDrqU22YpT,,35970
+35971,123825,True,Wed Nov 01 13:47:42 +0000 2017,Another pointless call with @115858 &amp; @AppleSupport disgusting customer service with no care for their customers!!! Who can I complain to?!😡,"35969,35973",
+35974,AppleSupport,False,Wed Nov 01 13:57:26 +0000 2017,@123826 We completely understand and want to help. Please reach out to our iTunes Support team directly here: https://t.co/SDIe7UiyJN,35975,35976
+35975,123826,True,Wed Nov 01 14:12:32 +0000 2017,@AppleSupport Listen @AppleSupport  I need a number to iTunes support right now please I need to talk to them,,35974
+35976,123826,True,Wed Nov 01 13:50:32 +0000 2017,@AppleSupport You guys over charged me on iTunes @AppleSupport and I want my money back I’m really upset,35974,35977
+35977,AppleSupport,False,Mon Oct 30 18:41:45 +0000 2017,"#AppleWatch helps you meet your fitness goals. 
+
+Here's how to start a High Intensity Interval Training workout and set a goal. https://t.co/DZXZO1giU2","35978,35979,35976,35980,35981,35982,35983,35984,35985,35986,35987,35988,35989,35990,35991,35992,35993,35994,35995,35996,35997,35998,35999,36000,36001,36002,36003,36004,36005,36006,36007,36008,36009,36010,36011,36012,36013",
+36014,AppleSupport,False,Wed Nov 01 13:56:00 +0000 2017,@123827 We'd like to take a closer look at this with you. Reach out via DM with the details. https://t.co/GDrqU22YpT,36015,36016
+36015,123827,True,Wed Nov 01 14:14:36 +0000 2017,@AppleSupport I have dropped in a DM to you guys.,,36014
+36016,123827,True,Wed Nov 01 13:49:40 +0000 2017,@115858 @AppleSupport that's what I get for buying #AppleWatchSeries3. And your support here tells me there is no problem with the watch! https://t.co/z5eW7C4pKv,36014,
+36017,AppleSupport,False,Wed Nov 01 13:55:00 +0000 2017,@123828 You're welcome.,,36018
+36018,123828,True,Wed Nov 01 13:52:17 +0000 2017,"@AppleSupport OK, Thank you!
+ I will contact the Japanese support center.",36017,36019
+36019,AppleSupport,False,Wed Nov 01 13:49:00 +0000 2017,@123828  We offer support via Twitter in English. Contact us for help in your preferred language here: https://t.co/IBIY3vMgPj,36018,36020
+36020,123828,True,Wed Nov 01 13:43:43 +0000 2017,"は。このバグ直してーーー
+
+@AppleSupport https://t.co/h089ruD8tv",36019,
+36021,AppleSupport,False,Wed Nov 01 13:55:00 +0000 2017,@123829 Send us a DM. We'll continue working from there. https://t.co/GDrqU22YpT,36022,36023
+36022,123829,True,Wed Nov 01 14:15:42 +0000 2017,@AppleSupport Thank you!,,36021
+36023,123829,True,Wed Nov 01 13:46:40 +0000 2017,@AppleSupport I made an appt at Bridgeport on the phone. Rcvd no email. Can you please check if I have an appt?,36021,
+36024,AppleSupport,False,Wed Nov 01 13:54:30 +0000 2017,@123830 You don't have to sign up to be a developer. But iTunes Connect support is done through the same support.,36025,36026
+36025,123830,True,Wed Nov 01 17:08:36 +0000 2017,@AppleSupport Can you DM me please? Am really stuck!! x,,36024
+36026,123830,True,Wed Nov 01 13:29:41 +0000 2017,@AppleSupport Does this mean I as a musical artist have to enrol as an Apple Developer? All I want to do is set my Artist Photo on Apple Music!! xx,36024,36027
+36027,AppleSupport,False,Mon Oct 30 13:38:31 +0000 2017,@123830 We'd want to get you to our Developer Support for assistance: https://t.co/rSt0PtuKcC,36026,36028
+36028,123830,True,Mon Oct 30 10:23:39 +0000 2017,@AppleSupport Trying to access iTunes Connect and keep getting this when I click on artists. On two different computers (both IE and Chrome) https://t.co/SLcNN0jSkW,"36029,36027",
+36030,AppleSupport,False,Wed Nov 01 13:54:30 +0000 2017,"@123831 Let's work together to find the best solution. To clarify, have you tried quitting the Messages app and restarting?",36031,36032
+36031,123831,True,Wed Nov 01 13:56:28 +0000 2017,"@AppleSupport I have, also have signed out of my iMessage account and logged back in",36033,36030
+36033,AppleSupport,False,Wed Nov 01 14:03:31 +0000 2017,"@123831 Alright, good to know. Let's double check the items listed under ""Set up SMS and MMS messaging"": https://t.co/jmMBILbFAw",36034,36031
+36034,123831,True,Wed Nov 01 14:55:47 +0000 2017,@AppleSupport Yes to all under the SMS relay section,36035,36033
+36035,AppleSupport,False,Wed Nov 01 15:30:00 +0000 2017,"@123831 Perfect. Next up, let's try restarting your Mac in safe mode to see if the behavior persists: https://t.co/PQ4LSYhUTY",36036,36034
+36036,123831,True,Wed Nov 01 15:32:30 +0000 2017,"@AppleSupport Have to do this later then, on work machine at the moment.",36037,36035
+36037,AppleSupport,False,Wed Nov 01 16:03:37 +0000 2017,"@123831 No worries. We're here every day from 5am to 8pm, Pacific. Feel free to DM us once you have a chance to try that out. https://t.co/GDrqU22YpT",,36036
+36032,123831,True,Wed Nov 01 13:45:35 +0000 2017,@applesupport Upgraded to #macOS #HighSierra - noticed that my iMessages/SMS are coming in out of order. Appear fine on my iPhone. Thoughts?,36030,
+36038,AppleSupport,False,Wed Nov 01 13:54:00 +0000 2017,@123832 Glad to help. Let us know what iOS is running there let's have a closer look at things.,,36039
+36039,123832,True,Wed Nov 01 13:27:05 +0000 2017,I go to send one text and my phone battery went from 56% to 38% ??? @AppleSupport . It has also dropped to 32% while typing this tweet.,"36040,36041,36038",
+36042,AppleSupport,False,Wed Nov 01 13:53:28 +0000 2017,@123833 iOS 11.1 is available now. You can update using the steps here: https://t.co/80YRnjDFDk,36043,36044
+36043,123833,True,Wed Nov 01 13:57:10 +0000 2017,@AppleSupport 😅👍,,36042
+36044,123833,True,Wed Nov 01 13:50:06 +0000 2017,When the update will be available?  iOS 11.1 @AppleSupport.,36042,
+36045,AppleSupport,False,Wed Nov 01 13:53:00 +0000 2017,@123834 Send us a DM and let us know what version of iOS you're running. We'll go from there. https://t.co/GDrqU22YpT,,36046
+36046,123834,True,Wed Nov 01 13:48:13 +0000 2017,@AppleSupport please fix this annoying letter “I️” (eye) bug. It autocorrects/spelling suggestion to weird characters. https://t.co/jhcjjEIW2q,36045,
+36047,AppleSupport,False,Wed Nov 01 13:52:36 +0000 2017,@123835 We'd like to work with you on this. Please give us a little more detail in DM. We can help from there. https://t.co/GDrqU22YpT,,36048
+36048,123835,True,Wed Nov 01 13:42:46 +0000 2017,@AppleSupport Using Apple mobile since 2010 &amp; currently iPhone 7 Plus.Replaced thrice but the problem still persists. Shld switch Android?,36047,
+36049,AppleSupport,False,Wed Nov 01 13:52:00 +0000 2017,"@123836 We want you to be able to update your Mac.  Please send us a DM, so we can take a closer look. https://t.co/GDrqU22YpT",,36050
+36050,123836,True,Wed Nov 01 13:40:36 +0000 2017,@123837 @123838 I’m also stuck on 10.13.1 beta (17B46a) and won’t show 10.13.1 final to show in App Store updates. @AppleSupport https://t.co/E3NWeZ45MP,36049,36051
+36051,123837,True,Wed Nov 01 03:12:26 +0000 2017,"@123838 Yeah, same on my iMac.",36050,36052
+36052,123838,True,Wed Nov 01 02:14:41 +0000 2017,"Doing run of 10.13.1 installer for wife’s MBA, she was accidentally beta’d to begin with. 🤷‍♂️ 
+
+My MBP, I guess I’ll roll to 10.13.2 beta. https://t.co/zSYQ2zxw54",36051,36053
+36053,123838,True,Wed Nov 01 02:13:17 +0000 2017,Both my Macs seem to be stuck on the last beta of 10.13.1 (17B46a) not showing final version as an update 🤔,36052,
+36054,AppleSupport,False,Wed Nov 01 13:51:32 +0000 2017,@123839 We'd love to help.  Send us over a DM with your exact iOS version and iPhone model.  We'll go from there. https://t.co/GDrqU22YpT,,36055
+36055,123839,True,Wed Nov 01 13:39:59 +0000 2017,"Dear @115858 @AppleSupport, 
+
+Updated my iPhone 6s to iOS 11, &amp; the responsiveness of the screen has decreased significantly.
+
+What gives?","36056,36054,36057,36058,36059,36060,36061",
+36062,AppleSupport,False,Wed Nov 01 13:49:28 +0000 2017,@123840 We offer support via Twitter in English. Contact us for help in your preferred language here: https://t.co/IBIY3vMgPj,,36063
+36063,123840,True,Wed Nov 01 13:18:10 +0000 2017,"Klucííí... z @115858, co mi to děláte? Safari s #iOS 11.1 na #iPhone8Plus neustále padá 📲🕳 chápu, je podzim 🍏🍂...ale tohle nebaví! 🤨 #Fail",36062,
+36064,AppleSupport,False,Wed Nov 01 13:49:28 +0000 2017,@123841 We offer support via Twitter in English. Contact us for help in your preferred language here: https://t.co/IBIY3vMgPj,,36065
+36065,123841,True,Wed Nov 01 13:43:31 +0000 2017,@AppleSupport insupportable le bug du clavier toujours pas corrigé sur iOS 11.1 ! C’est une priorité d’avoir un clavier fonctionnel non ?,36064,
+36066,AppleSupport,False,Wed Nov 01 13:49:03 +0000 2017,@123842 We offer support via Twitter in English. Get help in Spanish here: https://t.co/IBIY3vMgPj or join https://t.co/OczyRx7IOs,,36067
+36067,123842,True,Wed Nov 01 13:38:02 +0000 2017,Tengo un problema con macos high Sierra y no tengo ni idea de como solucionarlo. @AppleSupport @119459 https://t.co/ZZPzd8fZAw,36066,
+36068,AppleSupport,False,Wed Nov 01 13:48:37 +0000 2017,@123843 Hey there. We'd be happy to help. Send us a DM so we can look into the issue with you there. https://t.co/GDrqU2kzhr,36069,36070
+36069,123843,True,Wed Nov 01 14:51:11 +0000 2017,@AppleSupport Its been an Hour can you please check the DMs,,36068
+36070,123843,True,Wed Nov 01 13:42:13 +0000 2017,"Can you help me update to iOS 11.1 @AppleSupport it says ""verifying update"" and then error every time I try to install it.","36068,36071",
+36072,AppleSupport,False,Wed Nov 01 13:48:00 +0000 2017,@123844 Let us help. DM us more details. https://t.co/GDrqU22YpT,,36040
+36040,123844,True,Wed Nov 01 13:28:55 +0000 2017,@123832 @AppleSupport SAME,36072,36039
+36073,AppleSupport,False,Wed Nov 01 13:47:26 +0000 2017,@123845 Hey there. We'll be happy to answer that. Check out more about Force Touch here: https://t.co/bvCxuuAG7f,,36074
+36074,123845,True,Wed Nov 01 13:38:03 +0000 2017,@applesupport is it possible to modify force touch actions on my Mac? For example make force touch click open a new tab.,36073,
+36075,AppleSupport,False,Wed Nov 01 13:47:00 +0000 2017,@123846 We'd be happy to look into this with you.  Please reach out to us via DM and we'll get started. https://t.co/GDrqU22YpT,,9229
+9229,123846,True,Wed Nov 01 13:37:17 +0000 2017,@AppleSupport Where’s the update for this I️. Why does the letter l do that. Why do I️ have to use a lowercase L for a capital l?!,36075,9200
+36076,AppleSupport,False,Wed Nov 01 13:46:30 +0000 2017,@123847 We're here to help. Let's take this to DM so we can better assist you. https://t.co/GDrqU22YpT,,36077
+36077,123847,True,Wed Nov 01 13:22:42 +0000 2017,"@116333 @115858 @AppleSupport Hi, ı want to talk to you my complaint about services given by your senior advisor’s from turkey. Cheated:/",36076,
+36078,AppleSupport,False,Wed Nov 01 13:46:30 +0000 2017,@123848 Please let us know in DM when these issues happen with your iPhone and we’ll continue there: https://t.co/GDrqU22YpT,,36079
+36079,123848,True,Wed Nov 01 13:27:46 +0000 2017,@AppleSupport Mmmmm any word? What is going on?,36078,36080
+36080,123848,True,Tue Oct 31 14:03:02 +0000 2017,@AppleSupport 11.0.3,36079,36081
+36081,AppleSupport,False,Mon Oct 30 20:45:31 +0000 2017,@123848 We'd be more than happy to look into this with you. What version of iOS are you using and are your apps up-to-date?,"36082,36083,36080",36084
+36084,123848,True,Mon Oct 30 20:36:59 +0000 2017,"@115858 @AppleSupport @116333 What Is going on with the #Iphone, it is very unresponsive and has a lot of lag #iphone6SPlus and #iphone8",36081,
+36085,AppleSupport,False,Wed Nov 01 13:46:30 +0000 2017,"@123849 Okay. Send us a DM, and we'll continue to help out from there. https://t.co/GDrqU22YpT",36086,36087
+36086,123849,True,Wed Nov 01 23:30:00 +0000 2017,@AppleSupport DM sent,,36085

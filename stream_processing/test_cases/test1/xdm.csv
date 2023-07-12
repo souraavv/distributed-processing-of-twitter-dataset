@@ -1,0 +1,1000 @@
+106427,139590,True,Thu Nov 30 20:00:47 +0000 2017,"@GWRHelp I'm on the 16.57 from Plymouth to London Paddington, Coach D Seat 61, the plug sockets are also not working. Thanks Josh",106429,106426
+106429,GWRHelp,False,Thu Nov 30 20:40:43 +0000 2017,@139590 Thanks for confirming. I'll make sure these issues get reported to our maintenance team. Lewis,106430,106427
+106430,139590,True,Fri Dec 01 12:21:13 +0000 2017,@GWRHelp That's great that I do train inspections for @GWRHelp and  pay a fare of £60 to do them! Four hours on a freezing train. Last time.,,106429
+106428,139590,True,Thu Nov 30 18:30:48 +0000 2017,"@GWRHelp The train is freezing and the poor ""manager"" is suggesting we leave our reserved seats in search of a warmer carriage. Really poor.",106426,
+106431,GWRHelp,False,Thu Nov 30 18:42:02 +0000 2017,@121204 Hi there. That's correct. Your journey exceeds the railcards limitations - Josh,106432,106433
+106432,121204,True,Thu Nov 30 18:43:53 +0000 2017,@GWRHelp I thought tickets with a Network Railcard discount are valid (only) on through services between Yeovil Pen Mill and London Waterloo (via Westbury). Have I got this wrong?,106434,106431
+106434,GWRHelp,False,Thu Nov 30 19:15:00 +0000 2017,@121204 It's not showing as valid on the 16:53 service via Westbury. The journey has to be wholly within the network railcard area. Lewis,106435,106432
+106435,121204,True,Thu Nov 30 19:39:33 +0000 2017,"@GWRHelp Hi Lewis, I read this in @128411 Magazine, contradicting what your ticket clerk and you are telling me. It says on through services (which the 1653 Pen Mill to Waterloo is) then my ticket is valid. It’s very frustrating getting conflicting answers. Who’s correct? @139591 https://t.co/LoX2LeYKVw",106436,106434
+106436,GWRHelp,False,Thu Nov 30 19:59:51 +0000 2017,@121204 @128411 @139591 Using the 16:53 service isn't showing as a valid journey on my systems I'm afraid. As it a South Western Railway journey I'd advise speaking with them directly. Lewis,106437,106435
+106437,121204,True,Thu Nov 30 20:15:09 +0000 2017,@GWRHelp @128411 @139591 OK Lewis. I’ll ask SWR.,106438,106436
+106438,121204,True,Thu Nov 30 21:03:18 +0000 2017,"@GWRHelp @128411 @139591 @SW_Help The ticket clerk at YVP said my ticket wasnt valid on the SWR 1653 YVP-WAT (via Westbury) train as it has a Network Railcard discount. I queried this with @GWRHelp, they said as it a SWR journey I need speak to you. Was my ticket valid or not on this train today please? https://t.co/86sSxhfWMQ",106439,106437
+106439,SW_Help,False,Thu Nov 30 21:23:19 +0000 2017,"@121204 @GWRHelp @128411 @139591 Hi Paul, your ticket is valid to travel via Dorchester but not via YVP and Westbury with Network Railcard as Westbury is outside the Network Railcard map https://t.co/h5L8Zf1lPJ
+Hope this explains better. ^JH",106440,106438
+106440,121204,True,Thu Nov 30 22:08:38 +0000 2017,"@SW_Help @GWRHelp @128411 Good to know I can go via DCH. I read this in @128411 Magazine, which contradicts what you said about going via Westbury. It says on THROUGH services (which the 1653 YVP - WAT is) then my ticket is valid via Westbury. It’s frustrating getting conflicting answers. Who’s correct? https://t.co/76on8b3Ztt","106441,106442",106439
+106441,SW_Help,False,Thu Nov 30 22:28:46 +0000 2017,@121204 @GWRHelp @128411 that's okay? ^DB 2/2,106443,106440
+106443,121204,True,Thu Nov 30 22:37:29 +0000 2017,@SW_Help @GWRHelp @128411 Yes that’s great. Thank you.,106444,106441
+106444,SW_Help,False,Thu Nov 30 23:03:24 +0000 2017,"@121204 @GWRHelp @128411 In a surprising turn, our office-hours specialist has replied to our email at 2300! The article in RAIL is correct - you can use the tickets via Westbury, but it must be on our services. We'll feed this back to the team at Yeovil. Thanks for bearing with us! ^DB","106445,106446",106443
+106445,121761,True,Thu Nov 30 23:55:11 +0000 2017,@SW_Help @128411 @121204 @GWRHelp What a sad reflection on those 2 TOC’s...... what penalty will be imposed on incorrect information? NONE!,"106447,106448",106444
+106447,121761,True,Fri Dec 01 00:00:05 +0000 2017,@SW_Help @128411 @121204 @GWRHelp How many people have potentially been sold the wrong tickets and what a wasted opportunity to lock someone into buying a Network Card if it works out cheaper to buy one and use the discount!,106449,106445
+106449,GWRHelp,False,Fri Dec 01 00:05:49 +0000 2017,@121761 @SW_Help @128411 @121204 Good morning. Thank you for your enquiry. One of the team will respond to you first thing in the morning. AndyD,,106447
+106448,128411,True,Fri Dec 01 07:52:41 +0000 2017,@121761 @SW_Help @121204 @GWRHelp Very pleased that RAIL was able to help here - and very well done on the persistence. Very disappointing that such persistence was necessary though.,106450,106445
+106450,121204,True,Fri Dec 01 10:42:48 +0000 2017,@128411 @121761 @SW_Help @GWRHelp Thx you @128411. Unfortunately this is only half the story with @GWRHelp giving wrong information on my ticket price and restrictions this week. Where would we be without the excellent Barry Doe?,,106448
+106446,121204,True,Fri Dec 01 10:34:45 +0000 2017,"@SW_Help @GWRHelp @128411 Thank you. Can you please also feed this back to your staff @GWRHelp &amp; @SW_Help, both who gave me incorrect information for my journey. Through services have now been running for a year between YPM &amp; SAL (via WSB), so both @GWRHelp &amp; @SW_Help should have know this ages ago.",106451,106444
+106451,SW_Help,False,Fri Dec 01 15:47:57 +0000 2017,"@121204 @GWRHelp @128411 I'll feed this back to our retailing team, and suggest a rebrief to staff on the ground in the area. ^DB",106452,106446
+106452,121204,True,Fri Dec 01 15:57:09 +0000 2017,@SW_Help @GWRHelp @128411 Thank you! That’ll be great.,,106451
+106442,SW_Help,False,Thu Nov 30 22:28:44 +0000 2017,"@121204 @GWRHelp @128411 Hi Paul, I apologise - I looked into this with JH - we had missed the part about through trains! I'm going to pass this one on to a specialist who will be able to give us a hand answering this one. We'll try and get a response for you tomorrow and be back in touch then if 1/2",,106440
+106433,121204,True,Thu Nov 30 18:28:48 +0000 2017,@GWRHelp Your ticket clerk at Yeovil Pen Mill told me today that my ticket wasn’t valid on the 1653 Pen Mill to Waterloo (via Westbury) train because it has a Network Railcard discount. Is this correct? https://t.co/ejswCiFeYy,106431,
+106453,GWRHelp,False,Thu Nov 30 18:41:39 +0000 2017,@125752 The work is being done as quickly as possible but the amount of time different things take will greatly vary. Lewis,106454,106455
+106454,125752,True,Thu Nov 30 18:44:30 +0000 2017,@GWRHelp Thanks Lewis.,,106453
+106455,125752,True,Thu Nov 30 18:28:48 +0000 2017,"@GWRHelp Appreciate that, Lewis. Just trying to get a sense of how long all these train's being repaired are going to take to fix.",106453,106456
+106456,GWRHelp,False,Thu Nov 30 18:27:35 +0000 2017,@125752 Hi. I don't have those details I'm afraid but it will vary depending on the nature of the work being done. Lewis,106455,106457
+106457,125752,True,Thu Nov 30 18:07:05 +0000 2017,"@GWRHelp I'm curious. On average, how long does it take to repair a carriage? Happy to go with a range.","106456,106458",
+106459,GWRHelp,False,Thu Nov 30 18:40:42 +0000 2017,@139592 @122784 Hi Jon. So sorry for this. Which train of ours have you had issues on please? - Josh,,106460
+106460,139592,True,Thu Nov 30 18:27:13 +0000 2017,"I allowed nearly four hours to get across London to my son's parents' evening. Thanks to the combined ineptitude of @122784 and @GWRHelp, it appears I'm going to be late...","106459,106461",
+106462,GWRHelp,False,Thu Nov 30 18:38:45 +0000 2017,@139593 Hi. Can you let me know your booking reference please. Lewis,106463,106464
+106463,139593,True,Thu Nov 30 18:40:13 +0000 2017,@GWRHelp Sure I have just sent it via DM.  Thank you for looking into this.  It has just cost me £102.,,106462
+106464,139593,True,Thu Nov 30 18:24:02 +0000 2017,"@GWRHelp I have a prebooked seat on the 1800 Bris-pad booked through GWR website (I have the email specifying that train).  However, i have just had to buy another ticket from the conductor as apparently the website should not have sold me it.  Any help please?",106462,
+106465,GWRHelp,False,Thu Nov 30 18:38:22 +0000 2017,@139594 Hi Robert. Apologies that this wasn't possible today and for the inconvenience caused as a result - Josh,,106466
+106466,139594,True,Thu Nov 30 18:23:47 +0000 2017,Poor show @GWRHelp. Bourne end train at 18.20 not held by one minute to allow the people on connecting train from London to board. Most of the people who catch this are coming from London,106465,
+106467,GWRHelp,False,Thu Nov 30 18:37:46 +0000 2017,@139595 Hi there. Apologies for this Dec. This is due to more trains than usual needing repairs at the same time - Josh,"106468,106469,106470",106471
+106468,139595,True,Thu Nov 30 18:53:23 +0000 2017,@GWRHelp What’s the excuse for the 18:50 now it’s late I just want to go home,106472,106467
+106472,GWRHelp,False,Thu Nov 30 18:59:44 +0000 2017,@139595 The service is currently running 10 minutes late due to following a delayed train. Really sorry for the issues tonight  - Josh,,106468
+106469,139595,True,Thu Nov 30 18:39:41 +0000 2017,"@GWRHelp Shocking, why is that there is no alternative in place it’s just wait the half hour extra to go home sure no one cares",,106467
+106470,132079,True,Thu Nov 30 19:02:25 +0000 2017,@GWRHelp @139595 That is a unacceptable excuse. There is clearly no contingency planning.,,106467
+106471,139595,True,Thu Nov 30 18:23:40 +0000 2017,@GWRHelp why has the 18:25 from Cardiff to Swansea been cancelled?,106467,
+106473,GWRHelp,False,Thu Nov 30 18:36:33 +0000 2017,"@139596 This usually works so I'm unsure why this is happening in your case, apologies. Please apply for compensation by emailing as details to __email__. Please include your contact details as well - Josh",,106474
+106474,139596,True,Thu Nov 30 18:23:29 +0000 2017,"@GWRHelp I tried that, sadly didn’t work.",106473,106475
+106475,GWRHelp,False,Thu Nov 30 18:22:07 +0000 2017,@139596 Hi Ben. Really sorry for the inconvenience caused this evening. Please take a screenshot of the image and try and upload as this reduces the size - Josh,106474,106476
+106476,139596,True,Thu Nov 30 18:02:24 +0000 2017,"@GWRHelp so I’ve just waited two hours for a train because you cancelled one now you cancel the one I was waiting for with less than 15 mins notice. And I can’t claim back my ticket cost because your website only accepts pictures taken in the 90’s, less than 2mb!",106475,
+106477,GWRHelp,False,Thu Nov 30 18:35:22 +0000 2017,@139597 Hi there. As previously explained to you this is due to staff cover being an issue at present. The station manager is aware and is working towards a solution - Josh,"106478,106479",106480
+106478,139597,True,Thu Nov 30 18:38:22 +0000 2017,"@GWRHelp .......no need to get sparky, customer service, remember? Wow......half a dozen ticket offices closed, today again, you must have a real epidemic on your hands.",106481,106477
+106481,130654,True,Thu Nov 30 18:41:00 +0000 2017,"@139597 @GWRHelp Josh is the best at treating customers like shit! Well Done Josh, high five! 👋🏻",,106478
+106479,137808,True,Thu Nov 30 23:32:34 +0000 2017,@GWRHelp @139597 Your response is entertaining. Shouldn’t you have it as a priority to make sure passengers can pay the fares ? “Can’t be bothered to staff the payment facility” is poor. When do e tickets arrive ?,106482,106477
+106482,GWRHelp,False,Thu Nov 30 23:59:21 +0000 2017,@137808 @139597 Hello. Sorry to hear this happened. We'll pick this up and respond fully later this morning. AndyD,106483,106479
+106483,139597,True,Sat Dec 02 11:36:00 +0000 2017,@GWRHelp @137808 Haven't seen the promised full response yet.....,106484,106482
+106484,GWRHelp,False,Sat Dec 02 13:27:55 +0000 2017,"@139597 @137808 Good afternoon. We do have revenue protection staff in place on some services and stations. Mobile tickets are already in place on certain services, a full list can be found here: https://t.co/wv4AVB8sn1. Rachel",106485,106483
+106485,139597,True,Sat Dec 02 22:34:45 +0000 2017,"@GWRHelp @137808 I was sort of expecting the ""full"" response to explain why so many ticket offices are closed so much of the time, and what is being done to ensure that they are adequately staffed?",,106484
+106480,139597,True,Thu Nov 30 18:22:26 +0000 2017,@GWRHelp Helloooooo anyone there who can give me a straight answer?,106477,106486
+106486,139597,True,Wed Nov 29 08:13:57 +0000 2017,"@GWRHelp Pretty much same again today, any chance of an explanation?","106480,106487",106488
+106488,139597,True,Tue Nov 28 22:38:25 +0000 2017,"@GWRHelp so today ticket offices at Taplow, Langley, Iver, West Drayton, Hayes &amp; Harlington &amp; Southall all closed.......why?",106486,
+106489,GWRHelp,False,Thu Nov 30 18:33:54 +0000 2017,@139598 Hi there. Really sorry for this. This was due to staffing issue - Josh,,106490
+106490,139598,True,Thu Nov 30 18:21:12 +0000 2017,@GWRHelp any explanation for the 6.35 train from Worcester to Hereford is cancelled? Didn’t really fancy getting home at a reasonable time tonight anyway... 😑,"106489,106491",
+106492,GWRHelp,False,Thu Nov 30 18:32:46 +0000 2017,@139599 Hi there. I can see the service is running 7 minutes late. No reason has been attributed to this as of yet. Apologies for this - Josh,,106493
+106493,139599,True,Thu Nov 30 18:18:23 +0000 2017,@gwrhelp why is the 18:00 from Paddington stopped? Brand new train but not really all that speedy....,106492,
+106494,GWRHelp,False,Thu Nov 30 18:26:54 +0000 2017,@127296 @139600 @139601 @139602 Hi there. Extra carriages will be added when available. This can vary day by day - Josh,106495,106496
+106495,137814,True,Thu Nov 30 18:29:49 +0000 2017,@GWRHelp @127296 @139600 @139601 @139602 These are not “extra” carriages they are the ones you SHOULD be providing!,,106494
+106496,127296,True,Thu Nov 30 18:09:56 +0000 2017,@139600 @GWRHelp @139601 @139602 Wow. @GWRHelp is this a permanent addition???,106494,106497
+106497,139600,True,Thu Nov 30 18:02:25 +0000 2017,"OMG!!!
+@GWRHelp IS ATTACHING AN EXTRA CARRIAGE TO GO TO WALES!!!
+THANK YOU!!! 
+@139601 @139602 
+@127296 https://t.co/CnYhjw9z20","106496,106498",
+106499,GWRHelp,False,Thu Nov 30 18:25:35 +0000 2017,@139603 Hi Craig. You still need to catch the booked service. You can amend the ticket if you need to but there will be an admin charge plus the difference in cost - Josh,,106500
+106500,139603,True,Thu Nov 30 18:04:13 +0000 2017,@GWRHelp If you have advance single tickets but the journey now includes rail replacement can you board earlier services so you don't arrive too late at your destination?,106499,
+106501,GWRHelp,False,Thu Nov 30 18:25:25 +0000 2017,@139604 Hi Whigs. Sorry for the delay and lack of announcement. Do you mean the 17:42? Lewis,,106502
+106502,139604,True,Thu Nov 30 18:03:37 +0000 2017,"@GWRHelp I’m on the 19:42
+Pad-Mai train which has crawled most of the way without any announcements.  Any explanation?  Following a stopping service per chance?",106501,
+106503,GWRHelp,False,Thu Nov 30 18:24:36 +0000 2017,@139605 Hi Andy. Really sorry for the inconvenience caused. This is because the slow running train forms the return service meaning there is no train to form it - Josh,,106504
+106504,139605,True,Thu Nov 30 18:03:30 +0000 2017,"@GWRHelp once again a slow Redhill train ends up cancelling the Gatwick train behind it. Why do you schedule them this way? So frustrating, am now late for an evening out.",106503,
+106505,GWRHelp,False,Thu Nov 30 18:23:11 +0000 2017,@139606 Hi there. Apologies for any confusion. The train will now call at Tilehurst - Josh,,106506
+106506,139606,True,Thu Nov 30 18:02:57 +0000 2017,"@GWRHelp Hi, why did the 17:58 from Reading to Tilehurst no longer call at Tilehurst today?",106505,
+106507,GWRHelp,False,Thu Nov 30 18:22:04 +0000 2017,@139607 Hi Mark. If you contact us tomorrow we can confirm then. Lewis,,106508
+106508,139607,True,Thu Nov 30 18:02:45 +0000 2017,@GWRHelp do you know which diagrams the new IEP class 800 are working tomorrow thanks.,106507,
+106509,GWRHelp,False,Thu Nov 30 18:21:05 +0000 2017,@139608 Hi Michael. The quiet carriage is located in carriage A. Apologies for any confusion - Josh,106510,106511
+106510,139608,True,Thu Nov 30 18:40:30 +0000 2017,"@GWRHelp Put stickers in the windows, like on the old trains (but in green rather than pink)",,106509
+106511,139608,True,Thu Nov 30 18:01:06 +0000 2017,@GWRHelp Still hate your new trains Still can’t find the quiet carriage Even the he bloke on the platform didn’t know! MUCH better signage required,106509,
+106512,Delta,False,Thu Nov 30 18:57:34 +0000 2017,"@139609 Hi, Tanner. It is our pleasure to serve you. *ALY",,106513
+106513,139609,True,Thu Nov 30 18:55:06 +0000 2017,Thank you @Delta for allowing me to change my non-refundable ticket due to some extraneous personal circumstances. Excellent customer service that should certainly be recognized. I will be sure to continue flying with you in the future!,106512,
+106514,Delta,False,Thu Nov 30 18:52:34 +0000 2017,"@139610 You can do that. However, I can handle that for you if you contact me via DM, using the following link. *ASK https://t.co/6iDGBJAc2m",,106515
+106515,139610,True,Thu Nov 30 18:49:52 +0000 2017,"@Delta Hi. If I wanted to be standby for an earlier flight, do I let the Delta ticket agent know when I’m checking in? (Friday 12/1 JFK - DCA 8:55pm) Don’t know the process. Thanks.",106514,
+106516,Delta,False,Thu Nov 30 18:51:43 +0000 2017,"@131475 I'm very sorry to hear that, Angelique. I apologize for the difficulty. What errors are you receiving and with what flight numbers and dates? *ASK",,106517
+106517,131475,True,Thu Nov 30 18:50:36 +0000 2017,"@Delta Trying all day to book an international flight, only getting error messages! What is the problem? ?","106516,106518",
+106519,Delta,False,Thu Nov 30 18:51:32 +0000 2017,@139611 We appreciate you for choosing Delta and will always consider it a privilege to be of service.We hope to better serve you going forward. 2/2 *TJE,106520,106521
+106520,139611,True,Thu Nov 30 18:55:40 +0000 2017,"@Delta I wish my experience was better too and that your flight attendants weren’t so careless . Oh, and i wish I️ still had my $1000 retainers but we can’t always get what we want.",,106519
+106521,139611,True,Thu Nov 30 18:43:24 +0000 2017,So last night on my @Delta flight the flight attendants threw my retainers away while i was sleeping and they basically just told me I️t was my fault on the phone. And i thought i was a valued customer 🙄🤬,"106519,106522,106523",
+106522,Delta,False,Thu Nov 30 18:51:27 +0000 2017,@139611 Oh no! We never want to hear this. We pride ourselves on providing exceptional customer service. I wish your experience was better than what's described and apologize it was not. 1/2 *TJE,,106521
+106524,Delta,False,Thu Nov 30 18:43:13 +0000 2017,@139612 Love this! We truly love what we do and hope the rest of your travels are just as happy. Thanks for sharing. ✈ *TJE,,106525
+106525,139612,True,Thu Nov 30 18:41:05 +0000 2017,Good experience on @Delta flight #5692 shout-out to the Flight Attendant in First Class- so friendly and professional. Rarity in past flights on Delta.,106524,
+106526,Delta,False,Thu Nov 30 18:39:42 +0000 2017,"@139613 Hi, that's puzzling. I'm sorry it's not loading correctly; I'll be very happy to take a look.  Please DM your confirmation or SkyMiles number to me.  *TJP https://t.co/6iDGBJAc2m",,106527
+106527,139613,True,Thu Nov 30 18:37:41 +0000 2017,@delta can you help me figure out why I can’t get a boarding pass in the mobile app or at https://t.co/sW2YIRhQJ2 for a flight early tomorrow morning from SFO to JFK?,106526,
+106528,Delta,False,Thu Nov 30 18:38:57 +0000 2017,"@139614 Hello, Robin. We thank you for flying with us!  *ARD",,106529
+106529,139614,True,Thu Nov 30 17:18:39 +0000 2017,Happiness is going on a trip to NYC! Thanks @Delta for helping me feed my travel bug and your disability assistance! https://t.co/siE3CYLoGm,"106530,106528",
+106531,Delta,False,Thu Nov 30 18:33:38 +0000 2017,@139615 Hello! I will be glad to assist. Please wait a moment and I will check how many ounces that you are allowed.   *TCC,,106532
+106532,139615,True,Thu Nov 30 18:30:05 +0000 2017,@Delta I'm traveling to Israel in January and will be coming home w 100 oz of pumped breastmilk. Can I carry it on if it's frozen?,"106531,106533",
+106534,Delta,False,Thu Nov 30 18:33:37 +0000 2017,"@139616 Way to go, Team! We'll be sure they are recognized for a job well done. Thanks for flying with us, Sascha! *AJZ",,106535
+106535,139616,True,Thu Nov 30 18:30:12 +0000 2017,"Thank you, @Delta, for another great flight. Please give my thanks to crew of #43, BRU—&gt;JFK, they were great!",106534,
+106536,Delta,False,Thu Nov 30 18:31:00 +0000 2017,@139617 WooHoo!  We are grateful for you pointing out the Delta Difference! ✈  *TJP,106537,106538
+106537,135931,True,Thu Nov 30 18:36:28 +0000 2017,@Delta @139617 Great job to all the @Delta employees who worked so hard over the holidays to make this happen! I imagine the meteorology team needs a drink!,106539,106536
+106539,139617,True,Fri Dec 01 15:06:40 +0000 2017,"@135931 @Delta So, it turns out Delta's claim was a lie. They cancelled at least one flight: https://t.co/V0rmCA9Mvk",,106537
+106538,139617,True,Thu Nov 30 18:29:44 +0000 2017,"All three major US airlines have bragged about their operational performance over Thanksgiving. But, let's be real. There's a clear winner (and it's no surprise): @Delta https://t.co/nyy2AtVvfI",106536,
+106540,AirAsiaSupport,False,Thu Nov 30 18:45:36 +0000 2017,"@139618 Note that guests' safety is always our priority, Kanchan. Kindly DM us the booking number to check. -Miza","106541,106542,106543",106544
+106541,139618,True,Thu Nov 30 18:49:16 +0000 2017,@AirAsiaSupport Pls DM me first .. I can't seem to get this,106545,106540
+106545,AirAsiaSupport,False,Thu Nov 30 19:44:55 +0000 2017,"@139618 Sure, we've sent you a DM. Check it out! -Miza",,106541
+106542,139619,True,Thu Nov 30 19:14:14 +0000 2017,"@AirAsiaSupport #AirAsiaSupport
+hi Miza, can u please help me? how can I change my flight schedule? Already sent e-mail and e-form but no response yet, my case no. 00763843 &amp; the booking no. JIM1MF,  thanks a lots..","106546,106547",106540
+106546,AirAsiaSupport,False,Thu Nov 30 19:51:03 +0000 2017,@139619 &gt;&gt; 48 jam sebelum berlepas. Caj Penalti+Perbezaan Tambang akan dikenakan. Rujuk https://t.co/VyQJYYofA4 untuk Caj Penalti -Miza,,106542
+106547,AirAsiaSupport,False,Thu Nov 30 19:49:48 +0000 2017,"@139619 Hai, Sya. Awak boleh buat pertukaran flight di Manage My Booking&gt;Modify&gt;Edit Itinerary&gt; Change/ Upgrade Flight sehingga &gt;&gt;",,106542
+106543,139619,True,Thu Nov 30 19:12:26 +0000 2017,"@AirAsiaSupport #AirAsiaSupport
+hi AirAsia, how can I change my flight schedule? Already sent e-mail and e-form but no response yet, my case no. 00763843 &amp; the booking no. JIM1MF,  thanks a lots..",,106540
+106544,139618,True,Thu Nov 30 18:29:28 +0000 2017,@115802 @AirAsiaSupport  is inhuman,106540,
+106548,AirAsiaSupport,False,Thu Nov 30 18:29:02 +0000 2017,@139620 &gt;&gt; DM us the guest's full name and date of birth soonest too for verification. -Miza,,106549
+106549,139620,True,Tue Nov 28 02:29:16 +0000 2017,"@AirAsiaSupport 
+How to add on Baggage after checked-in online
+Booking No. WN2VMW","106548,106550",
+106550,AirAsiaSupport,False,Thu Nov 30 18:28:33 +0000 2017,"@139620 Sorry for the delay. Kindly DM us the preferred KG and to which flight soonest. 
+
+20kg:350THB
+25kg:430THB
+30kg:690THB",,106549
+106551,AirAsiaSupport,False,Thu Nov 30 18:21:49 +0000 2017,"@139621 Really sorry for the delay as we're experiencing massive volume, Danish. Anyhow, we're glad guests boarded successfully. -Miza",,66927
+66927,139621,True,Tue Nov 28 03:37:09 +0000 2017,"@AirAsiaSupport @AirAsiaSupport please respond. My details are as follows:
+booking number- EMWGGD
+Flight number - XT-852
+Flying from Kuala Lumpur to Mumbai for today at 1910.
+Kindly give an update on the same. @115802",106551,66926
+106552,AirAsiaSupport,False,Thu Nov 30 18:19:41 +0000 2017,"@139622 Sorry for the delay, Ruth. Kindly DM us the booking  number and guest's passport copy for verification. Thank you. -Miza",,106553
+106553,139622,True,Tue Nov 28 02:30:22 +0000 2017,@AirAsiaSupport @AirAsiaSupport Help! thank you.,106552,106554
+106554,139622,True,Tue Nov 28 02:28:08 +0000 2017,"@AirAsiaSupport Hi, I need to correct my name and birth month on the booking form - chat support rep closed the chat immediately after saying changes will be done after 48 hours but my flight is within 48 hours. I cannot open chat again - only shows post chat form to give rating.",106553,
+106555,AirAsiaSupport,False,Thu Nov 30 18:16:59 +0000 2017,"@139618 Really sorry for the inconvenience, Kanchan. Kindly DM us the booking number to check. -Miza",,106556
+106556,139618,True,Thu Nov 30 18:10:22 +0000 2017,@115802 @AirAsiaSupport missed connecting flight don't bother to inform this airline should be shut down my mother is 70 she doesn't deserve to be at airports for 24 hours,106555,
+106557,AmericanAir,False,Thu Nov 30 18:58:24 +0000 2017,"@139623 Our offer still stands to take a closer look into this for you, but we do need your cooperation in providing us the info we requested.",106558,106559
+106558,139623,True,Thu Nov 30 18:59:41 +0000 2017,"@AmericanAir Info has been supplied to you 3 times.  Keep playing the game, I can go on too",106560,106557
+106560,AmericanAir,False,Thu Nov 30 19:00:23 +0000 2017,"@139623 We need your name, record locator or AAdvantage number to further assist you.",106561,106558
+106561,139623,True,Thu Nov 30 19:01:58 +0000 2017,"@AmericanAir You have been supplied this info 3 times, quit stalling",,106560
+106559,139623,True,Thu Nov 30 18:46:29 +0000 2017,"@AmericanAir Guess what else @AmericanAir likes to avoid?!  They like to avoid locking down their food carts.  As we are landing in DFW, food cart flies down plane aisle and hits several passengers.  When asked about it, they don’t want to deal with it",106557,106562
+106562,AmericanAir,False,Mon Oct 16 22:18:04 +0000 2017,Leaving work on a Monday like... 🏃💨✌️  #seeya https://t.co/Dep8oDQRHw,"106559,106563,106564,106565,106566,106567,106568,106569,106570,106571,106572,106573,106574,106575,106576,106577,106578,106579,106580,106581,106582,106583,106584,106585,106586,106587",
+106588,AmericanAir,False,Thu Nov 30 18:52:07 +0000 2017,"@139624 Every agent should be kind and courteous, Lisa and we're sorry if that wasn't your experience. We're here for you, if needed.",,106589
+106589,139624,True,Thu Nov 30 18:37:29 +0000 2017,Just spent an awful lot of time with three of the rudes #customerservice representatives EVER ... @AmericanAir you need a better training program.,106588,
+106590,AmericanAir,False,Thu Nov 30 18:50:03 +0000 2017,@139625 We're working on getting the plane ready to hit the skies. We're estimating to head out at 5:10p.,106591,106592
+106591,139625,True,Thu Nov 30 18:56:24 +0000 2017,@AmericanAir Come on almost 5 hours ?? Schedule destroyed.,106593,106590
+106593,139625,True,Thu Nov 30 19:07:46 +0000 2017,@AmericanAir Can I get a seat in AA983???,106594,106591
+106594,AmericanAir,False,Thu Nov 30 19:14:29 +0000 2017,@139625 We're trying to get you on and you're number one on the standby flight. Our apologies for the delay.,,106593
+106592,139625,True,Thu Nov 30 18:35:33 +0000 2017,@AmericanAir AA2359 is delayed 4.5 hours!!! What's going on???,106590,
+106595,AmericanAir,False,Thu Nov 30 18:49:11 +0000 2017,@139626 We're excited to have you flying with us! If you need anything let us know.,106596,106597
+106596,139626,True,Thu Nov 30 19:07:38 +0000 2017,"@AmericanAir Great, thank you for the help! I know it's not your fault the computers glitched, but I hope you get it straightened out and play ""I'll Be Home for Christmas"" as the planes take off.",106598,106595
+106598,AmericanAir,False,Thu Nov 30 19:38:13 +0000 2017,@139626 We're actually almost done straightening everything out and we'll be singing Home for Christmas all through the holidays!,,106596
+106597,139626,True,Thu Nov 30 18:35:13 +0000 2017,I had a choice between @AmericanAir and Spirit for my flight home and I booked American because I assumed it was the better option 🙃,"106595,106599",
+106600,AmericanAir,False,Thu Nov 30 18:48:32 +0000 2017,@139627 We're so sorry for the wait and we want to get you there as soon as we can. Please follow-up with us via DM.,,106601
+106601,139627,True,Thu Nov 30 18:35:26 +0000 2017,"Eugh @AmericanAir. Gave up 1st class seat for earlier standby flight 2c pregnant gf, flight delayed longer than original one #irony #rotten","106600,106602",
+106603,AmericanAir,False,Thu Nov 30 18:48:19 +0000 2017,@139628 We'd like to take a look into this. DM your AAdvantage number and more info.,,106604
+106604,139628,True,Thu Nov 30 18:35:36 +0000 2017,@AmericanAir They keep saying it'll be 7-10 business days yet I've been trying to get this fixed for almost 20 days,106603,106605
+106605,139628,True,Thu Nov 30 18:34:38 +0000 2017,When @AmericanAir charges you for buying 10000 miles you didn't buy and you've called 5 times to get a refund and you still haven't got it,106604,
+106606,AmericanAir,False,Thu Nov 30 18:47:56 +0000 2017,"@134375 We're sorry we fell short on your expectations, Fin. We'll forward your feedback to our team.",106607,106608
+106607,134375,True,Thu Nov 30 19:21:16 +0000 2017,@AmericanAir Grey beef is a @British_Airways speciality which is one of the reasons I moved over to @AmericanAir because their catering and service was so much better.,106609,106606
+106609,British_Airways,False,Thu Nov 30 19:34:19 +0000 2017,"@134375 We usually hear great feedback about our catering, so I'm very sorry to hear this. I'm glad you're continuing to fly with a oneworld partner, though! ^Kimbers","106610,106611",106607
+106610,134375,True,Thu Nov 30 19:46:49 +0000 2017,@British_Airways Are you serious? I’ve been flying BA for over 18 years and rescinded my Gold membership because of lack of response to my feedback and continual poor service.,,106609
+106611,134375,True,Thu Nov 30 19:48:37 +0000 2017,"@British_Airways I’m flying your Partner @AmericanAir because the food, comfort and service is largely exponentially better. I’ve moved my loyalty card to them.",,106609
+106608,134375,True,Thu Nov 30 18:32:17 +0000 2017,"@AmericanAir  filet mignon in Business but beef cheeks in First? Where’s the sense? Mind you, it’s grey inside a la @2042 grey beef standards. Ho Hum, I expect better from you... https://t.co/HCpLOyVwUV","106606,106612",
+106613,AmericanAir,False,Thu Nov 30 18:45:26 +0000 2017,@139629 We love keeping you connected up high in the skies!,,106614
+106614,139629,True,Thu Nov 30 18:33:53 +0000 2017,Hey @115913!  Thanks for the free WiFi on this @AmericanAir flight to Columbus! #TMobileWingman.,106613,
+106615,AmericanAir,False,Thu Nov 30 18:43:47 +0000 2017,"@139630 We always want you to receive top notch service and apologize for any web issues you're experiencing. How can we help you, Michael?",,106616
+106616,139630,True,Thu Nov 30 18:31:21 +0000 2017,".@AmericanAir your customer services sucks, and so does your website. Step in to the 21st century please.",106615,
+106617,AmericanAir,False,Thu Nov 30 18:35:24 +0000 2017,@139631 We try to find the best options for our customers. We're sorry there wasn't First Class available on this flight.,,106618
+106618,139631,True,Thu Nov 30 18:21:09 +0000 2017,Flying @AmericanAir to Florida and the plane is so small there isn’t even a first class. This isn’t a 45 minute flight guys. Wouldn’t a 737 make a little more sense?,106617,
+106619,AmericanAir,False,Thu Nov 30 18:35:11 +0000 2017,@139632 We're getting our flights crewed and expect to avoid cancellations. We look forward to having you on board for your holiday trip.,,106620
+106620,139632,True,Thu Nov 30 18:24:38 +0000 2017,Hope @AmericanAir gets this figured out before my holiday trip. Any talk of refunds so we can book on other carriers ? https://t.co/hQSE4Yub6G,106619,
+104200,AmericanAir,False,Thu Nov 30 18:31:55 +0000 2017,@138976 We're unable to give you a ticket but we'd love to have you on board. Take a look here for a great deal: https://t.co/iJWiiS4WLg,,104199
+106621,AmericanAir,False,Thu Nov 30 18:31:01 +0000 2017,@139633 We're working to get a crew for every flight and avoid canceling any during the holiday season.,,106622
+106622,139633,True,Thu Nov 30 18:19:39 +0000 2017,"@AmericanAir @139634 Do you have any sense of when we can breathe easy about our flights? I know you'll hear many stories, including our 10-year wedding anniversary trip to Hawaii that we've spent $$$ on, taken off of work for, taking our kid out of school... it's creating a lot of stress now.",106621,106623
+106623,AmericanAir,False,Wed Nov 29 19:54:41 +0000 2017,@139634 We know your holiday travel plans are important and we don't expect any cancellations.,106622,104352
+104352,139634,True,Wed Nov 29 19:44:15 +0000 2017,@AmericanAir But how will I be able to fly to these places over Christmas if you have no pilots,106623,104342
+106624,AmericanAir,False,Thu Nov 30 18:30:11 +0000 2017,@139635 We're working on getting a crew for every flight we have and expect no cancellations. We look forward to seeing you soon!,106625,106626
+106625,139635,True,Thu Nov 30 22:30:16 +0000 2017,@AmericanAir @AmericanAir   I really appreciate your response.  Thank you.  I will be optimistic.,,106624
+106626,139635,True,Thu Nov 30 18:25:03 +0000 2017,@AmericanAir please post the affected flights that do not currently have a pilot.  I need to know if I must make other arrangements.  I will have an 89 yr old mother waiting for me!!!  No excuses! Be accountable! Take actions to communicate to your customers!!!!,106624,
+106627,AmericanAir,False,Thu Nov 30 18:29:00 +0000 2017,@139636 We're working hard to address the issue and expect to avoid cancellations this holiday season.,,106628
+106628,139636,True,Thu Nov 30 18:10:25 +0000 2017,"@AmericanAir Hi, is there any information on cancelled flights from the Caribbean to Miami? I have 3 flights on December 17th and I am worried that any of them might be cancelled.",106627,
+106629,sprintcare,False,Thu Nov 30 18:51:06 +0000 2017,@139637 Thank you for the positive feedback and for being a loyal customer ! Team @116447,106630,106631
+106630,139638,True,Thu Nov 30 23:00:51 +0000 2017,@sprintcare @139637 @116447 Loyalty only goes so far!,106632,106629
+106632,sprintcare,False,Thu Nov 30 23:17:18 +0000 2017,@139638 A member of Team @116447 will reach out to assist with your service issues.,,106630
+106631,139637,True,Thu Nov 30 18:48:30 +0000 2017,@139639 @116447 @115714 I’ve seen significant improvement in their network over the last year. Though these in-home boxes and small cell can help fill gaps pretty effectively.,106629,106633
+106633,139639,True,Thu Nov 30 18:45:13 +0000 2017,@116447 @115714 @139637 If sprint would Improve their network there wouldn’t be any need for these magic boxes.,106631,106634
+106634,116447,True,Thu Nov 30 18:18:38 +0000 2017,"The @115714 #MagicBox rocks, @139637! Enjoy those supercharged speeds! ⚡📶 #ThankYouThursday https://t.co/ZmDcL0Crk9","106635,106633,106636,106637",
+106638,sprintcare,False,Thu Nov 30 18:50:29 +0000 2017,@139640 We really hate to hear this What can I do to change your mind? -FR,,106639
+106639,139640,True,Thu Nov 30 18:41:59 +0000 2017,"Canceling @115714 today; awful cell service, overpriced.",106638,
+106640,sprintcare,False,Thu Nov 30 18:48:50 +0000 2017,"@139641 I'm w/Team @116447 &amp; here to help. If you have questions about your Sprint svc, we'd be glad to help. Please Dm your contact info.",106641,106642
+106641,139641,True,Thu Nov 30 18:52:49 +0000 2017,@sprintcare @116447 I have DMed you my phone number.,,106640
+106642,139641,True,Thu Nov 30 18:36:34 +0000 2017,@sprintcare @sprintcare It obviously looks like sprint does not care about my issues or how i've been on the phone with sprint for over 15 hours in the last month with no resolution to my issues. @116447 I have been with sprint since 2005 and this is how you treat a customer. Shame.,106640,106643
+106643,139641,True,Thu Nov 30 17:45:55 +0000 2017,@sprintcare Someone from upper management needs to call me TODAY. TODAY! I have been given the runaround from ur overseas call center for the last month &amp; LIED TO MULTIPLE TIMES. I have been documenting everything &amp; I need someone to contact me ASAP. Unacceptable,106642,
+106644,sprintcare,False,Thu Nov 30 18:43:19 +0000 2017,@139642 We are sorry to see that. Were you able to complete your upgrade? - GS https://t.co/rMApsV8PQY,,106645
+106645,139642,True,Thu Nov 30 17:56:09 +0000 2017,"Why have i been in @115714 for an hour and a half, to upgrade my phone???",106644,
+106646,sprintcare,False,Thu Nov 30 18:42:27 +0000 2017,"@139643 We would hate to see you leave the Sprint family, please DM us to get this resolved -Maria Q",,106647
+106647,139643,True,Thu Nov 30 18:34:17 +0000 2017,"@sprintcare @115714 Worst customer service at the Brick Plaza store in NJ. After 45 min of transfering my info from a 7 to an X, clerk tells me he deleted my contacts. What kind of morons do you have working in your stores?! I really want to return my iphone &amp; cancel my account!",106646,
+106648,sprintcare,False,Thu Nov 30 18:40:59 +0000 2017,@139644 Hey! We'd like to see what is happening with your bill. DM us to start. - GS https://t.co/rMApsV8PQY,,106649
+106649,139644,True,Thu Nov 30 17:40:24 +0000 2017,Y’all. @115714 is exhausting. I have had service for 3 months and the bill is NEVER correct.,106648,
+106650,sprintcare,False,Thu Nov 30 18:38:25 +0000 2017,"@139645 Hi Luis, I hate to hear you were treated that way, Please let us know if  we can assist in any way. Thanks -AF",106651,106652
+106651,139645,True,Thu Nov 30 18:39:51 +0000 2017,@sprintcare Already on the phone with you guys and I’m being treated like a human being again. You guys are the best,,106650
+106652,139645,True,Thu Nov 30 18:33:34 +0000 2017,Just had the worst experience with @115725 ever. I will never ever recommend them to anyone EVER! I’m also pretty sure that racism has a lot to do with why they treated me the way they did. Guess now I know why I will be @115714 customer forever,106650,
+106653,sprintcare,False,Thu Nov 30 18:17:37 +0000 2017,@139646 Hey! What's going on? Please let us know to assist with your matter. - EG,106654,106655
+106654,139646,True,Fri Dec 01 23:49:41 +0000 2017,@sprintcare You can’t assist sucky service. JS 🤷🏻‍♀️,106656,106653
+106656,sprintcare,False,Sat Dec 02 00:12:07 +0000 2017,"@139646 Please, send us a DM with more details on what makes you feel this way. We'll be waiting for you. - CE",,106654
+106655,139646,True,Thu Nov 30 18:06:39 +0000 2017,@8283 @115714 SPRINT SUCKS! I’m over them! -__-,106653,106657
+106658,sprintcare,False,Thu Nov 30 18:15:31 +0000 2017,"@138733 That sounds frustrating. I'd like to help get this resolved, what's the issue? -CD",,106659
+106659,138733,True,Thu Nov 30 18:02:23 +0000 2017,@115714  48 minutes later and 3 transfers until I finally hung up with no resolution,106658,
+106660,comcastcares,False,Thu Nov 30 18:58:14 +0000 2017,@139647 I am pleased to hear that. We are here 24/7 if you need any further help. I hope you have a great day. -CLR,,106661
+106661,139647,True,Thu Nov 30 18:55:06 +0000 2017,"@comcastcares Already called in and being fixed, buddy works for ya.",106660,106662
+106662,comcastcares,False,Thu Nov 30 18:52:07 +0000 2017,"@139647 Hi, I would be happy to help look in to the services. Can you please send me a DM with your account number or phone number so I can assist you? -CLR",106661,106663
+106663,139647,True,Thu Nov 30 17:45:33 +0000 2017,Bored as hell at work today; Comcast's fiber got cut down the street so I'm just twiddling my thumbs for the forseeable future.,106662,
+106664,comcastcares,False,Thu Nov 30 18:57:09 +0000 2017,@139648 I'm glad to hear it. Feel free to reach out anytime. -VG,,106665
+106665,139648,True,Thu Nov 30 18:14:09 +0000 2017,"@comcastcares Tech was a big help, diagnosed issue, issue was on my end (oops), everything up and running swell again. Thank you very much for your help! https://t.co/NzjORqKEyf",106664,106666
+106666,139648,True,Wed Nov 29 18:53:07 +0000 2017,"This is really sad. I'm currently paying $40/mo for 10Mbps and getting 0.5 Mbps. Does this mean my bill should only be $2/mo? I mean, I guess I'd be okay with that but I'd prefer the 10Mbps. @comcastcares https://t.co/6ReKNxoAei","106665,106667",
+106668,comcastcares,False,Thu Nov 30 18:56:42 +0000 2017,@139649 I would be happy to look further into your service issues if you would provide your full address and the account associated phone number in a DM. -JW,,106669
+106669,139649,True,Thu Nov 30 18:11:18 +0000 2017,Hey @comcastcares almost two days without internet service is  too long. It would be nice if your customer service would say something other than asking if I've tried resetting the modem...,106668,
+106670,comcastcares,False,Thu Nov 30 18:56:18 +0000 2017,@139650 Are you having a billing or service issue that I can assist you with today? -VG,,106671
+106671,139650,True,Thu Nov 30 17:47:09 +0000 2017,I want to complain about @115900  customer services was whack I guess I’ll just pay my bill online,106670,
+106672,comcastcares,False,Thu Nov 30 18:56:05 +0000 2017,@139651 Thank you for reaching out to us about your issues with fraud. If you have not already you can start by using the follow form to submit your claim https://t.co/cYzurjlayX .  - QS,,106673
+106673,139651,True,Thu Nov 30 17:23:27 +0000 2017,30 minutes on hold just to get to @116136 fraud department how are they that swamped with fraud calls during this time little weird I don’t even have a account with them.. https://t.co/KWXPEEQbiK,106672,
+106674,comcastcares,False,Thu Nov 30 18:54:43 +0000 2017,@139652 I will be happy to look into your internet issues. Please DM me your account info so I can help. -GR,,106675
+106675,139652,True,Thu Nov 30 17:38:52 +0000 2017,@116136 Your crappy internet service just cost me $100. Thanks.,106674,
+106676,comcastcares,False,Thu Nov 30 18:52:49 +0000 2017,@139653 I would be happy to look further into your service issues if you would provide your full address and the account associated phone number in a DM. -JW,,106677
+106677,139653,True,Thu Nov 30 18:07:54 +0000 2017,@comcastcares Any ETA on service being restored to Richmond district in San Francisco?,"106676,106678",
+106679,comcastcares,False,Thu Nov 30 18:51:54 +0000 2017,"@139654 Hi, I would be happy to help look in to the internet services. Can you please send me a DM with your account number or phone number so I can assist you? -CLR",,106680
+106680,139654,True,Thu Nov 30 17:43:37 +0000 2017,Current download speed is 1/3 of what it should be. Uhhhhh wtf @115900,106679,
+106681,comcastcares,False,Thu Nov 30 18:51:30 +0000 2017,@139655 I would be happy to look further into your service issues if you would provide your full address and the account associated phone number in a DM. -JW,,106682
+106682,139655,True,Thu Nov 30 18:04:45 +0000 2017,"Yo @115900 you wanna fix my internet, I got a paper and presentation due in 3 hours. Thanks.",106681,
+106683,comcastcares,False,Thu Nov 30 18:51:14 +0000 2017,"@139656 Hi. I would like to assist with your internet and voice services. Please DM me your full name, the full service address and the phone number associated on the account. -PTL",,106684
+106684,139656,True,Thu Nov 30 17:56:57 +0000 2017,.@127249 @comcastcares any idea when phone &amp; internet will be restored in the Ballard/Loyal Heights area of Seattle? We have been without both all morning. #comcastoutage,106683,
+106685,comcastcares,False,Thu Nov 30 18:50:52 +0000 2017,"@139657 Just so I understand, you updated your computer and the drivers for the printer stopped working? -VG","106686,106687",106688
+106686,139657,True,Thu Nov 30 20:23:21 +0000 2017,@comcastcares The Desktop doesn't even show up on the Network.  I didn't do anything or change any of the network connections.,106689,106685
+106689,comcastcares,False,Thu Nov 30 20:28:58 +0000 2017,@139657 It sounds like you'll either need to find the drivers for the devices or roll back to the version of Windows that worked previously. -VG,106690,106686
+106690,139657,True,Thu Nov 30 21:12:41 +0000 2017,@comcastcares I upgraded on the Internet and it did work fine until it did an update.  Can't find anything on the Desktop now.,106691,106689
+106691,comcastcares,False,Thu Nov 30 22:09:28 +0000 2017,@139657 I see. You'll need to call the support manufacturer for your computer. -VG,,106690
+106687,139657,True,Thu Nov 30 20:22:23 +0000 2017,@comcastcares I upgraded my Desktop last year woith Windows10 and all ports are not in use.  My printer worked though until I unplugged it and moved it and then moved it again.  Now it says that it doesn't work with the WVista Laptop.  I tried to get it back on the Network now the Desktop,,106685
+106688,139657,True,Thu Nov 30 17:29:59 +0000 2017,"@comcastcares I have a problem with my network.  For some reason my MSHOME computer, that has Windoes 10 installed on it, does not show up on my network. After I installed Windows 10, It did an update and made ass my USB ports inactive.  I had my printer on that also and cannot use it because",106685,106692
+106692,comcastcares,False,Fri Nov 03 18:49:41 +0000 2017,@139657 Hello. I’d like to help with the service issues you’re experiencing. Could you DM me so we can talk in more detail? –EK,"106693,106688",106694
+106694,139657,True,Fri Nov 03 14:58:22 +0000 2017,Me thinks #comcast has some issues today.  Electric has gone out three days in a row and now I am not getting... https://t.co/NmULVGzUbJ,106692,
+106695,comcastcares,False,Thu Nov 30 18:50:15 +0000 2017,"@139658 Hello, I apologize for your experience with us. Is there anything I can assist you with at this time? -JW",,106696
+106696,139658,True,Thu Nov 30 17:48:01 +0000 2017,@ComcastCares   Comcast cares????!!! NOT - it’s the worst customer service company EVER.,106695,
+106697,comcastcares,False,Thu Nov 30 18:49:30 +0000 2017,@139659 I would be happy to look at new packages/promotions for you to lower your bill if you would provide your full address and the account associated phone number in a DM. -JW,106698,106699
+106698,139659,True,Thu Nov 30 19:23:45 +0000 2017,@comcastcares Been through that countless times already. Never works.,106700,106697
+106700,comcastcares,False,Thu Nov 30 19:25:29 +0000 2017,"@139659 I'm sorry you feel that way. If you change your mind, please feel free to reach back out to us. -JW",,106698
+106699,139659,True,Thu Nov 30 17:36:13 +0000 2017,"Just got an email from @116136 / @115900 asking if I'm paying too much for wireless... No, but I'm paying too much for your TV and internet!!!!!",106697,
+106701,comcastcares,False,Thu Nov 30 18:49:18 +0000 2017,"@139660 Hi, I would love to help. Please DM me the phone # associated with the account &amp; the service address. -Jules",106702,106703
+106702,139660,True,Thu Nov 30 18:50:36 +0000 2017,@comcastcares Just sent,,106701
+106703,139660,True,Thu Nov 30 18:16:46 +0000 2017,@116136 Having an outage?,106701,
+106704,comcastcares,False,Thu Nov 30 18:49:02 +0000 2017,@139661 I can take a look to see if there are any promotions available in your area. Can you DM the phone number on your account? -VG,,106705
+106705,139661,True,Thu Nov 30 17:24:27 +0000 2017,@116136 @115900 I think it is ridiculous that you will not offer me a promotional rate on internet services after I have been a loyal customer for years. I am strongly considering switching to @126768 or another streaming service.  Your customer service has been very unhelpful.,106704,
+106706,comcastcares,False,Thu Nov 30 18:48:19 +0000 2017,@139662 Are you having a billing or service issue that I can assist you with today? -VG,106707,106708
+106707,139662,True,Thu Nov 30 23:39:31 +0000 2017,@comcastcares No-just decided to cancel TV and stayed with internet . Lost discounts and no promos.,106709,106706
+106709,comcastcares,False,Thu Nov 30 23:59:39 +0000 2017,@139662 I see. If you have any other questions or concerns feel free to reach out anytime. -VG,,106707
+106708,139662,True,Thu Nov 30 17:31:13 +0000 2017,"..Went to @comcastcares @116136 at White Marsh about my bill increases . Oh they were just sales, had to call retention . Excuse me you are are on same team?? Yeah I call B.S on that 👎🖕🏼🖕🏼",106706,
+106710,comcastcares,False,Thu Nov 30 18:47:49 +0000 2017,"@138184 If your needs change, feel free to reach out anytime. -VG",106711,106712
+106711,138184,True,Thu Nov 30 19:16:05 +0000 2017,"@comcastcares You just hit my nail on the head. That word you used? Need? Residents don’t need you. You’re a luxury, not a necessity. You’re not water. You treat people like you are.",,106710
+106712,138184,True,Thu Nov 30 17:25:09 +0000 2017,@116136 @comcastcares I guess now that everything is moving towards streaming you’ve finally decided to mind your P’s and Q’s. Way too late to run a good business,106710,101328
+101328,116136,True,Thu Nov 30 17:22:33 +0000 2017,@138184 @comcastcares is also available to help if you're still interested in setting up service. Meet the team: https://t.co/RGREqDNCLV -Cece,"106712,106713",101320
+106714,comcastcares,False,Thu Nov 30 18:47:03 +0000 2017,"@139663 That's awesome news to hear, occasionally all wireless devices need to be restarted. I apologize for the inconvenience, if you need us in the future please reach out and we will be here to assist you. -Will",,106715
+106715,139663,True,Thu Nov 30 18:44:10 +0000 2017,"@comcastcares Thanks Will, I’ve reset my modem and the signal seems to be working again but I will contact you if it appears to be acting up. This has been happening more than usual. Appreciated!",106714,106716
+106716,comcastcares,False,Thu Nov 30 18:42:13 +0000 2017,"@139663 Hello I can investigate your WiFi connection issue. Can you please provide me the full address, primary phone number and the name listed on this account? -Will",106715,106717
+106717,139663,True,Thu Nov 30 17:21:11 +0000 2017,wifi has been unbearably slow the last 2 days 🙄 dude we don’t pay $70 per month for internet so it drops every 5 seconds we need it for work and school!!! @116136 @115900,106716,
+104520,comcastcares,False,Thu Nov 30 18:45:18 +0000 2017,"@139074 Hey, Sarah. I'd like to explore internet options with you here. Long holding times are never ideal and I'd love to help turn this experience around. Send a DM with your account information to continue with help. -SG",,104519
+106718,comcastcares,False,Thu Nov 30 18:45:01 +0000 2017,"@139664 Hello I can investigate your internet connection issue. Can you please provide me the full address, primary phone number and the name listed on this account? -Will",,106719
+106719,139664,True,Thu Nov 30 17:43:29 +0000 2017,@115900 my internet is shoddy and I need to do important work with deadlines. I pay too much for y'all to play like this.,106718,
+106720,comcastcares,False,Thu Nov 30 18:44:14 +0000 2017,@139665 Are you having a billing or service issue that I can assist you with today? -VG,,106721
+106721,139665,True,Thu Nov 30 16:58:37 +0000 2017,@116136 says I have almost used my allotted supply of the extremely scarce resource of internet data. Gonna watch some physical copies of movies tonight. Thinking Malcom X and Predator 2...,106720,
+106722,comcastcares,False,Thu Nov 30 18:44:12 +0000 2017,@139666 I can look into your issues with on-demand. Please DM me your account info so I can help. -GR,,106723
+106723,139666,True,Thu Nov 30 15:51:10 +0000 2017,"@comcastcares  After years of access, the Starz Encore on Demand channel blocked my access. I pay $12/mo for Starz. Spoke to SIX people last night &amp; today. They are clueless. ""There was an outage in your region."" ""Not everything on cable is free."" Please restore Starz Encore.",106722,
+106724,comcastcares,False,Thu Nov 30 18:43:58 +0000 2017,"@139667 Hello Dave I can look into your internet service concern. Can you please provide me the full address, primary phone number and the name listed on this account? -Will",,106725
+106725,139667,True,Thu Nov 30 17:31:17 +0000 2017,@comcastcares How much longer will it be for the internet to come back on? Two days in a row.,106724,
+106726,comcastcares,False,Thu Nov 30 18:43:19 +0000 2017,@139668 Good afternoon Daisy. Please send me a DM with your account information and I will investigate why your Wifi is having issues. -RR,106727,106728
+106727,139668,True,Thu Nov 30 20:29:26 +0000 2017,@comcastcares Someone else already tried helping me. I had to call in because this is too slow,106729,106726
+106729,comcastcares,False,Thu Nov 30 20:34:32 +0000 2017,@139668 Were you able to get everything resolved? -RR,,106727
+106728,139668,True,Thu Nov 30 18:25:04 +0000 2017,@comcastcares Okay why tweet @comcastcares  If I get no help!! I already restarted my dumb device like 7 times,106726,106730
+106730,139668,True,Thu Nov 30 18:11:20 +0000 2017,"@ComcastCares
+#mobile_CareXI my WiFi isn’t working 👎🏻",106728,
+106731,comcastcares,False,Thu Nov 30 18:42:44 +0000 2017,@139669 I can definitely understand the frustration there. Could you DM me your phone number and address so I can help out?-JG,,106732
+106732,139669,True,Thu Nov 30 17:13:16 +0000 2017,"@116136 Hey for $160 a month, it would be nice to watch TV without the image scrambling like fuckin eggs https://t.co/9sk0O2q0Ys",106731,
+106733,comcastcares,False,Thu Nov 30 18:42:35 +0000 2017,"@139670 Hi Michael, thanks for reaching out. This is not the experience we want for you. I'm happy to help with your billing and account needs going forward. To get started, please DM me your account information. Thanks again. -JRW",,106734
+106734,139670,True,Thu Nov 30 16:47:55 +0000 2017,"@116136 @139671 so I have to set up my account as a new account, pay new account fees but before 30 days when I want to change my plan I am an existing account and cant get new consumer rates You talk about filtering the truth but cant be truthful to your customers. #Fail",106733,
+106735,comcastcares,False,Thu Nov 30 18:42:26 +0000 2017,@139672 Hi Marc. Send me a DM with your account information and I'll look into what's causing your gateway to disconnect. -RR,,106736
+106736,139672,True,Thu Nov 30 18:20:59 +0000 2017,"@ComcastCares
+#mobile_Care
+Any idea why my router will randomly disconnect and restart? Happened a few times in the last few days.",106735,
+106737,comcastcares,False,Thu Nov 30 18:40:47 +0000 2017,@139673 Hi Gerardo. Sorry to hear about your cut line. I can create a claim for that. Can you DM us your account information please? -ZL,106738,106739
+106738,139673,True,Thu Nov 30 19:11:04 +0000 2017,"@comcastcares Hi, it was a Comcast crew digging and cut my line of a different ISP. They’re fixing it...",106740,106737
+106740,comcastcares,False,Thu Nov 30 19:58:12 +0000 2017,@139673 Ok. Glad to hear this is being resolved. -ZL,,106738
+106739,139673,True,Thu Nov 30 17:20:44 +0000 2017,Today @116136 is digging in my backyard and cut the @19930 cable #fail #nointernet #weston,106737,
+106741,comcastcares,False,Thu Nov 30 18:40:44 +0000 2017,@139674 I'd be more than happy to see what's going on with your cable. Would you please DM the full service address and phone number? -JN,,106742
+106742,139674,True,Thu Nov 30 16:55:10 +0000 2017,@comcastcares cable out. Help.,106741,
+106743,comcastcares,False,Thu Nov 30 18:40:12 +0000 2017,"@139675 Hi Samantha. I apologize that you have been experiencing issues with your service, and I am happy to look into this for you. Can you send a DM with your full name, service address, and the phone number registered to your account, so I can locate your account and assist? - Noah",106744,106745
+106744,139675,True,Thu Nov 30 21:37:54 +0000 2017,"@comcastcares Hi Thank You, I had to call CS. Problem solved 🙂",106746,106743
+106746,comcastcares,False,Thu Nov 30 21:43:43 +0000 2017,"@139675 I am very glad to know that you were able to get that issue resolved, and I do apologize for the inconvenience and frustration caused by that interruption. If you have any other concerns that come up, please let us know. We are here 24/7 and are always happy to help. - Noah",,106744
+106745,139675,True,Thu Nov 30 18:19:02 +0000 2017,"@ComcastCares
+#mobile_CareXI having an outage issue in Manteca CA",106743,
+106747,comcastcares,False,Thu Nov 30 18:38:27 +0000 2017,"@139676 Hi, I would be happy to help look into the service. Can you please send me a DM with your account number or phone number so I can assist you? -CLR",,106748
+106748,139676,True,Thu Nov 30 17:20:24 +0000 2017,#Comcast @116136 is down San Jose 95117,106747,
+106749,comcastcares,False,Thu Nov 30 18:35:37 +0000 2017,@139677 If your bill is too high I'd love to help out! Could you Dm me your phone number and address?-JG,106750,106751
+106750,139678,True,Thu Nov 30 20:34:03 +0000 2017,@comcastcares @139677 LOLLLLLLLL,,106749
+106751,139677,True,Thu Nov 30 16:37:55 +0000 2017,I'm going to pretend that @115900 did not just send me an e-mail asking if I'm paying too much for my cellphone. You know what I am paying too much for? My cable. How about lower that?,106749,
+106752,comcastcares,False,Thu Nov 30 18:33:33 +0000 2017,"@139679 I can help, please DM account details to get started. Thanks. -NC",,106753
+106753,139679,True,Thu Nov 30 14:46:56 +0000 2017,@comcastcares It's me again. Dealing with our weekly internet outage. I sent FB message to #COMCRAP but no reply. $60 per month for less than 1 Mbps? 🤔 https://t.co/1RSL1C7JlF,106752,
+106754,comcastcares,False,Thu Nov 30 18:31:41 +0000 2017,"@139680 You've come to the right place for help with your internet issues. Let's take a look at this together. Can you please send us a DM with the name, address, and phone number on the account to get started? -Ally",,106755
+106755,139680,True,Thu Nov 30 16:33:53 +0000 2017,"I’m on a third modem, have to spend 4-5 hours a day at free WiFi locations to do my college course work and was told the entire neighborhood is “in the red”.  I don’t want to switch providers, I’ve been with Comcast for years. I need help please!! https://t.co/vNZgwAA6yC",106754,
+106756,comcastcares,False,Thu Nov 30 18:30:35 +0000 2017,"@139681 I'd be happy to look into the DVR issues for you. Thank you for the ticket number. Could you please DM the full address, name and phone number on the account?- SG",,106757
+106757,139681,True,Thu Nov 30 16:24:25 +0000 2017,"@comcastcares We have to restart our DVR 3 times virtually every morning.  If you look at our ticket, you will see this problem has been going on for months!  HELP!!  CR747501975",106756,
+106758,comcastcares,False,Thu Nov 30 18:29:56 +0000 2017,@139682 I would be happy to look further into your service issues if you would provide your full address and the account associated phone number in a DM. -JW,,106759
+106759,139682,True,Thu Nov 30 18:22:11 +0000 2017,@comcastcares Could you at least let me know if this is being worked on? No reply so far from previous tweet. WiFi has been screwed up since 2am. It's 1:20pm now. #ComcastIssues #AnswerMe #Comcastdoesntcareaboutme,106758,
+106760,comcastcares,False,Thu Nov 30 18:29:05 +0000 2017,@139683 I am sorry to hear about your experience. Is there anything I can do to change that? I can help if you DM your account phone number and address. -TJS,,106761
+106761,139683,True,Thu Nov 30 16:25:30 +0000 2017,@116136 you are the absolute worst cable provider in this country. I can not wait to get rid of you and your horrible system &amp; customer service.,106760,
+106762,AskPlayStation,False,Thu Nov 30 18:54:30 +0000 2017,"@137211 Gracias por la información. Por favor revisa tus Mensajes Directos, para más información.",,97155
+97155,137211,True,Thu Nov 30 18:48:45 +0000 2017,"@116216 Estimados, gracias por su respuesta pero lamentablemente ya habia encontrado ese vínculo y al intentar ingresar a los formularios de reembolso aparece un error. https://t.co/1rAERrzLaC",106762,97154
+106763,AskPlayStation,False,Thu Nov 30 18:53:26 +0000 2017,"@139684 Oi José! Lamentamos que esteja com esse inconveniente, para conseguir ajudar você do melhor jeito possível a redefinir a sua senha por favor siga o nosso Twitter e envie uma mensagem direta para nós, ficamos no aguardo.",106764,106765
+106764,139684,True,Thu Nov 30 19:07:25 +0000 2017,"@AskPlayStation Muito obrigado pela atenção, acabei de resolver o meu problema através do suporte pelo site. Já está tudo resolvido",106766,106763
+106766,AskPlayStation,False,Thu Nov 30 23:01:03 +0000 2017,"@139684 Um prazer José! Ficamos contentes de saber isso, qualquer outra dúvida estamos a disposição!",,106764
+106765,139684,True,Thu Nov 30 18:48:02 +0000 2017,"@121984 Estou com um problema para alterar minha senha, pois esqueci as respostas das perguntas de segurança. o que eu faço?",106763,
+106767,AskPlayStation,False,Thu Nov 30 18:35:26 +0000 2017,@139685 Sure we can help! Please try the following steps related to the error code CE-34878-0: https://t.co/XCIaKDYqME,,106768
+106768,139685,True,Wed Nov 29 17:03:02 +0000 2017,"@AskPlayStation Hello there, there is a problem on my ps4, everytime I try to play something disk or downloaded from the store I get this error ""CE-34878-0"" . I would like to change this one and get a new one from PS. More information I tried everything, got it from here ""Cex"".",106767,
+106769,AskPlayStation,False,Thu Nov 30 18:34:25 +0000 2017,"@139686 We'd be happy to look into that for you! For further assistance please follow us and send us a Direct Message, We look forward to your reply!",,106770
+106770,139686,True,Wed Nov 29 16:38:32 +0000 2017,@AskPlayStation I want this message gone- any help? I turned PS4 off- message remaines... https://t.co/vHq2br9DzZ,106769,
+106771,AskPlayStation,False,Thu Nov 30 18:33:40 +0000 2017,"@139687 Hola Eduardo, disculpa la tardanza. Por favor revisa tus Mensajes Directos, para más información.",,106772
+106772,139687,True,Wed Nov 29 16:54:45 +0000 2017,@116216 como puedo mandar mensaje privado para ver cuestión de cargos no autorizados por el código de error Wc-34891-5 a mi tarjeta de crédito al momento de registrar me,106771,
+106773,AskPlayStation,False,Thu Nov 30 18:33:23 +0000 2017,@139688 Hola. Siguenos a traves de Twitter para poder enviarte un mensaje privado con instrucciones.,,106774
+106774,139688,True,Wed Nov 29 16:57:28 +0000 2017,@116216 tengo una cuenta de España y no me acuerdo de la fecha de nacimiento para restablecer la contraseña podrían ayudarme,106773,
+106775,AskPlayStation,False,Thu Nov 30 18:30:03 +0000 2017,"@139689 Very sorry for the delay! Please let us know what is the color of the power light you see on the console? 
+
+And turn off the console and disconnect all the cables from it for 3 minutes, then try again.",,106776
+106776,139689,True,Wed Nov 29 16:46:40 +0000 2017,"@AskPlayStation hello, My new PS4 is dead. I tried contacting you, but my ps4 account CloneCommand-74
+ Cannot be found. I live in Denmark but I got my PS4 I got as a present in USA.",106775,
+106777,AskPlayStation,False,Thu Nov 30 18:29:40 +0000 2017,"@139690 Boa tarde! Para uma assistência personalizada por favor siga o nosso Twitter e envie uma mensagem direta para nós, ficamos a disposição!",106778,106779
+106778,139690,True,Thu Nov 30 21:36:15 +0000 2017,"@AskPlayStation Já mandei fazem umas 3h, nada ainda ...",106780,106777
+106780,AskPlayStation,False,Thu Nov 30 22:51:56 +0000 2017,"@139690 Boa noite! Desculpas pela demora, temos encaminhado outra mensagem direta com futuras instruções.",,106778
+106779,139690,True,Thu Nov 30 16:46:33 +0000 2017,"@121984 Recebí um vale de R$30 durante a promo de Black Friday mas só apareceram R$10 na minha conta. Agora, depois de terminada a época de promoções, me prometem o restante de 3-5 dias úteis. muita sacanagem, não?",106777,
+106781,AskPlayStation,False,Thu Nov 30 18:27:03 +0000 2017,"@139691 Sorry for the late reply! Unfortunately that's not an option available, any kind of content can't be transferred from one account to another one.",,106782
+106782,139691,True,Wed Nov 29 16:44:18 +0000 2017,"@AskPlayStation hi, i didnt know dlcs were region locked. Can i get my US dlc transferred over to an r3 account?",106781,
+106783,AskPlayStation,False,Thu Nov 30 18:26:20 +0000 2017,@139692 Sorry to hear that! Please help us reporting it following these steps: https://t.co/vT0D2O1hPF  We take these behaviors seriously and will investigate further.,,106784
+106784,139692,True,Thu Nov 30 18:23:57 +0000 2017,"@117014 @AskPlayStation 
+How do I give u guys info on how to ban this kid he DDOS ME because he believes I was cheating but I live-streamed it all:)?? LMK thanks!!",106783,106785
+106785,139692,True,Thu Nov 30 17:36:34 +0000 2017,"FORTNITE WATCH THE LAST COUPLE MINUTES HACKER DDOS US BECAUSE WE KILLED HIM( HE JOINS PARTY))
+https://t.co/uGEIGHcAf3",106784,
+106786,AskPlayStation,False,Thu Nov 30 18:25:34 +0000 2017,"@139693 Hey Shaun, sorry for the delay! If the issue continue, is it happening with more games?
+Is this a physical or a digital copy?",106787,106788
+106787,139693,True,Fri Dec 01 00:30:44 +0000 2017,"@AskPlayStation Well turns out it wasn't just me and friends across the area were affected too, i blame my local council. Thanks for the response but all fixed and working now",106789,106786
+106789,AskPlayStation,False,Fri Dec 01 00:34:56 +0000 2017,@139693 Glad you were able to figure it out. You are welcome anytime. Let us know if there's anything we can lend a hand with!,106790,106787
+106790,139693,True,Fri Dec 01 00:35:43 +0000 2017,@AskPlayStation I will and thanks again,106791,106789
+106791,AskPlayStation,False,Fri Dec 01 00:42:26 +0000 2017,@139693 You are welcome. Happy gaming!,,106790
+106788,139693,True,Wed Nov 29 16:40:13 +0000 2017,@AskPlayStation i can't seem to get into an online game i play destiny 2 for some reason this is all i have had for two days now help! https://t.co/MdC4bmtGgQ,106786,
+106792,AskPlayStation,False,Thu Nov 30 18:24:03 +0000 2017,"@139694 Hola, disculpa la tardanza. Para una mejor asistencia, ¿Nos podrías brindar más información acerca del problema con tu consola?",,106793
+106793,139694,True,Wed Nov 29 16:41:07 +0000 2017,@116216 Pueden resolver un problema que tengo con mi Ps4?,106792,
+106794,AskPlayStation,False,Thu Nov 30 18:23:04 +0000 2017,@139695 Anytime.,106795,106796
+106795,139695,True,Fri Dec 01 05:16:47 +0000 2017,@AskPlayStation Think you can tell me exactly what kind of 2TB hard drives work for it?,106797,106794
+106797,AskPlayStation,False,Fri Dec 01 05:26:11 +0000 2017,@139695 Sure we can help. Please follow the next link for further info: https://t.co/URmvRWzTIv,,106795
+106796,139695,True,Thu Nov 30 18:16:29 +0000 2017,@AskPlayStation Thanks,106794,106798
+106798,AskPlayStation,False,Wed Nov 29 22:22:42 +0000 2017,"@139695 Let's look into it. Check out the next article to troubleshoot the error CE-34335-8:
+https://t.co/h0tbGT7rQk",106796,106799
+106799,139695,True,Tue Nov 28 16:19:18 +0000 2017,@AskPlayStation I need help I tried upgrading my PS4 slims hard drive to 2TB I downloaded the software to a 4G flash drive &amp; I get this msg https://t.co/6bJhEtDpws,106798,
+106800,AskPlayStation,False,Thu Nov 30 18:18:09 +0000 2017,"@139696 Boa tarde Lincoln! Lamentamos o inconveniente, para que consigamos enviar uma mensagem com futuras instruções, por favor siga o nosso Twitter e envie uma mensagem direta para nós, ficamos no aguardo!",,106801
+106801,139696,True,Thu Nov 30 11:01:36 +0000 2017,@121984 Gostaria de saber como consigo suporte técnico já que o canal por telefone está indisponível. A indisponibilidade é temporária? Preciso falar com alguém da PS. Bom dia.,106800,
+106802,TMobileHelp,False,Thu Nov 30 18:57:43 +0000 2017,"@139697 @115913 Hey Chris! We'd be sad to see you go. Let's make sure we covered all of your options. Send me a DM, so we can get started. https://t.co/3sF8qpf2nx *AlissaFast",,106803
+106803,139697,True,Thu Nov 30 18:54:58 +0000 2017,Amazing to see @115911 and @115913 ok with losing a customer over a promotion that ended 2 days ago! Literally having me switch companies for 2 days?! Time to shop for a new carrier,106802,
+106804,TMobileHelp,False,Thu Nov 30 18:56:30 +0000 2017,"@139698 @115913 Hello Steven. We'd love to continue to assist in DM. Send us a message, if you have additional questions. *AlissaFast",106805,104654
+106805,139698,True,Thu Nov 30 18:57:42 +0000 2017,@TMobileHelp @115913 You know my question you already said you can't help me,106806,106804
+106806,TMobileHelp,False,Thu Nov 30 19:00:34 +0000 2017,"@139698 @115913 We'd love to help with all of the options we have available. I want to make sure we got all of them covered. Send me a DM, so we can chat. https://t.co/3sF8qpf2nx *AlissaFast",106807,106805
+106807,139698,True,Thu Nov 30 19:20:39 +0000 2017,@TMobileHelp @115913 OK I'm there,106808,106806
+106808,TMobileHelp,False,Thu Nov 30 19:22:00 +0000 2017,@139698 @115913 Thank you for the heads up! We see your DM and will be responding in just a moment. Thank you for your time and patience today. *AlexSemsch,"106809,106810,106811",106807
+106809,139698,True,Thu Nov 30 20:04:36 +0000 2017,@TMobileHelp @115913 So not only you can't help me but you tried to get me to pay more,,106808
+106810,139698,True,Thu Nov 30 21:21:33 +0000 2017,@TMobileHelp @115913 Yeah they always want you in DM do no one else can see them not helping,"106812,106813",106808
+106812,TMobileHelp,False,Thu Nov 30 21:25:32 +0000 2017,@139698 @115913 Our offer to assist is sincere. We have provided you the available information regarding your concerns. Please let us know if you need anything else. Thank you for your time. *AlexSemsch,106814,106810
+106814,139698,True,Thu Nov 30 21:26:22 +0000 2017,@TMobileHelp @115913 I do need help maybe @115913 can help,106815,106812
+106815,TMobileHelp,False,Thu Nov 30 21:30:51 +0000 2017,"@139698 @115913 We appreciate your time and effort in this matter. All concerns have been addressed, and if you have any further questions we would be happy to discuss in DM. Thank you *AlexSemsch",106816,106814
+106816,139698,True,Thu Nov 30 21:31:54 +0000 2017,@TMobileHelp @115913 Not addressed to help me,,106815
+106813,139699,True,Fri Dec 01 00:05:36 +0000 2017,@139698 @TMobileHelp @115913 Beg to differ with your opinion. @TMobileHelp has definitely been there for me when I had issues and help me Resolve them to the best of their abilities. Sorry that you're not getting any satisfaction yet. I'm certain they care about you and taking care of your problem,,106810
+106811,139698,True,Thu Nov 30 21:11:29 +0000 2017,@TMobileHelp @115913 Still nothing can be done,,106808
+104654,139698,True,Thu Nov 30 18:35:55 +0000 2017,@115913 @115911 Wish you had that attitude when I needed help today,106804,104653
+106817,TMobileHelp,False,Thu Nov 30 18:53:31 +0000 2017,@139700 Hey there! Send us a DM and we'd be happy to assist! *StephanieMarie,,106818
+106818,139700,True,Thu Nov 30 18:51:57 +0000 2017,"@TMobileHelp Hi. I'm a new customer, and am curious if I can change my billing due date. It's currently at the end of the month. I get paid at the beginning. Thanks in advance! Always a fan.",106817,
+106819,TMobileHelp,False,Thu Nov 30 18:41:07 +0000 2017,@139701 I'd love to go over this with you. Follow this link. https://t.co/PTcXoerhEH *FeliciaPorter,106820,106821
+106820,139701,True,Thu Nov 30 18:49:25 +0000 2017,@TMobileHelp Thanks will have to do it another time..  In Australia it was quite a complicated process having to give passport numbers etc..  In the UK you just buy a card and pop it in phone!,106822,106819
+106822,TMobileHelp,False,Thu Nov 30 19:02:23 +0000 2017,@139701 You should be able to set up the plan in store. Make sure your device is unlocked that you'll be using. :-) *FeliciaPorter,,106820
+106821,139701,True,Thu Nov 30 18:34:05 +0000 2017,@TMobileHelp we're going to Miami in Feb with Tourist Plan do you have to register online or can it all be done instore ?,106819,
+106823,TMobileHelp,False,Thu Nov 30 18:39:40 +0000 2017,@139702 @139703 Hi! Our Team is the Executive Social Media team and we'd love to help. Meet me in DM and we can chat. https://t.co/3sF8qpf2nx *AlissaFast,,106824
+106824,139702,True,Thu Nov 30 18:38:06 +0000 2017,@TMobileHelp @139703 Respectfully these issues would be outside the scope of T force. I have been a customer of T mobile since 2003. I also happen to be a manager in customer service in retail. I have John Legere' s email but I would prefer not to bother him when I could provide it to Callie Field.,"106823,106825",106826
+106826,TMobileHelp,False,Thu Nov 30 18:30:44 +0000 2017,"@139702 @139703 Hello Steve, I'm sad to hear of this experience and would love to chat. Please send me a DM by clicking my photo. Thank you https://t.co/3sF8qpf2nx *AlissaFast",106824,106827
+106827,139702,True,Thu Nov 30 18:28:51 +0000 2017,"@139703  Hi Miss Field, I am a T mobile customer and have been since 2003. I recently had a exchange with some customer service representatives that wasn't pleasent. Could you DM me your T mobile email or one of your assistants who I could provide the information along to.",106826,
+106828,TMobileHelp,False,Thu Nov 30 18:38:36 +0000 2017,"@139704 @115913 Our offer of assistance is genuine and please know that we're always a DM away, if you'd like to chat. *AlissaFast",,106829
+106829,139704,True,Thu Nov 30 18:37:25 +0000 2017,@TMobileHelp @115913 Nah I already tried that route y'all are just too expensive there are too many other options out there these days.,106828,106830
+106830,TMobileHelp,False,Thu Nov 30 18:35:34 +0000 2017,@139704 @115913 Hey! I'd be sad to see you go and would love to turn this around. Send me a DM so we can chat https://t.co/3sF8qpf2nx *AlissaFast,"106831,106829",106832
+106832,139704,True,Thu Nov 30 18:33:44 +0000 2017,@115913 Been a customer for over 10 years ... might have to switch because other options are just as good and cheaper.,106830,15863
+15863,139704,True,Thu Nov 30 18:32:26 +0000 2017,@115913 Why not just fix your high ass prices ?,106832,15807
+106833,TMobileHelp,False,Thu Nov 30 18:37:55 +0000 2017,"@139705 Hey Vanessa, let's make sure you're all connected! I'm always on the go and rely on my service and I'm sure you do too. Send us a DM and T-Force will be here to assist! *KeithM",,106834
+106834,139705,True,Thu Nov 30 18:33:50 +0000 2017,@115911 can you explain this why I’m always getting this no signal non sense here in Paso Robles https://t.co/cgzqcGqvoJ,106833,
+106831,139704,True,Thu Nov 30 18:38:59 +0000 2017,"@TMobileHelp @115913 I could however be persuaded if my watch would show up at the store, but y'all aren't giving them to the stores.",,106830
+106825,139703,True,Thu Nov 30 18:58:04 +0000 2017,@139702 @TMobileHelp Hey there! Just send me an email at __email__.,106835,106824
+106835,139702,True,Thu Nov 30 19:24:43 +0000 2017,@139703 @TMobileHelp Thank you Callie.,,106825
+106836,AskLyft,False,Thu Nov 30 18:58:37 +0000 2017,"@139706 Hi, there. We'd be happy to look into this. Please DM us the phone number or email address associated with your account. https://t.co/SXpdictw1A",,106837
+106837,139706,True,Thu Nov 30 18:54:14 +0000 2017,@135784 I write you in desperation— my most important bag was left in a car and driver is M.I.A.,"106836,106838",
+106839,AskLyft,False,Thu Nov 30 18:56:17 +0000 2017,"@139707 Hey, there! Do you mind sending us the details in a DM? https://t.co/SXpdictw1A",,106840
+106840,139707,True,Thu Nov 30 18:52:53 +0000 2017,Hey @asklyft just had a really weird issue with a ride. Msg me?,106839,
+106841,AskLyft,False,Thu Nov 30 18:31:17 +0000 2017,@135273 Happy to help!,,106842
+106842,135273,True,Thu Nov 30 18:30:23 +0000 2017,"@AskLyft Thanks for the credit I asked for, that was fast and helpful! 👍🏽👍🏽",106841,
+106843,AskLyft,False,Thu Nov 30 18:28:20 +0000 2017,"@139708 To be connected with our Critical Response Line, please click the 'Call Me' button at https://t.co/93jojKlTCK.",,106844
+106844,139708,True,Thu Nov 30 18:27:31 +0000 2017,"Being hit on by your uber/lyft driver should be illegal. It just makes it creepy, like I've had my drivers drop me offfar ASF away from where I'm trynna go bc I get so weirded out - like you don't know what these guys will do",106843,
+106845,AskLyft,False,Thu Nov 30 18:19:51 +0000 2017,"@139709 Hi there, we're sorry to hear about this. Would you mind sending us a DM with the phone number linked to your account so we can assist? https://t.co/SXpdictw1A",,106846
+106846,139709,True,Thu Nov 30 18:12:14 +0000 2017,my LA lyft driver acting like he’s never seen a road cannoli before come on bro,106845,
+106847,AskLyft,False,Thu Nov 30 18:06:07 +0000 2017,@139710 Hey Christie! We are so sorry for the situation. Feel free to DM us the phone number associated with your account so we can look into this for you! Thanks. https://t.co/SXpdictw1A,,106848
+106848,139710,True,Thu Nov 30 17:46:20 +0000 2017,Update: My @115879 driver won't pick up the phone and customer service won't get back to me. Still missing apartment and car keys.,106847,
+106849,AskLyft,False,Thu Nov 30 18:04:02 +0000 2017,"@139711 We'd be happy to help here! Can you DM us more information about the issue, as well as the phone number attached to your account? https://t.co/SXpdictw1A",,106850
+106850,139711,True,Thu Nov 30 17:58:19 +0000 2017,"@AskLyft I’m trying to provide info to challenge an incorrectly applied cancellation fee but your help page UX is so buggy (iPhone 7, up to date iOS) I’ve failed to do so 3x. Any suggestions?",106849,
+106851,SW_Help,False,Thu Nov 30 18:58:39 +0000 2017,"@139712 @120586 Hi James, sorry about the inconvenience tonight. May I please know where are you trying to travel to and from?  ^JH",106852,106853
+106852,139712,True,Thu Nov 30 19:31:56 +0000 2017,@SW_Help @120586 From WAT to LIP. Only 30 mins late which was less than I expected. It's just disappointing when passengers have better information than the train crew and station staff.,"106854,106855",106851
+106854,SW_Help,False,Thu Nov 30 19:36:26 +0000 2017,@139712 @120586 be as transparent as possible in that regard. I'll certainly feed this back amongst my team though. ^DB 2/2,,106852
+106855,SW_Help,False,Thu Nov 30 19:36:24 +0000 2017,"@139712 @120586 Hi James. I'm sorry you've found that to be the case. We share as much information with our teams on the ground as we do with our customers (although our ground teams get further internal information which is related to the incident, such as technical details). We aim to 1/2",106856,106852
+106856,139712,True,Thu Nov 30 19:39:45 +0000 2017,@SW_Help @120586 Thank you. Appreciate they might not share info about the incident. This was information about connecting trains at HSL. Guard had been trying to find out if connecting train was there and if where subsequent train was. He wasn't able to get info until after we arrived at HSL.,106857,106855
+106857,SW_Help,False,Thu Nov 30 19:42:44 +0000 2017,"@139712 @120586 I know the mobile signal in the area is a bit of a nightmare from my own time onboard - we are investing in new systems to help them get that information more easily though, as well as on-board systems to provide connection information on board the train too. ^DB",106858,106856
+106858,139712,True,Thu Nov 30 19:45:08 +0000 2017,"@SW_Help @120586 Sounds good. All the team were being really helpful, just let down by lack of correct information.",,106857
+106853,139712,True,Thu Nov 30 18:45:48 +0000 2017,@SW_Help @120586 abandoned at haslemere (again). Why is me checking national rail app giving me better information that the guard on your train?,"106851,106859",
+106860,SW_Help,False,Thu Nov 30 18:57:48 +0000 2017,"@139713 Hi Robbie, sorry about the delays tonight. Emergency services were delaing with an incident earlier which has caused disruption. If you have been delayed by 30 minutes or more, you can claim for Delay Repay here: https://t.co/u9dx5QOZDs ^JH","106861,106862",106863
+106861,139713,True,Thu Nov 30 19:09:17 +0000 2017,"@SW_Help This is a great example where it shows trains are on time. On the Exeter train and we are still going at speed, yet shows we’ve arrived. I have 2 mins to get there, or stuck again https://t.co/eVRe123e2W",,106860
+106862,139713,True,Thu Nov 30 19:03:53 +0000 2017,"@SW_Help Yesterday was 2 hrs today’s at least an hour.  
+
+I’ve lost count on the number of times I’ve been sat at stations waiting &amp; trying to work out how I can weave my way south or north.",,106860
+106863,139713,True,Thu Nov 30 18:48:51 +0000 2017,"Don’t get why @SW_Help ... Yet more delays in trains tonight after mammoth journey home last night, no idea when I’ll be home today.  You’ll be refunding my whole £4500 season ticket at this rate.",106860,
+106864,SW_Help,False,Thu Nov 30 18:57:41 +0000 2017,"@139714 I am sorry to hear this, our team aim to respond to all Delay Repay claims within 10 working days. ^JW",106865,106866
+106865,139714,True,Thu Nov 30 19:00:05 +0000 2017,"@SW_Help I filed four at once, you managed to respond to the ones that were under 30 minutes but I’ve heard nothing about the one massive delay",106867,106864
+106867,SW_Help,False,Thu Nov 30 19:05:00 +0000 2017,"@139714 Our system automatically responds to claims under 30 minutes, however if the delay is more than this a member of staff will process the case manually. ^JW",,106865
+106866,139714,True,Thu Nov 30 18:55:36 +0000 2017,@SW_Help why haven’t you responded to my claim for a 40 minute delay on the 23rd of November?,106864,
+106868,SW_Help,False,Thu Nov 30 18:55:43 +0000 2017,"@139715 @6168 @139716 Certainly, please send me a DM. ^JW",106869,106870
+106869,139715,True,Thu Nov 30 18:59:26 +0000 2017,@SW_Help @6168 @139716 Done! Thanks. Please put on extra carriages or bin first class! 😃,,106868
+106870,139715,True,Thu Nov 30 18:53:14 +0000 2017,@SW_Help @6168 @139716 I am not going to publicly tweet my whereabouts due to a few nutters on here who have threatened me in the past. Can I DM details?,106868,106871
+106871,SW_Help,False,Thu Nov 30 18:48:08 +0000 2017,"@139715 @6168 @139716 I am sorry to see this, please can you let me know the train that you saw this on? ^JW",106870,106872
+106872,139715,True,Thu Nov 30 18:32:09 +0000 2017,@6168 @139716 @SW_Help What I am sitting on. I pay £126 per week for this. https://t.co/6oiPuG6XpH,"106871,106873",106874
+106875,SW_Help,False,Thu Nov 30 18:55:11 +0000 2017,"@139717 Hi, sorry about the alterations tonight. You can take a train from Waterloo back to Clapham Junction which is every 5 minutes. Please check here:https://t.co/Ssj2lzz3Xm?",,106876
+106876,139717,True,Thu Nov 30 18:28:29 +0000 2017,"@SW_Help My normal CLJ trains cancelled/delayed, on a WAT only service from GLAD; will London buses accept my ticket?",106875,
+106877,SW_Help,False,Thu Nov 30 18:52:56 +0000 2017,"@139718 Hello, the next service is the 19:15 to Southampton Central via Guildford. ^AE",,103396
+103396,139718,True,Thu Nov 30 18:49:32 +0000 2017,@SW_Help When is the next train from Waterloo that will stop at Godalming?,106877,103394
+106878,SW_Help,False,Thu Nov 30 18:52:38 +0000 2017,@139719 platform 4 for the slightly delayed 18:57 ^CW,,103372
+103372,139719,True,Thu Nov 30 18:08:57 +0000 2017,@SW_Help So before everyone piles on to buses - when is a train south from Guildford?,"106878,106879",103371
+106880,SW_Help,False,Thu Nov 30 18:49:22 +0000 2017,@139720 Sorry about the delay Andy. This train has to make additional stops because of an earlier train cancelled due to an incident on the railway. Apologies for the inconvenience. ^JH,,106881
+106881,139720,True,Thu Nov 30 18:31:00 +0000 2017,@SW_Help different day same delays. Why are we delayed now? 18:05 WAT to WEY #delayedeveryday,106880,
+106882,SW_Help,False,Thu Nov 30 18:47:36 +0000 2017,"@139721 Hi Mike, next train is due on platform 1 at 19:08. Please see here for updates: https://t.co/Ssj2lzz3Xm? ^JH",,103373
+103373,139721,True,Thu Nov 30 18:32:07 +0000 2017,"@SW_Help At petersfield heading to Guildford. No staff. Board saying next northbound train is 19.57, 90 minute wait!! 😮",106882,103371
+106883,SW_Help,False,Thu Nov 30 18:47:18 +0000 2017,"@139722 i'll feed this back tot he Guard's function, thank you for making us aware and I'm sorry for the lack of information ^CW",106884,106885
+106884,139722,True,Thu Nov 30 18:50:21 +0000 2017,"@SW_Help You are simply proliferating a lack of information. I guess it is a lot to ask of you, the train service provider, to run a service on time and communicate any delays to passengers paying thousands of pounds a year. Don’t feedback too loudly btw - the guard might be asleep!",106886,106883
+106886,139722,True,Thu Nov 30 20:54:39 +0000 2017,@SW_Help Radio silence on that one?,,106884
+106885,139722,True,Thu Nov 30 18:39:53 +0000 2017,"@SW_Help I mean, the 17:53 from Waterloo to Basingstoke is not busy at all. Running about 10 minutes late by my calculations, but not one peep from the guard to confirm or explain why?",106883,106887
+106887,SW_Help,False,Thu Nov 30 18:37:30 +0000 2017,"@139722 I understand you should get a delay within 3 minutes of a delay, however on a busy train Guards may struggle to reach the PA equipment in time. We do have ideas ""in the pipeline"" about how we can improve this ^CW",106885,106888
+106888,139722,True,Thu Nov 30 18:34:31 +0000 2017,@SW_Help What’s your policy on train guards updating passengers on delays during the journey?,106887,106889
+106889,SW_Help,False,Thu Nov 30 18:30:06 +0000 2017,Timetable change will come into effect on 10 December please check your journey before travelling https://t.co/G849kUHOKb,"106890,106888,106891,106892,106893",
+106894,SW_Help,False,Thu Nov 30 18:45:31 +0000 2017,"@139723 Its on platform 11 now, delayed due to the previous train being delayed due to the incident earlier. Hope this helps. ^JH",,106895
+106895,139723,True,Thu Nov 30 18:39:15 +0000 2017,@SW_Help I need to get to Fareham. The next one at 18.39 is also delayed. Any advice?,106894,106896
+106896,SW_Help,False,Thu Nov 30 18:26:38 +0000 2017,"@139723 HI Mark, this train has been cancelled due to the emergency services dealing with an incident earlier between Guildford and Havant. As a result, train crew and stock is displaced. There is a train on platform 13 awaiting the train crew bt this would be your next train to 1/2",106895,106897
+106897,139723,True,Thu Nov 30 18:06:35 +0000 2017,@SW_Help why has the 18.09 from Waterloo to Portsmouth Harbour been cancelled?,"106898,106896",
+106899,SW_Help,False,Thu Nov 30 18:36:34 +0000 2017,@139724 @119696 I'm afraid we're still recovering from Emergency Services dealing with an earlier incident on the Portsmouth direct line ^CW,,106900
+106900,139724,True,Thu Nov 30 18:34:14 +0000 2017,@119696 @SW_Help @SW_Help @119696 And on the way home train stuck outside Woking! Such a bad service which for a 5 day a week comuter is very frustrating.,106899,106901
+106901,139724,True,Thu Nov 30 06:42:08 +0000 2017,@119696 @SW_Help  Monday WAT to WIN 30 mins late and only 5 cars. Now Thursday 06:48 from WIN to WAT also only 5 cars!!! You need to get your maintenance teams working better.,106900,
+106902,SW_Help,False,Thu Nov 30 18:36:32 +0000 2017,@139725 https://t.co/Ssj2lzz3Xm? ^JH 2/2,,106903
+106903,139725,True,Thu Nov 30 18:17:08 +0000 2017,@SW_Help - marvellous - thank you cancelled 1830 train,"106902,106904",
+106904,SW_Help,False,Thu Nov 30 18:36:30 +0000 2017,"@139725 Hi Ali, is this the 1830 from Waterloo to Portsmouth? If yes, its cancelled due to the emergency services dealing with an incident earlier in the Guildford area. The next train should be on Platform 13 awaiting a train crew. Please see here for latest updates: 1/2",106905,106903
+106905,139725,True,Thu Nov 30 19:13:51 +0000 2017,@SW_Help thank you  - lots of people here,,106904
+106906,SW_Help,False,Thu Nov 30 18:34:22 +0000 2017,@139726 You are welcome :-) ^JH,,106907
+106907,139726,True,Thu Nov 30 18:18:21 +0000 2017,@SW_Help Thank you!,106906,106908
+106908,SW_Help,False,Thu Nov 30 18:17:59 +0000 2017,"@139726 Hi Hannah, yes you can. Sorry that your journey was affected today. ^JH",106907,106909
+106909,139726,True,Thu Nov 30 18:07:29 +0000 2017,"@SW_Help my train from byfleet and new haw to Waterloo is no longer stopping at Clapham junction, Can I change at Waterloo even though my ticket says not via London",106908,
+106910,SW_Help,False,Thu Nov 30 18:32:36 +0000 2017,"@139727 Hi Andrew, the lines have reopened now and the trains are back on the move. However, trains may still be subject to delayed and alterations at short notice to recover the service. Please see here for latest updates: https://t.co/Ssj2lzz3Xm?^JH",,103374
+103374,139727,True,Thu Nov 30 18:22:53 +0000 2017,@SW_Help Would be helpful to know if trains are now running beyond Guildford to Petersfield...?,106910,103371
+106911,SW_Help,False,Thu Nov 30 18:30:11 +0000 2017,"@139728 Hi Trevor, sorry to hear this. Please register your lost item here: https://t.co/XTPtZQmb4T. Hope you find them soon. ^JH",,106912
+106912,139728,True,Thu Nov 30 18:24:43 +0000 2017,@SW_Help left my fat face gloves on the 17:35 from Vauxhall to Teddington. I’d handed in where would that be.,106911,
+106898,SW_Help,False,Thu Nov 30 18:26:41 +0000 2017,@139723 Portsmouth. Please see here for latest updates: https://t.co/Ssj2lzz3Xm? ^JH 2/2,,106897
+106913,SW_Help,False,Thu Nov 30 18:21:16 +0000 2017,"@139715 @139716 Hi, sorry about this. May I please know which train are you on?  ^JH",106914,106915
+106914,139715,True,Thu Nov 30 18:28:33 +0000 2017,@SW_Help @139716 Your guard should be reporting back to you. Your management should travel on the network. You are cancelling full trains in December 2018.,,106913
+106915,139715,True,Thu Nov 30 18:14:46 +0000 2017,@139716 @SW_Help I don't know why I bother washing my clothes when I end up sitting on the filthy floor every day.,"106913,106916",106917
+106917,139716,True,Thu Nov 30 18:10:46 +0000 2017,@139715 @SW_Help 😡,106915,106918
+106918,139715,True,Thu Nov 30 18:06:24 +0000 2017,No seats again on @SW_Help.  Can I get a discount for having to stand with a bad back for over an hour every day?,106917,
+106919,SW_Help,False,Thu Nov 30 18:20:38 +0000 2017,"@139729 Hi Kim, a train is expected at 18:23 to go to Haslemere from Platform 2. Please see here for latest updates: https://t.co/Ssj2lzz3Xm?",,106920
+106920,139729,True,Thu Nov 30 18:06:30 +0000 2017,@SW_Help how can I get from Guildford to Haslemere?,106919,
+106921,SW_Help,False,Thu Nov 30 18:13:58 +0000 2017,"@139730 Hi Sarah, the Portsmouth lines have now reopened, so I would recommend changing at Fratton to get to Rowlands Castle. I am sorry for the inconvenience caused. ^JW",,100966
+100966,139730,True,Thu Nov 30 18:05:53 +0000 2017,@SW_Help Hi. I'm currently on diverted 16.30 Waterloo departure now going via Eastleigh to Fratton. I need to get to Rowlands Castle. Any options?,106921,100960
+106922,SouthwestAir,False,Thu Nov 30 18:56:50 +0000 2017,"@139731 Hey, Nolephan! We are currently accepting air reservations through August 6, 2018. On February 8, 2018 we will open our schedule for sale through September 28, 2018. This date is subject to change! Please check back frequently here for any updates: https://t.co/xEdKsHQH5z. ^NC",,106923
+106923,139731,True,Thu Nov 30 18:24:35 +0000 2017,@SouthwestAir When will you guys be dropping your flight schedule for the end of August and beyond?! 🤔✈️❤️,106922,
+106924,SouthwestAir,False,Thu Nov 30 18:55:20 +0000 2017,@139732 Awesome Rachel - you made a great choice! Let us know if you need anything or have any questions! ^SO,,106925
+106925,139732,True,Thu Nov 30 18:29:24 +0000 2017,Flying @SouthwestAir for the 1st time. Let’s see how this goes.,106924,
+106926,SouthwestAir,False,Thu Nov 30 18:53:51 +0000 2017,"@139733 We aim to please! Thanks for the sweet tweet, Christine. ^NA",,106927
+106927,139733,True,Thu Nov 30 18:52:32 +0000 2017,.@SouthwestAir always keeps theirs passengers entertained no matter how busy they are 🙂 Up next #Nashville,106926,
+106928,SouthwestAir,False,Thu Nov 30 18:52:14 +0000 2017,@138419 Thank you so much for your heartfelt note! Your tweet is being transcribed and sent to an active duty military member. ^NA,,100911
+100911,138419,True,Thu Nov 30 18:44:31 +0000 2017,"@SouthwestAir @138079 I have 3 siblings in the military,they sacrifice our country everyday. I’m forever grateful for their service. I want to send everyone in the military that is active duty #AMillionThanks for serving and protecting our country each and every day. 🇺🇸 thank you bros &amp;sis. ❤️ya",106928,100891
+106929,SouthwestAir,False,Thu Nov 30 18:48:08 +0000 2017,"@139734 I’m sorry if we missed a chance to be of better service to you, Holly. We appreciate your patience and patronage today. ^WB",,106930
+106930,139734,True,Thu Nov 30 18:23:57 +0000 2017,"@SouthwestAir your airline attendant just flat out lied when asked if someone was sitting in a seat, and blocked people from sitting in the exit row the whole boarding process. #really #sw #southwest #howmuchdidittaketobuyyouoff ?",106929,
+106931,SouthwestAir,False,Thu Nov 30 18:46:35 +0000 2017,"@139735 Glad you enjoyed the lift today, Charlie! ^CT https://t.co/QQjFXmOD8c",,106932
+106932,139735,True,Thu Nov 30 18:23:43 +0000 2017,"@SouthwestAir 😎 Thanks, great flight!! ✈️ Either @6013 or @139736 would be spectacular. Just sayin’... oh, and did I mention @139736?? Especially @139736. https://t.co/irkCycnj6T",106931,106933
+106933,SouthwestAir,False,Wed Nov 29 10:35:24 +0000 2017,"@139735 Pleasure as always, Charlie! We'll keep you posted for any new destinations in your area. Have a great flight. ^WB https://t.co/YoB5wZqS9o",106932,106934
+106934,139735,True,Wed Nov 29 10:32:20 +0000 2017,Only thing better than flying @SouthwestAir out of Chicago at this hour of the day would by flying @SouthwestAir out of @139736 or @112597 https://t.co/uOcmMNAewu,106933,
+106935,SouthwestAir,False,Thu Nov 30 18:43:33 +0000 2017,@139737 Oh no! It's never our intention to disappoint. We hope to make it up to you onboard in the future! ^SL,,106936
+106936,139737,True,Thu Nov 30 18:22:49 +0000 2017,30 days of spinning and all I took were L’s 😂😩 @SouthwestAir #swacaliforniamillions,106935,
+106937,SouthwestAir,False,Thu Nov 30 18:42:41 +0000 2017,"@139738 Hi, Dillon. Apologies for any continued disappointment. Feel free to send us a DM if you would like to discuss anything further. ^SL https://t.co/mQmfkXW4oV",106938,106939
+106938,139738,True,Thu Nov 30 19:25:28 +0000 2017,@SouthwestAir @139739 I continue to get the same canned response from your team members with no resolution. If this is what I should expect from SWA customer service I don’t expect this issue will be resolved for me but I thought you’d want to know how your customers are being treated,106940,106937
+106940,139738,True,Thu Nov 30 19:35:57 +0000 2017,@SouthwestAir @139739 Here’s a perfect example of the canned response from your team. This makes it seem like your team thinks I’m lying about the error that occurred rather than trying to solve the issue https://t.co/xcGSf4tR8m,,106938
+106939,139738,True,Thu Nov 30 18:20:47 +0000 2017,"Extremely disappointed with @SouthwestAir lack of customer service. Have been lied to, on hold for an hour and still no resolutions. Is this how you treat all customers?","106937,106941",
+106942,SouthwestAir,False,Thu Nov 30 18:37:43 +0000 2017,@139740 Thanks for hanging in there with us! We appreciate your patience today. ^VP,,106943
+106943,139740,True,Thu Nov 30 18:17:01 +0000 2017,"@SouthwestAir Flight got delayed 😩 But I got a travel voucher &amp; I’m now enjoying an adult beverage in a restaurant that plays classic rock, so it could be worse.",106942,106944
+106944,139740,True,Thu Nov 30 15:44:17 +0000 2017,You know it’s gonna be a good trip when @SouthwestAir is playing Africa’s “Toto” as you walk in to check baggage.,"106945,106946,106943,106947",
+106948,SouthwestAir,False,Thu Nov 30 18:36:55 +0000 2017,"@139741 We love the view from 35K, Jason. Thanks so much for sharing your pic from the window seat! ^VP",,106949
+106949,139741,True,Thu Nov 30 18:15:50 +0000 2017,Adios #DC... see you next time. Not a bad view upon exit. #Travel @SouthwestAir https://t.co/AaG8zLgEe2,106948,
+106950,SouthwestAir,False,Thu Nov 30 18:36:20 +0000 2017,"@139742 That's what we like to hear, Caitlin! Can't wait to have you onboard again soon! ^VP",,106951
+106951,139742,True,Thu Nov 30 18:15:03 +0000 2017,"@SouthwestAir thank you for the early Christmas present, the best flight times &amp; no plane change connections in the new year 😍 #roadwarrior",106950,
+106952,SouthwestAir,False,Thu Nov 30 18:35:33 +0000 2017,"@139743 That's really disappointing to hear Chad, and we're sorry for the other Customer's unkind comments. Hopefully everyone will find seat that works for them and the flight will go well for everyone. ^SO",,106953
+106953,139743,True,Thu Nov 30 18:13:48 +0000 2017,"A lady just said she hates sitting by kids, OUT LOUD, on a plane full of families with kids. @SouthwestAir #MommaBearsEverywhere #SheNeedsANewSeat #Orlando",106952,
+106954,SouthwestAir,False,Thu Nov 30 18:35:22 +0000 2017,@139744 WE LOVE YOU TOO! ^VP,,66426
+66426,139744,True,Thu Nov 30 18:14:57 +0000 2017,@SouthwestAir We all love ❤️ SOUTH WEST,106954,66421
+106955,SouthwestAir,False,Thu Nov 30 18:31:09 +0000 2017,"@139745 Outstanding Ben - you're doing life right! Keep up the good work, and we'll see you onboard tomorrow for the game this weekend! ^SO",,106956
+106956,139745,True,Thu Nov 30 18:06:15 +0000 2017,No one will ever beat @SouthwestAir. Just bought last minute round-trip (Friday night to Saturday night) flight to Dallas for the Big 12 title game for $80. Total. Can't wait to watch @132236 when ANOTHER conference championship.,106955,
+106957,SouthwestAir,False,Thu Nov 30 18:29:42 +0000 2017,"@139746 Hey, there. Apologies for any frustration. Please let us know if we can assist with anything. ^SL",,106958
+106958,139746,True,Thu Nov 30 18:09:20 +0000 2017,"Hey @SouthwestAir, your site's down.",106957,
+106959,VirginTrains,False,Thu Nov 30 18:59:11 +0000 2017,@139747 This is one for @120576 to look at. ^PA,,106960
+106960,139747,True,Thu Nov 30 18:57:15 +0000 2017,"I don’t know why @VirginTrains east coast offers WiFi. It’s damn near impossible to sign on to the bloody thing. Why can’t the sign in just be on the main page. It’s giving me a flamin’ headache. I’ll just use my data I guess. 😫
+#virgintrainseastcoast 👎🏻",106959,
+106961,VirginTrains,False,Thu Nov 30 18:58:52 +0000 2017,@139748 Which service are you on? ^PA,"106962,106963",106964
+106962,139748,True,Thu Nov 30 19:00:03 +0000 2017,@VirginTrains The TM’s woke up now 🤣🤣🤣,106965,106961
+106965,VirginTrains,False,Thu Nov 30 19:01:23 +0000 2017,"@139748 I see, hopefully they can give the correct info now. ^PA","106966,106967,106968,106969",106962
+106966,139748,True,Thu Nov 30 19:04:46 +0000 2017,@VirginTrains Awful service again,,106965
+106967,139748,True,Thu Nov 30 19:04:08 +0000 2017,@VirginTrains And can’t get anything to eat or drink because the card machine doesn’t work,,106965
+106968,139748,True,Thu Nov 30 19:02:49 +0000 2017,@VirginTrains No all wrong,,106965
+106969,139748,True,Thu Nov 30 19:02:03 +0000 2017,@VirginTrains Hopefully...,,106965
+106963,139748,True,Thu Nov 30 18:59:31 +0000 2017,@VirginTrains 1757 to Lichfield Ltv,,106961
+106964,139748,True,Thu Nov 30 18:56:38 +0000 2017,@VirginTrains Just asked driver why we’re not moving &amp; he said ‘are we not moving we’re only 5mins late ‘...we’re half an hour late 🤦‍♂️,106961,
+106970,VirginTrains,False,Thu Nov 30 18:58:12 +0000 2017,@139749 Glad you like it Helen :). ^PA,106971,106972
+106971,139749,True,Thu Nov 30 19:02:32 +0000 2017,@VirginTrains Can you buy out @139750 and sort out the London to Norwich trains please 💖😘,106973,106970
+106973,VirginTrains,False,Thu Nov 30 19:03:57 +0000 2017,@139749 @139750 I'm afraid that isn't possible sorry :) ^PA,106974,106971
+106974,139749,True,Thu Nov 30 19:12:16 +0000 2017,@VirginTrains @139750 Haha 🤣 worth a try!,,106973
+106972,139749,True,Thu Nov 30 18:56:37 +0000 2017,First class on @VirginTrains is mental. So much free food and drink 😂 legit feel like I’m on a plane,"106970,106975",
+106976,VirginTrains,False,Thu Nov 30 18:57:53 +0000 2017,"@139751 I#s ok, I got what you meant ;) ^PA",,106977
+106977,139751,True,Thu Nov 30 18:56:41 +0000 2017,@VirginTrains Errrrr I mean the 18:43 🤸‍♂️🤸‍♂️🤸‍♂️,106976,106978
+106978,139751,True,Thu Nov 30 18:55:28 +0000 2017,@VirginTrains hello lovelies at Virgin west coast!  I love your new ‘washroom’ announcer! I sat on the throne today and laughed 19:43 Euston to MK 😂😂👏👏👏👏👏👏,"106979,106977",
+106980,VirginTrains,False,Thu Nov 30 18:56:48 +0000 2017,"@139118 Sorry to hear this :/ If you have been delayed by one of our services, then please speak to the station team who can validate your ticket for the net service ^HP",,106981
+106981,139118,True,Thu Nov 30 18:52:36 +0000 2017,@VirginTrains leaving Bham late (1B74) we have lost our path and lost more time at MK..so have missed my connection at Watford Jn :-(,106980,
+106979,VirginTrains,False,Thu Nov 30 18:56:37 +0000 2017,@139751 Glad you like it :) ^PA,,106978
+106982,VirginTrains,False,Thu Nov 30 18:56:09 +0000 2017,@139752 We have to make sure it's working Ron ;). ^PA,106983,106984
+106983,139752,True,Thu Nov 30 18:57:22 +0000 2017,"@VirginTrains Ok, cool. Any idea how long a train in front testing the track will take?",106985,106982
+106985,VirginTrains,False,Thu Nov 30 19:00:12 +0000 2017,@139752 It shouldn't be too long but we do currently have delays of around 15 mins on some services due to this ^HP,,106983
+106984,139752,True,Thu Nov 30 18:54:42 +0000 2017,"@VirginTrains When your train manager (London to Glasgow) says we've stopped because the train in front is ""testing the track""...? https://t.co/ycQpkQG8cT","106982,106986",
+106987,VirginTrains,False,Thu Nov 30 18:55:18 +0000 2017,"@139753 It can take the team up to 28 days to prcocess a claim, but you can also contact the team directly on  Live Chat here: https://t.co/YB2X8iaeb7 for a quicker response between 08:30 &amp; 18:15  during the week ^HP",,106988
+106988,139753,True,Thu Nov 30 18:42:33 +0000 2017,@VirginTrains Any idea how long a response takes? Another week and still no reply?,106987,106989
+106989,VirginTrains,False,Thu Nov 23 09:43:56 +0000 2017,@139753 Thank you. I can see that the case been escalated so the team will look in to this and get back to you as soon as possible ^CB,106988,106990
+106990,139753,True,Thu Nov 23 09:39:19 +0000 2017,"@VirginTrains Case Reference VT-101117-0896
+
+The subsequent 3 messages that have been sent haven't been responded to.",106989,106991
+106991,VirginTrains,False,Wed Nov 22 10:38:48 +0000 2017,@139753 Can we take the VT reference number so we can have a look. ^PA,106990,106992
+106992,139753,True,Wed Nov 22 10:36:41 +0000 2017,@VirginTrains Just a response saying sorry but not actually offering a resolution,106991,106993
+106993,VirginTrains,False,Tue Nov 21 10:43:42 +0000 2017,@139753 It can take up to 28 days for a full response to be issued. Have you received a VT reference for this? ^CB,106992,106994
+106994,139753,True,Tue Nov 21 10:42:16 +0000 2017,@VirginTrains still no further forward by sending an official complaint! Can someone please contact me to inform when I will get a refund for the service I paid for but you didn't deliver,106993,
+106995,VirginTrains,False,Thu Nov 30 18:49:40 +0000 2017,"@139754 If you are purchasing an Off Peak or anytime ticket you can get on multiple trains if the same service is always busy, it may be worth waiting for the next one which most likely will be quieter. ^PA",106996,106997
+106996,139754,True,Thu Nov 30 18:57:29 +0000 2017,"@VirginTrains I dont/can't wait for the next service. When someone books a train at a certain time its because they need to to travel at that time. Also if there aren't seats don't sell tickets. Absolutely ridiculous suggestion. Please reserve me a seat, that is all I'm asking.",106998,106995
+106998,VirginTrains,False,Thu Nov 30 19:05:39 +0000 2017,"@139754 This is the point of this ticket type, Vanessa, it allows this kind of flexibility and there are always unreserved coaches on the train for those without reservations. Which service did you plan to take? ^HP",106999,106996
+106999,139754,True,Thu Nov 30 19:08:45 +0000 2017,"@VirginTrains I don't need flexibility, I need to travel at this time. If there are unreserved coaches why can't I reserve one of those seats? I will be taking the 19.07 from London Euston to Liverpool. I do this journey often, so should be treated as a valued customer which I'm definitely not",107000,106998
+107000,VirginTrains,False,Thu Nov 30 19:17:28 +0000 2017,"@139754 We can offer a seat if there are any available, but all of our reservable seating has been booked on this service. We can't reserve seats in our unreserved coaches as the purpose of these is for customers without reservations/walk ups ^HP","107001,107002",106999
+107001,139754,True,Thu Nov 30 19:20:57 +0000 2017,@VirginTrains Then why allow people to book seats if there aren't any available. Quite frankly I pay a lot of money every week. I deserve a seat. I don't want to stand staring at a board waiting for the platform to come up with 100's of other people to then run &amp; race each other to get a seat,107003,107000
+107003,VirginTrains,False,Thu Nov 30 19:24:30 +0000 2017,"@139754 If all seats are booked then we wouldn't allow any further reservations, services can become overcrowded when passengers with walk up tickets board as they wouldn't have a reservation for it. ^PA",,107001
+107002,139755,True,Thu Nov 30 19:19:46 +0000 2017,@VirginTrains @139754 Stop being greedy and overselling your trains if you're charging 50 quid then you should get a seat simple as really,107004,107000
+107004,VirginTrains,False,Thu Nov 30 19:22:41 +0000 2017,"@139755 @139754 We don't over sell, it can get busy when people with flexible tickets travel on the first available service. ^PA",107005,107002
+107005,139755,True,Thu Nov 30 19:23:40 +0000 2017,@VirginTrains @139754 Yes you do if there are no seats available on a certain service you will still sell a ticket so that is a lie.,"107006,107007",107004
+107006,132796,True,Thu Nov 30 19:33:32 +0000 2017,@139755 @VirginTrains @139754 Advance tickets are booked train only. Complementary seat reservation. Off peak or anytime ticket which is walk up ticket flexible for passenger to travel any train. No operator over sells tickets.,107008,107005
+107008,139755,True,Thu Nov 30 19:35:07 +0000 2017,@132796 @VirginTrains @139754 Sorry who are you?,107009,107006
+107009,132796,True,Thu Nov 30 19:37:22 +0000 2017,@139755 @VirginTrains @139754 I am a railway enthusiast like I follow them a lot. I have friends work for the railway. I know no point arguing with them.,,107008
+107007,VirginTrains,False,Thu Nov 30 19:24:54 +0000 2017,@139755 @139754 We sell a ticket that is available on multiple services not one specific  one. ^PA,"107010,107011",107005
+107010,139755,True,Sun Dec 03 12:23:32 +0000 2017,"@VirginTrains @139754 Annndddd return journey, delayed again you really do excel yourselves at being consistently and utterly dreadful",107012,107007
+107012,VirginTrains,False,Sun Dec 03 12:39:59 +0000 2017,@139755 @139754 Sorry for the delays today Ruddy. Delays today are due to Network Rail carrying out emergency repairs to overhead wires. ^BT,,107010
+107011,139754,True,Thu Nov 30 19:26:02 +0000 2017,"@VirginTrains @139755 Then why make it as though we are able to book a specific service? If I have specifically selected the 19.07 service I should be able to travel on that train. If there aren't seats, you shouldn't be able to select it.",107013,107007
+107013,139754,True,Fri Dec 01 09:02:41 +0000 2017,"@VirginTrains @139755 Thanks for responding, very helpful, as always. I  just tried to upgrade to 1st class, yet even that is impossible for you to comprehend. Charge an admin fee as well as me paying an obscene amount extra? Very much looking forward to sitting on the floor for 2 1/2 hrs later.",107014,107011
+107014,139755,True,Fri Dec 01 09:04:19 +0000 2017,@139754 @VirginTrains Literally the worst customer service going,,107013
+106997,139754,True,Thu Nov 30 18:44:29 +0000 2017,"@VirginTrains Can you tell me why you sell tickets for trains when its not possible to reserve a seat? I travel every Friday &amp; have to run for a seat to the unreserved carriages, yet when I call to try and reserve 1 there apparently arent any...Also appalling customer service!",106995,
+107015,VirginTrains,False,Thu Nov 30 18:46:04 +0000 2017,"@139756 Hi Jen, please speak to station staff upon arrival as they should be able to validate your ticket for the next available service ?^HP",,107016
+107016,139756,True,Thu Nov 30 18:39:00 +0000 2017,@virgintrains I was supposed to be on the cancelled 18:10. Now on delayed 18:07 Liverpool. How do I get to chester?,107015,
+107017,VirginTrains,False,Thu Nov 30 18:45:49 +0000 2017,"@139757 You can change for a service at Nuneaton or Milton Keynes, staff onboard can assist. ^PA",107018,107019
+107018,139757,True,Thu Nov 30 18:59:36 +0000 2017,"@VirginTrains Done and thanks, train still waiting at MK",,107017
+107019,139757,True,Thu Nov 30 18:43:51 +0000 2017,@VirginTrains told to get the Liverpool train as the 18:10 cancelled but not going to make MK in time what’s the plan Stan? 18:07 left 10/20 late to start,107017,
+107020,VirginTrains,False,Thu Nov 30 18:43:49 +0000 2017,"@139758 I'm afraid not Dan, if you believe things have been stolen, you would need to report it to the @120893 ^PA",107021,107022
+107021,139758,True,Thu Nov 30 18:45:51 +0000 2017,@VirginTrains @120893 Will do,,107020
+107022,139758,True,Thu Nov 30 18:41:05 +0000 2017,"@VirginTrains My bag was delivered home to me from Carlisle station after leaving it on a train, and half my stuff is missing from it. Any chance of my expensive aftershave back?",107020,
+107023,VirginTrains,False,Thu Nov 30 18:37:56 +0000 2017,@139759 The train had a cracked windscreen meaning it couldn't be use I'm afraid Joe. ^PA,,107024
+107024,139759,True,Thu Nov 30 18:36:42 +0000 2017,@VirginTrains 15:40 Glasgow to Euston.,107023,107025
+107025,VirginTrains,False,Thu Nov 30 18:30:32 +0000 2017,"@139759 Sorry to hear that, which service were you on? ^PA",107024,107026
+107026,139759,True,Thu Nov 30 18:19:50 +0000 2017,"Cheers @VirginTrains for the cancelled train forcing me onto a slower, crammed, much far later arriving train.",107025,
+107027,VirginTrains,False,Thu Nov 30 18:33:23 +0000 2017,@139760 The 18:10 starts at Milton Keynes at 18:41. ^PA,107028,107029
+107028,139760,True,Thu Nov 30 18:34:51 +0000 2017,@VirginTrains Thank you,,107027
+107029,139760,True,Thu Nov 30 18:25:05 +0000 2017,I’m on the delayed 18.07 to Liverpool as the 18.10 to Holyhead was cancelled. Been told different places to change - should it be M Keynes or Nuneaton ? @VirginTrains,107027,
+107030,VirginTrains,False,Thu Nov 30 18:32:52 +0000 2017,@139761 The 18:10 will start at Milton Keynes at 18:41. ^PA,,107031
+107031,139761,True,Thu Nov 30 18:22:58 +0000 2017,@VirginTrains just got on 18:07 at euston as 18:10 to Holyhead cancelled. It now says stopping st Milton Keynes but will 18:10 be there to swap into?,107030,
+107032,Ask_Spectrum,False,Fri Dec 01 06:54:33 +0000 2017,@139762 Apologies again. I have credited the account for the services lost. ^LG,,107033
+107033,139762,True,Fri Dec 01 06:49:33 +0000 2017,"@Ask_Spectrum Thanks. The services are back. I’m still super frustrated, I was relying on my internet to finish some work. And that was my available window of time. Now I need to try to catch at least 4h of sleep...",107032,107034
+107034,Ask_Spectrum,False,Fri Dec 01 06:07:59 +0000 2017,"@139762 Once your services are restored, we can adjust the amount accordingly for how long you were without services. ^LG",107033,107035
+107035,139762,True,Fri Dec 01 05:59:44 +0000 2017,"@Ask_Spectrum Thank you. But wait, once the services have been restored I have to let YOU know!?!?!? 🤔 I was thinking that YOU would let ME (US costumers) know, no!? 🤨",107034,107036
+107036,Ask_Spectrum,False,Fri Dec 01 05:53:31 +0000 2017,"@139762 Apologies for the inconvenience. Once the services have been restored, please let us know and we can credit the account accordingly. ^LG",107035,107037
+107037,139762,True,Fri Dec 01 05:18:17 +0000 2017,@Ask_Spectrum another outage? 11374. Are you going to refund your clients for all these time without service? Including the early morning of Thanksgiving?,107036,
+107038,Ask_Spectrum,False,Fri Dec 01 06:51:09 +0000 2017,"@139763 Good morning. I'm sorry for the delayed reply to your post. As of this time, maintenance updates are being performed in your area which may be causing partial or full interruption of all services. The estimated time of completion for these updates is sc... https://t.co/PIvlUKM9Pl",,22456
+22456,139763,True,Fri Dec 01 05:46:12 +0000 2017,"@Ask_Spectrum My internet just went down 10 minutes ago 8’ Woodside, Queens. What’s going on?",107038,22436
+107039,MicrosoftHelps,False,Thu Nov 23 18:50:00 +0000 2017,@139764 We'd like to hear from you! Please help us improve by answering a quick survey here: https://t.co/lomi6s1rfr.,,107040
+107040,139764,True,Wed Nov 22 11:37:01 +0000 2017,@MicrosoftHelps how do you remove an email account from the mail app on windows 10? Looked for so long and can’t find the option 🙈,"107039,107041",
+107042,AmazonHelp,False,Thu Nov 30 20:30:28 +0000 2017,@139765 I'm sorry your order arrived in this condition Joe. You can find return/replacement options here: https://t.co/9jpxm6orRN ^VS,107043,107044
+107043,139765,True,Thu Nov 30 23:48:49 +0000 2017,@AmazonHelp Yeah.....don’t think you will be able to replace fingerlings...just warn people not to throw stuff in a huge box all together with no protection. Sill love ya just disappointed!,107045,107042
+107045,AmazonHelp,False,Thu Nov 30 23:52:00 +0000 2017,"@139765 Understood, thank you for your patience. ^JR",,107043
+107044,139765,True,Thu Nov 30 20:24:27 +0000 2017,I love @115821 but you did me wrong today. Sent me a package and half of the products inside where crushed.....ugh. Nothing like giving smashed Christmas presents out.,107042,
+107046,AdobeCare,False,Thu Nov 30 18:58:35 +0000 2017,"@139766 Hi Wasim, you can find the Illustrator cheat sheet here: https://t.co/zB5ZzmTR8C ^Wren",107047,107048
+107047,139766,True,Thu Nov 30 19:00:55 +0000 2017,@AdobeCare thank you so much,,107046
+107048,139766,True,Thu Nov 30 17:51:57 +0000 2017,@AdobeCare any for illustrator?,"107046,107049",107050
+107050,AdobeCare,False,Thu Nov 30 16:00:11 +0000 2017,Our official cheat sheet for Premiere Pro shortcuts: https://t.co/dncNJy5coD https://t.co/FPrMlu0wO0,107048,
+107051,AdobeCare,False,Thu Nov 30 18:58:21 +0000 2017,@139767 I'm so sorry to hear that! Please let us know if you need any help. ^Britt,,107052
+107052,139767,True,Wed Nov 29 00:57:24 +0000 2017,just literally had the WORST customer service experience of my life with @116233 hooooly shit,107051,
+107053,AdobeCare,False,Thu Nov 30 18:53:20 +0000 2017,"@139768 Hi Margo, is it the Creative Cloud app which is utilising 6GB ram, not any specific Creative Cloud app?   ^Tanuj",,107054
+107054,139768,True,Thu Nov 30 02:15:09 +0000 2017,"@116233 Hi, I updated LR and PS recently as well as my MacBook pro. Before I open anything, CC is hogging what looks to be 6GB of ram. Suggestions?",107053,
+107055,AdobeCare,False,Thu Nov 30 18:51:35 +0000 2017,"@139769 Hi Austin, tone curve is not a feature in included in Lightroom CC yet, I would suggest to post a feature request at : https://t.co/rwIq3OkZLu .  ^Tanuj",107056,107057
+107056,139769,True,Thu Nov 30 18:56:16 +0000 2017,@AdobeCare Ahhhhhhhhh that sucks,,107055
+107057,139769,True,Thu Nov 30 02:58:19 +0000 2017,The new Lightroom CC is awesome but where the hell is my tone curve @116233 @115769,107055,
+107058,AdobeCare,False,Thu Nov 30 18:50:46 +0000 2017,"@139770 Hi Liz, this is a feature built into Photoshop- you can learn more here: https://t.co/IlxG6egKUS ^Madison",107059,107060
+107059,139770,True,Thu Nov 30 18:54:02 +0000 2017,@AdobeCare Again - NOT YOUR PLACE TO STOP ME FROM USING SOMETHING I PAID FOR FOR A LEGAL PURPOSE!!!!!  #byebyeadobe  You deliberately are keeping me from doing my legal job!  #morepissedoff,,107058
+107060,139770,True,Thu Nov 30 18:42:01 +0000 2017,Hey @AdobeCare DISABLING editing on any photo that includes a piece of a dollar bill just lost you a customer.  I don't need YOU deciding what I can and can't edit.  Especially when it is legal!!!  #nomoreadobe #photography #stockphotography #pissedoff,107058,
+107061,AdobeCare,False,Thu Nov 30 18:50:18 +0000 2017,"@139771 Hi Clarke, sorry for the slowness issue, please try the steps from the article to improve Lightroom performance: https://t.co/bnTQklVUca .  ^Tanuj",107062,107063
+107062,139771,True,Fri Dec 01 19:30:25 +0000 2017,"@AdobeCare OK... Thanks. I will take a look at your help link for Lightroom, but what about this new issue that I've never seen before with @117341 https://t.co/pkuWDoZJh7",107064,107061
+107064,AdobeCare,False,Fri Dec 01 19:54:39 +0000 2017,"@139771 Hi Clarke, try resetting the tool once: https://t.co/OzhudeWtQ9 , once done restart Photoshop and incase you still get the same error try resetting Photoshop preferences once: https://t.co/f5xw1Y9qZm .  ^Tanuj",,107062
+107063,139771,True,Thu Nov 30 03:33:17 +0000 2017,".@116233, @115769 Classic CC is by far the worse upgrade you ever did. This is the total 180º turn for the worse. It's the slowest I've ever seen this work. Trying to move between images is like watching paint dry. Please FIX IT!!!!!!!!!!! https://t.co/RryNuWaCDX",107061,
+107065,AdobeCare,False,Thu Nov 30 18:48:26 +0000 2017,"@139772 Hi there, are you working with Lightroom Classic CC or Lightroom CC on desktop, also which mobile device do you have?
+Do you get any error when syncing the images from desktop or mobile or vice versa?
+How many images are you syncing with Lightroom CC ?   ^Tanuj","107066,107067",107068
+107066,139772,True,Thu Nov 30 18:55:58 +0000 2017,@AdobeCare  https://t.co/gXqYlrsf8E,,107065
+107067,139772,True,Thu Nov 30 18:54:00 +0000 2017,@AdobeCare I'm working with CC on desktop. I'm using a iPod touch to finish the rest of the work. It claims that all syncs are up to date. I usually try to sync any file I'm working on. Isn't it supposed to automatically if checked to do so?,"107069,107070",107065
+107069,AdobeCare,False,Thu Nov 30 19:29:28 +0000 2017,"@139772 Yes, the images should be synced on desktop with all the edits that you perform on Lightroom mobile.
+Are you able to view the edits on :  https://t.co/oNfGEor1qH ?
+Also, does the edits show on mobile when done desktop?   ^Tanuj",107071,107067
+107071,139772,True,Thu Nov 30 19:40:58 +0000 2017,@AdobeCare No I’m not seeing the edits. I’m seeing what I uploaded from my cpu and the ones I uploaded from my iPod but not the ones I actually saved to my desktop in the Lightroom folder. Nor will different things I save to the cloud sync with other apps especially from spark or photoshop,"107072,107073",107069
+107072,AdobeCare,False,Fri Dec 01 06:16:21 +0000 2017,"@139772 Hi Natty, You mentioned that you don't see the images which you saved through PS &amp; Adobe spark. After editing the files in PS, do you save the file and  upload the image in Lightroom mobile to sync? So basically whatever you edit on iPad its not syncing to the desktop? MG","107074,107075",107071
+107074,139772,True,Fri Dec 01 06:23:43 +0000 2017,@AdobeCare It won’t even show an option to grab images from the creative cloud,,107072
+107075,139772,True,Fri Dec 01 06:23:19 +0000 2017,"@AdobeCare Yes I do that, but throughout other apps and on desktop it doesn’t sync. Nothing from Lightroom syncs with other projects unless the project that maybe finished and saved on the device I’m using. I don’t quite understand the syncing in Lightroom on mobile either",107076,107072
+107076,AdobeCare,False,Fri Dec 01 16:33:55 +0000 2017,"@139772 Hi Natty, Once you add images to Lightroom mobile then, it will sync to Lightroom web &amp; desktop version. First you add images in Phone Gallery/Photos app then you will add image in Lightroom app, do the edits and it will sync to other devices. Thanks. ^MG",107077,107075
+107077,139772,True,Fri Dec 01 16:50:41 +0000 2017,@AdobeCare But what about pictures from the Creative Cloud it won’t let me upload from there and if I’ve uploaded photos to my lightroom from my desktop it should be on my light room mobile device  and it’s not.. that’s what’s confusing what exactly is it supposed to do?,"107078,107079",107076
+107078,AdobeCare,False,Fri Dec 01 17:21:36 +0000 2017,@139772 I would suggest you to go through the following articles: https://t.co/iktHACcwB6  and https://t.co/zSWh34Wbw7 .   ^Tanuj,,107077
+107079,AdobeCare,False,Fri Dec 01 16:52:15 +0000 2017,@139772 Thanks! We've passed this info on to our expert- they will review and get back to you ASAP. ^AJ,,107077
+107073,AdobeCare,False,Thu Nov 30 19:52:09 +0000 2017,"@139772 Could you please launch Lightroom, click About Lightroom and let me know the exact version of app installed and also the version of mobile app installed?   ^Tanuj","107080,107081",107071
+107080,139772,True,Fri Dec 01 02:40:38 +0000 2017,@AdobeCare The desktop version is up to date also,107082,107073
+107082,AdobeCare,False,Fri Dec 01 02:56:55 +0000 2017,@139772 Requesting the expert to review &amp; respond. Thanks ^Raj,,107080
+107081,139772,True,Fri Dec 01 02:40:12 +0000 2017,@AdobeCare  https://t.co/UZFGwvZ28X,,107073
+107070,AdobeCare,False,Thu Nov 30 19:18:26 +0000 2017,@139772 Thanks for the additional information. We're looking into this and will follow up with next steps ASAP ^Madison,,107067
+107068,139772,True,Thu Nov 30 17:11:40 +0000 2017,@115769 @116233 I can’t sync my files between Lightroom! The only adobe app that syncs my work and it shows up is adobe spark. Idk why it won’t sync from my cpu to device or vice versa. 😫,107065,
+107083,AdobeCare,False,Thu Nov 30 18:46:49 +0000 2017,"@139773 Hi Listya, LR mobile is included with a paid Creative Cloud subscription. ^Britt",107084,107085
+107084,139773,True,Thu Nov 30 22:29:25 +0000 2017,@AdobeCare What if i just subscribe to the mobile version one? That means i just subscribe only for Lr (mobile&amp;desktop) right? Thank you! 👍🏻👍🏻,"107086,107087",107083
+107086,AdobeCare,False,Thu Nov 30 23:06:11 +0000 2017,@139773 To use Lightroom on Mobile device you don't need a Creative Cloud subscription but you need the subscription if you want to use Lightroom on Mobile device as well as on Desktop . Please feel free to tweet us back in case you need further help. Thanks! ^BK,,107084
+107087,AdobeCare,False,Thu Nov 30 23:02:04 +0000 2017,"@139773 Listya, Lightroom for mobile on iOS or Android on can now be used locally on your phone or tablet without the desktop Lightroom app, without a Creative Cloud Photography Plan or Creative Cloud All Apps subscription and even without an Adobe ID. ^BK",,107084
+107085,139773,True,Wed Nov 29 06:42:57 +0000 2017,"@116233 hello, do i have to subscribe to Lr mobile even i have a subscribe the desktop one and vice versa? thank you",107083,
+107088,AdobeCare,False,Thu Nov 30 18:45:48 +0000 2017,"@139774 Hi there, I'm afraid we have no information at this time. ^B",,107089
+107089,139774,True,Wed Nov 29 16:54:18 +0000 2017,"@116233 with the fluctuation expected to happen with the currency in Canada (min wage increasing to $15), what is expected with monthly subscriptions for the creative cloud for Canadians? We already pay the ridiculous exchange rate.",107088,
+107090,AdobeCare,False,Thu Nov 30 18:44:44 +0000 2017,@139775 I'm so sorry to hear that! Please let us know if you need any help. ^Britt,,107091
+107091,139775,True,Wed Nov 29 22:04:07 +0000 2017,"Thanks @116233 for losing all of my progress today due to an ""unknown error."" ARGH!!! https://t.co/DN5Rd1f1ke",107090,
+107092,AdobeCare,False,Thu Nov 30 18:41:22 +0000 2017,"@139776 Hi Brandon, we're so sorry for the frustrating experience. Can you provide more detail on your issue? We’re here to help! ^AJ https://t.co/iuwZCjz4Or",,107093
+107093,139776,True,Thu Nov 30 18:39:35 +0000 2017,I just spent an unreal amount of time using @AdobeCare support chat and the rep disappeared on me. I guess when I said I should just cancel my sub. 400 bucks for an autorenew of my kids creative cloud. Yikes. #Shameonyou #CX,"107092,107094",
+107095,AdobeCare,False,Thu Nov 30 18:40:52 +0000 2017,"@139777 Hi Florent, please let us know if we can help you with any account changes. ^Britt https://t.co/iuwZCjz4Or",,107096
+107096,139777,True,Thu Nov 30 08:01:11 +0000 2017,"@139778 @116233 Les nouveautés c'est bien, mais répondre à vos clients fidèles ça vous arrive ???? C'est pas comme si on voulait commander de nouvelles licences en plus !",107095,107097
+107097,139778,True,Thu Nov 23 08:30:08 +0000 2017,"Nouveautés @116233, #keynotes d’artistes de talent… Session de rattrapage du #AdobeCreativeMeetup en #replay ! https://t.co/qarPlR7WcG https://t.co/AUi78gZzvl",107096,
+107098,AdobeCare,False,Thu Nov 30 18:40:34 +0000 2017,"@139779 Hi Angela, are you getting an error message? Please provide more details so we can assist you. Thanks! ^AJ https://t.co/iuwZCjz4Or",,107099
+107099,139779,True,Thu Nov 30 18:35:48 +0000 2017,@AdobeCare Photoshop elements (newest version) won’t open on my Mac. I got it less than a week ago. Was on hold for 1hr before I gave up.,107098,107100
+107100,AdobeCare,False,Thu Nov 30 02:18:34 +0000 2017,@139779 Would you mind providing more details about the issue? We'd certainly follow up. ^Raj https://t.co/iuwZCjz4Or,107099,107101
+107101,139779,True,Thu Nov 30 01:58:23 +0000 2017,Been on hold with @AdobeCare for 45 minutes now. At what point do I just give up? I feel like Phoebe on that episode of Friends where she kept thinking she was next...,107100,
+107102,AdobeCare,False,Thu Nov 30 18:40:12 +0000 2017,"@139780 Hi there, You may use the preset manager in Photoshop to export all the presets that'll include all your brushes, actions and others listed in this article: https://t.co/gepeYyrxYJ 
+Once exported, presets can be imported on your new computer easily. Thanks, ^AK",107103,107104
+107103,139780,True,Thu Nov 30 19:33:03 +0000 2017,@AdobeCare I will try that again but when I open the preset manager I do not see any presets to migrate even though they are all installed and available to use.,107105,107102
+107105,AdobeCare,False,Thu Nov 30 19:42:35 +0000 2017,"@139780 You would need to export presets, please check the heading for ""Export and Import Presets"" in the article mentioned from the last reply.   ^Tanuj",,107103
+107104,139780,True,Thu Nov 30 18:28:25 +0000 2017,@116233 is there not an easy way to get all my actions and brushes over to a new computer? Running the last CC version of photoshop.,107102,
+107106,AdobeCare,False,Thu Nov 30 18:39:53 +0000 2017,@139781 I'm so sorry for the trouble! Please let us know if you need any help. ^Britt,,107107
+107107,139781,True,Thu Nov 30 08:07:23 +0000 2017,@139782 @116233 This is where I am at right now https://t.co/tMkMSEs9ce,107106,107108
+107108,139782,True,Thu Nov 30 07:38:18 +0000 2017,"@139781 @116233 You can check in anytime you want, but you can never leave 😂",107107,107109
+107109,139781,True,Thu Nov 30 07:15:56 +0000 2017,I am going around in circles trying to cancel my @116233 subscription for the past 30 minutes. I am supposed to contact customer support to do that? Why? https://t.co/5ErEZPI0hu,107108,
+107110,AdobeCare,False,Thu Nov 30 18:38:12 +0000 2017,"@139783 Hi,
+InDesign &amp; Illustrator are quite different in many ways &amp; purpose. You can certainly ask for a feature request though. https://t.co/jJKCwzAJzl
+As per the crash issue, we would need more details like OS, AI version used, any error message or workflow which cause the crash. ^OM https://t.co/iuwZCjz4Or",,107111
+107111,139783,True,Thu Nov 30 18:23:37 +0000 2017,@AdobeCare Why does Illustrator doesn't have a good viewer as Indesign and keeps crashing?,"107110,107112",107113
+107113,AdobeCare,False,Thu Nov 30 18:22:49 +0000 2017,@139783 Sorry to hear that! Let us know if you need any help. ^Britt,107111,107114
+107114,139783,True,Thu Nov 30 18:15:30 +0000 2017,"Mas o chato é que queria terminar essa arte hj, mas a @115777 não colabora.","107113,107115",
+107116,AdobeCare,False,Thu Nov 30 18:36:23 +0000 2017,@139784 I'm so sorry for the long hold time! Let us know if you need any help. ^Britt,,107117
+107117,139784,True,Thu Nov 30 15:57:58 +0000 2017,@116233 32 minutes later... https://t.co/LiO4oWUhnQ,107116,107118
+107118,139784,True,Thu Nov 30 15:44:16 +0000 2017,@116233 ...🤦‍♂️ https://t.co/00Mr0oPOwN,107117,107119
+107119,139784,True,Thu Nov 30 15:34:56 +0000 2017,Trying to chat with @116233 customer support online like... https://t.co/8v0gi4wKdf,107118,
+107120,AdobeCare,False,Thu Nov 30 18:33:18 +0000 2017,@139785 Thanks! We've passed this info on to our expert- they will review and get back to you ASAP. ^AJ,"107121,107122",107123
+107121,139785,True,Thu Nov 30 18:33:46 +0000 2017,@AdobeCare Thanks,,107120
+107122,139785,True,Fri Dec 01 00:34:26 +0000 2017,@AdobeCare So uh......................................,"107124,107125",107120
+107124,AdobeCare,False,Fri Dec 01 09:09:59 +0000 2017,"@139785 Hi Dustin, please try the steps mentioned on this link:  - https://t.co/0kl3oAeN9D and feel free to update this discussion in case you need further assistance.^AS",,107122
+107125,AdobeCare,False,Fri Dec 01 01:00:53 +0000 2017,"@139785 Hi there, we're looping in one of our experts who can help you out here. They will review and reply as soon as they're available. Thanks ^Raj",,107122
+107123,139785,True,Thu Nov 30 18:30:31 +0000 2017,"@AdobeCare Step 1 would be great, but then I wouldn't be here.
+2 Doesn't work
+3 I tried and didn't work",107120,107126
+107126,AdobeCare,False,Thu Nov 30 18:24:40 +0000 2017,@139785 Thanks for the screenshots- have you already tried the steps here? https://t.co/XDxOCFH58D ^Madison,107123,107127
+107127,139785,True,Thu Nov 30 18:23:36 +0000 2017,@AdobeCare  https://t.co/qHPdRNbk3y,"107126,107128",107129
+107129,AdobeCare,False,Thu Nov 30 18:19:39 +0000 2017,"@139785 Hi Dustin, we’re really sorry to hear that. Can you provide more detail on your issue? We’re here to help! ^AJ https://t.co/iuwZCjz4Or",107127,107130
+107130,139785,True,Thu Nov 30 18:15:13 +0000 2017,@AdobeCare What's going on? I haven't been able to sign in,107129,
+107131,AdobeCare,False,Thu Nov 30 18:32:50 +0000 2017,"@139786 Hi Wang, we're looping in an expert who can help you out here. They will reply as soon as they're available. ^AJ",107132,107133
+107132,139786,True,Thu Nov 30 18:34:27 +0000 2017,"@AdobeCare Thanks. 
+
+And thanks for calling me Wang, it made my day 😂😊",,107131
+107133,139786,True,Thu Nov 30 18:28:00 +0000 2017,@AdobeCare Yes. Using CC 2018. This happened last week too and I had to uninstall and install it again. It worked. But now it's happening again... 😢,"107131,107134",107135
+107135,AdobeCare,False,Thu Nov 30 18:25:17 +0000 2017,@139786 Oh no! Which version are you using? Is InDesign up to date? ^Britt,107133,107115
+107115,139786,True,Thu Nov 30 18:21:02 +0000 2017,@139783 @115777 Eu mesma nesse exato segundo com o Indesign fechando na minha cara 🌸🌸🌸🌸🌸🌸🌸,107135,107114
+107136,AdobeCare,False,Thu Nov 30 18:28:57 +0000 2017,"@118887 Hi Louis, would you mind DM'ing us your Adobe ID (email) so we can look into this? Thanks! ^Britt https://t.co/iuwZCjz4Or",,107137
+107137,118887,True,Thu Nov 30 16:34:24 +0000 2017,@115777 this is becoming ridiculous. Second time I was charged $21 for adobe systems. I cancelled my membership and do not use adobe products anymore. Why do you continue to withdraw money from my account? Thank you.,107136,
+107138,AdobeCare,False,Thu Nov 30 18:26:01 +0000 2017,"@139787 Sorry about that, Elise. If you DM us your Adobe ID (email) we can help you make account changes. ^Britt https://t.co/iuwZCjz4Or",,107139
+107139,139787,True,Thu Nov 30 18:03:28 +0000 2017,"Hey @115777 ! Funny how your Manage plan part on your website isn't working so we can't unsuscribe your offers that doesn't work ! Do something, please !",107138,
+107112,AdobeCare,False,Thu Nov 30 18:25:26 +0000 2017,"@139783 Hi there, we're looping in an expert who can help you out here. They will reply as soon as they're available. ^AJ",,107111
+107134,AdobeCare,False,Thu Nov 30 19:07:33 +0000 2017,"@139786 Hi Wang,
+Sorry to hear that you are facing issues with InDesign CC 2018. Is it crashing? Would you mind to DM more details like the exact error, OS running in your machine, any specific workflow causing the issue? ^OM https://t.co/iuwZCjz4Or",,107133
+107140,AdobeCare,False,Thu Nov 30 18:21:51 +0000 2017,"@139788 Hi Kyle, would you mind DM'ing us your Adobe ID (email) so we can see what went wrong? Thanks! ^AJ https://t.co/iuwZCjz4Or",,107141
+107141,139788,True,Thu Nov 30 18:11:42 +0000 2017,"@AdobeCare You still double-charged me for the new subscription. I’ll never recommend Creative Cloud to anyone, ever, when there are less expensive tools that are just as good.",107140,107142
+107142,AdobeCare,False,Wed Nov 29 23:06:04 +0000 2017,"@139788 Hi Kyle, after the first promotional year has ended, the system automatically sends a renewal notice via email. Let us know if you'd like us to check the email delivery settings in your account. ^Britt https://t.co/iuwZCjz4Or",107141,107143
+107143,139788,True,Wed Nov 29 00:16:41 +0000 2017,Leave it to @115777 to double my Creative Cloud subscription cost without any notification that my subscription was about to renew.,107142,
+107128,139789,True,Thu Nov 30 18:25:01 +0000 2017,@139785 @AdobeCare Best detail I've ever seen. Cant get any better than that.  Unless your app provides a logfile.,,107127
+107144,CoxHelp,False,Thu Nov 23 18:45:25 +0000 2017,@139790 I'd hate to see you go and can review the account to see what options are available to get you the service you want at a price in your budget.  -StephanieA,107145,107146
+107145,139790,True,Thu Nov 23 18:47:19 +0000 2017,@CoxHelp yeah i have the same channels and more on sling then i do on contour for 50 bucks a month and that includes DVR!,,107144
+107146,139790,True,Thu Nov 23 18:42:18 +0000 2017,today will be our last day with @116021 #contour tv. too expensive and the channels we want are a part of another tier. we’ll keep internet for now and telephone. but we’re going to @115946 !,107144,
+107049,AdobeCare,False,Thu Nov 30 18:17:06 +0000 2017,"@139766 Hi there, we're looping in one of our experts who should know if there's something similar. They will reply as soon as they're available. Thanks ^Madison",,107048
+102624,AdobeCare,False,Thu Nov 30 18:13:57 +0000 2017,"@138543 Hi David, is it only from the jpeg files from Facebook or any jpeg file that you try to open in Photoshop? Also, I would suggest to install Photoshop CC 2018 on your computer and then open the jpeg files to see if you still get the same error or not.   ^Tanuj",,102623
+107147,AskPapaJohns,False,Thu Nov 30 18:54:00 +0000 2017,"@139791 Hi, Robert! Could you please DM us the issue that you are encountering? https://t.co/0zQg3b790c",107148,107149
+107148,139791,True,Thu Nov 30 21:15:55 +0000 2017,@AskPapaJohns DMing them does no good. Its still all my fault. Who would have guessed. ????    Never again.,,107147
+107149,139791,True,Thu Nov 30 18:41:35 +0000 2017,@116076 It would be nice if you honored half off papa johns rewards promotion.  But you don’t. So don’t tell me to order something use my rewards. I’m done with you. Going to @117144,107147,107150
+107150,116076,True,Thu Nov 30 18:38:03 +0000 2017,"Close all your online shopping tabs, this is the only deal that matters. Get pizza and sides for half off Papa Rewards points this week. https://t.co/nRa2ZP6O9M",107149,
+107151,VirginAtlantic,False,Thu Nov 30 18:19:49 +0000 2017,"@139792 Sorry to hear this Maisie, if you're not happy with the outcome please feel free to respond to our latest email. ^R","107152,107153",107154
+107152,139792,True,Fri Dec 01 06:38:52 +0000 2017,@VirginAtlantic I have responded and the last email has been ignored. Now I’m out of pocket just before Christmas and the customer Service team can’t help me!!!,107155,107151
+107155,VirginAtlantic,False,Fri Dec 01 08:08:06 +0000 2017,@139792 When was your last email sent? ^H,107156,107152
+107156,139792,True,Fri Dec 01 08:27:21 +0000 2017,@VirginAtlantic 4 days ago,107157,107155
+107157,VirginAtlantic,False,Fri Dec 01 09:22:40 +0000 2017,@139792 The turnaround can take a bit of time if things need investigating. We appreciate your patience. ^H,,107156
+107153,139793,True,Thu Nov 30 18:59:31 +0000 2017,"@VirginAtlantic @139792 Welcome to the club of totally mistreated customers by Virgin, how do they get away with this",,107151
+107154,139792,True,Thu Nov 30 18:14:22 +0000 2017,"@VirginAtlantic flight recently cancelled, sorted it out then my baggage was completely open at Heathrow, broken GHD’s but Virgin refuse to pay..great customer service 😡",107151,
+107158,VirginAtlantic,False,Thu Nov 30 17:49:16 +0000 2017,@139793 I can then see why this happened ^R,107159,107160
+107159,139793,True,Thu Nov 30 17:51:41 +0000 2017,@VirginAtlantic We have no interest in why it’s an absolute disgrace that you have done this there are absolutely no reasons or excuses it’s disgusting behaviour @139794 @139795 @139796 @139797 @139798 @139799 @139800 @139801,,107158
+107160,139793,True,Thu Nov 30 17:47:27 +0000 2017,@VirginAtlantic And what will that achieve all we ever wanted was our original booking to be respected and honoured nothing will be done will it? @6206 @139795 @139796,107158,107161
+107161,VirginAtlantic,False,Thu Nov 30 17:45:39 +0000 2017,@139793 If you have the booking details I can look into this for you ^R,107160,107162
+107162,139793,True,Thu Nov 30 17:44:12 +0000 2017,@VirginAtlantic @139796 @139794 @128305 @VirginAtlantic worse still we book on 4/2/17 in Premium Economy we checked out booking with Virgin have downgraded without telling us they have even changed the flight time and not told us REALLY IS THIS OK,107161,107163
+107163,VirginAtlantic,False,Thu Nov 30 17:36:28 +0000 2017,@139793 We wouldn't downgrade anyone for that reason John. We would only downgrade if we downsize the cabin/aircraft operating the route or seats are inop. What flight are you on? ^R,"107162,107164",107165
+107165,139793,True,Thu Nov 30 17:33:34 +0000 2017,@VirginAtlantic We know why it happened you recently sold our seats for a much higher price and bumped us and we are disgusted by this exploitation and cannot take any more nonsense from your “customer relations team”,107163,107166
+107166,VirginAtlantic,False,Thu Nov 30 17:31:46 +0000 2017,@139793 Feel free to DM your booking reference and I can look into why this happened. ^,107165,107167
+107167,139793,True,Thu Nov 30 17:30:49 +0000 2017,"@VirginAtlantic We have telephoned you several times, no replies, when you do reply you cut us off, this is a deliberate act as we secured our PE seats for a lower price by booking early",107166,107168
+107168,VirginAtlantic,False,Thu Nov 30 17:27:58 +0000 2017,"@139793 Hi John, what flight are you please? ^R",107167,107169
+107169,139793,True,Thu Nov 30 17:25:06 +0000 2017,"@6206 6 months after booking Premium Economy with @VirginAtlantic they have downgraded our seats and are going to sit my young family scattered on their own all over economy, and Virgin have told us hard luck @139796 @127472",107168,
+107164,139793,True,Thu Nov 30 17:40:52 +0000 2017,"@VirginAtlantic I’m not stupid it’s obvious this is for money only, we are a family of 4 booked 4/2/17 including seats we were probably the first to book the flight as well absolutely disgusting behaviour never will touch a Virgin product again @127472 EVER!!",,107163
+107170,AirbnbHelp,False,Thu Nov 30 18:45:09 +0000 2017,"@139802 Hi Callum, we're sorry for the confusion this has caused. Rest assured, we're here to help. Please DM us your email address and reservation code so we can look into this. We're standing by. https://t.co/WCQEFGIlXC",,107171
+107171,139802,True,Thu Nov 30 18:35:55 +0000 2017,@115783 @AirbnbHelp I've just received an email saying I've been refunded for my booking- no other information provided. Presuming host has cancelled- is this your version of customer service? #Airbnb,107170,
+107172,AirbnbHelp,False,Thu Nov 30 18:44:41 +0000 2017,"@139803 Hi Adison, we're sorry to hear that. We encourage you to clear your browser's cache and cookies before re-attempting to add your payment method. If that doesn't help, please send us a DM with your email address and we'll get a member of our team to investigate the issue further.",,107173
+107173,139803,True,Thu Nov 30 18:20:07 +0000 2017,"@115783 Two friends and I are unable to add a new payment method to our respective accounts. Tried in Chrome and Internet Explorer but when you click ""Add Payment Method"" this window pops up and just sits there trying to load - any suggestions? https://t.co/frgMEc8zYu",107172,
+107174,AirbnbHelp,False,Thu Nov 30 18:35:54 +0000 2017,"@139804 Hi there, we saw your tweet and can help you right here! Don't hesitate to DM us so our team can follow up. Thanks. https://t.co/WCQEFGIlXC",,107175
+107175,139804,True,Thu Nov 30 02:27:47 +0000 2017,oiii quem já usou airbnb e pode me dar uma help,107174,
+107176,AirbnbHelp,False,Thu Nov 30 18:34:20 +0000 2017,"@139805 Hi Leo, we're sorry to hear your reservation is not going as planned. Please DM us your email address and reservation code so we can investigate. We're standing by. https://t.co/WCQEFGIlXC",,107177
+107177,139805,True,Thu Nov 30 18:21:31 +0000 2017,@115783 currently stuck with a place booked through you in Edinburgh with no heating or hot water! Holiday is ruined,107176,
+107178,AirbnbHelp,False,Thu Nov 30 18:14:20 +0000 2017,"@139806 Hi Brad, we are very sorry to hear about your experience with your reservation. Can you please send us a DM with your email and reservation code so we can take a closer look? We are standing by.",,107179
+107179,139806,True,Thu Nov 30 17:54:27 +0000 2017,@115783 No thanks your not guaranteed a bed when you rent from Airbnb. Don't do it peeps they will scam you as they did to me.,107178,107180
+107180,115783,True,Thu Nov 30 17:51:49 +0000 2017,"Steamed custard bun or roast pigeon? Get your hands on #airbnbmag to find the Shanghai native who can teach you how to make your favorite Chinese pastry.
+
+https://t.co/43M20KJ6pk https://t.co/ZrPt5S7aVO",107179,
+107181,AirbnbHelp,False,Thu Nov 30 18:11:37 +0000 2017,"@139807 Please try clearing your cache and cookies and restart using Google Chrome. If you are using the app, please uninstall, and reinstall to clear any errors in the system. If this troubleshooting doesn't fix the error, let us know so that we can have a team take a look. Thank you!",107182,107183
+107182,139807,True,Thu Nov 30 21:47:53 +0000 2017,@AirbnbHelp Thanks for replying. Tried app and web. App doesn’t work. Web says photo isn’t me. What can I do?,107184,107181
+107184,AirbnbHelp,False,Thu Nov 30 23:08:06 +0000 2017,"@139807 We're sorry to hear that, Jen. Can you please send us a DM with your email address so we can have a member of our team look into this further? We're standing by to assist.",107185,107182
+107185,139807,True,Thu Nov 30 23:08:43 +0000 2017,@AirbnbHelp Ok thank you,107186,107184
+107186,AirbnbHelp,False,Thu Nov 30 23:29:54 +0000 2017,"@139807 We have replied to your DM. Please, check it when you get a moment.",107187,107185
+107187,139807,True,Thu Nov 30 23:30:28 +0000 2017,@AirbnbHelp Thank you.,107188,107186
+107188,AirbnbHelp,False,Thu Nov 30 23:42:05 +0000 2017,"@139807 You are very welcome, Jen. We are here 24/7 if you need further assistance.",,107187
+107183,139807,True,Thu Nov 30 17:52:35 +0000 2017,Hi @AirbnbHelp I can’t get my passport to scan! Been trying to book somewhere for hours-the system won’t let me. Pls could you help? Thanks!,107181,
+107189,AirbnbHelp,False,Thu Nov 30 18:10:47 +0000 2017,@139808 Presents for everyone!,,107190
+107190,139808,True,Thu Nov 30 17:15:22 +0000 2017,Checked into the most stunning @115783 with the best views over the #Strasbourg #ChristmasMarkets! Cannot wait to explore... https://t.co/HapLd5Gggp,107189,
+107191,NikeSupport,False,Thu Nov 30 18:09:56 +0000 2017,@139809 We're here to help. Let's have you log out of the app&gt; restart your device&gt; log in. Better?,107192,107193
+107192,139809,True,Thu Nov 30 18:12:48 +0000 2017,@NikeSupport The same results,,107191
+107193,139809,True,Thu Nov 30 17:23:47 +0000 2017,@NikeSupport I’m trying to cop the Air Jordan IV https://t.co/OGkSM4zjRi,107191,107194
+107194,NikeSupport,False,Wed Nov 15 17:47:03 +0000 2017,@139809 Could you pass us a DM with your NikePlus email? Follow the link below to make it easy. https://t.co/dsJjx1OYXB,107193,107195
+107195,139809,True,Wed Nov 15 17:34:59 +0000 2017,"@NikeSupport iPhone X, ios 11.1, and version 1.9.0",107194,107196
+107196,NikeSupport,False,Wed Nov 15 17:31:02 +0000 2017,"@139809 What device, OS, and version of the Nike app are you using?",107195,107197
+107197,139809,True,Wed Nov 15 17:07:38 +0000 2017,@NikeSupport I️ see the advertisement again 😔,107196,107198
+107198,NikeSupport,False,Wed Nov 15 17:01:01 +0000 2017,@139809 Thanks for the video. Let's have you force close all of your apps&gt; open the Nike app&gt; select the message in your inbox again. Better? Let us know if you see that advertisement again.,107197,107199
+107199,139809,True,Wed Nov 15 16:43:27 +0000 2017,@NikeSupport  https://t.co/qrQqr3ImMH,107198,107200
+107200,NikeSupport,False,Wed Nov 15 16:42:25 +0000 2017,"@139809 Just to clarify, what app does it take you to?","107201,107199",107202
+107202,139809,True,Wed Nov 15 16:23:29 +0000 2017,@NikeSupport When I️ try to look at the items on the nike unlock plus it keep going to another app,107200,107203
+107203,NikeSupport,False,Wed Nov 15 16:17:00 +0000 2017,@139809 Mind if we step in? Can you walk us through in what you're experiencing?,107202,107204
+107204,139809,True,Wed Nov 15 16:15:39 +0000 2017,@134236 my Nike plus app messing up,107203,
+107205,NikeSupport,False,Thu Nov 30 16:33:00 +0000 2017,@139810 Thanks for the screenshot. For privacy reasons we recommend deleting your previous tweet and sending your email to us via DM. Follow the link below. https://t.co/dsJjx1OYXB,,107206
+107206,139810,True,Thu Nov 30 15:06:27 +0000 2017,@NikeSupport My nike account __email__ https://t.co/GTKIbuNk1z,107205,107207
+107207,NikeSupport,False,Wed Nov 29 16:40:31 +0000 2017,@139810 You've come to the right place. Can you send us a screen shot of what you're seeing?,107206,107208
+107208,139810,True,Wed Nov 29 14:27:14 +0000 2017,@NikeSupport I was not able to connect nike run with my Garmin account every time I connect it will appear the cross sign in between nike and Garmin logo,107207,
+107209,AzureSupport,False,Thu Nov 23 18:43:48 +0000 2017,"@139811 Hey, how was your experience with us? Let us know here: https://t.co/4BbVhmUgT9
+ ^RS",,107210
+107210,139811,True,Mon Nov 20 21:21:59 +0000 2017,"@AzureSupport I created a new VM and tried to move it to my Azure Subscription and I get this error: 
+{""code"":""ResourceMoveProviderValidationFailed"",""message"":""Resource  move validation failed. tracking id  '0b3dd62d-236a-444a-830d-069742b35964'",107209,107211
+107211,AzureSupport,False,Sun Nov 19 21:09:21 +0000 2017,"@139811 Could you please DM us with your SubID and region? ^PB
+ https://t.co/EYpi1mphGM",107210,107212
+107212,139811,True,Sun Nov 19 21:08:20 +0000 2017,"@AzureSupport It’s been 9 days and I can’t create new SSD VM’s, SSD disks or move VM to my Microsoft Azure Subscription. I’ve been talking to tech support with no results so far.",107211,107213
+107213,AzureSupport,False,Sun Nov 19 20:59:51 +0000 2017,@139811 What can we help you with? ^PB,107212,107214
+107214,139811,True,Sun Nov 19 20:59:10 +0000 2017,@118056 @AzureSupport,107213,107215
+107215,139811,True,Sat Nov 18 23:46:37 +0000 2017,Can any Microsoft MVP create a new VM with your @118056 Microsoft Azure Sponsorship? I keep getting error that I don't have MSDN Subscription tied to it. #frustrated #MVPBuzz,107214,
+107216,hulu_support,False,Thu Nov 30 18:56:27 +0000 2017,"@139812 Apologies, Jeremy! Our team has already reached out for further insight—and we're hopeful that the latest eps will be up soon. For now, make sure the series are added to your Watchlist/My Stuff so that you don't miss out when they're posted!",,107217
+107217,139812,True,Thu Nov 30 15:18:32 +0000 2017,@115940 uhhh where some new episodes of empire and star????🤔🤔🤔,107216,
+107218,hulu_support,False,Thu Nov 30 18:52:11 +0000 2017,"@139813 Thanks for sharing your interest, Arnold! While we can't make any promises, we'll be sure your request gets to the right hands. In the meantime, make sure the show is secured to your Watchlist/My Stuff and: https://t.co/r9MCqHxrfq is bookmarked for updates! 💚",,107219
+107219,139813,True,Thu Nov 30 15:17:12 +0000 2017,@hulu_support any chance you can add more seasons of #MisterEd &amp; #TheBobNewhartShow?,107218,
+107220,hulu_support,False,Thu Nov 30 18:34:44 +0000 2017,"@139814 We're so sorry for the continued delay and frustration! We assure you, our team is aware and we're looking into this. We'll share your feedback! Our apologies again for any inconvenience this has caused.",107221,107222
+107221,139814,True,Thu Nov 30 18:40:26 +0000 2017,@hulu_support Yah. Thanks for the auto reply but I don’t believe it. FREE SHARKTANK.,,107220
+107222,139814,True,Thu Nov 30 13:08:35 +0000 2017,"@hulu_support Still no Sharktank. The date listed on the episode is December 4. Seems obvious this is a choice to delay viewing, not a glitch. I would like a real answer. Is Hulu now delaying replay of Sharktank?",107220,107223
+107223,hulu_support,False,Wed Nov 29 00:18:29 +0000 2017,"@139814 Rest assured, our team is on it! Include the series in your Watchlist/My Stuff so we can keep you in the loop. 💚",107222,107224
+107224,139814,True,Tue Nov 28 23:53:54 +0000 2017,@hulu_support It’s been two days .... but who’s counting...😁,107223,107225
+107225,hulu_support,False,Tue Nov 28 23:22:44 +0000 2017,"@139814 Hey Brian! We work to make eps available ASAP, but sometimes there can be a hiccup. We appreciate your patience when this occurs!",107224,107226
+107226,139814,True,Tue Nov 28 22:52:17 +0000 2017,@115940 I tweeted last night about the delay in showing Sharktank this week. You were nice enough to reply but no real movement. What’s the issue? Are we going to start to see delays in airing certain programs? This would be a departure from what Hulu has always done.,107225,
+107227,AmazonHelp,False,Thu Nov 30 18:59:10 +0000 2017,"@127769 I'm sorry to hear about your missing order! We can't view your account details on Twitter, but would still like to investigate this for you. When you have a moment, please reach us via phone or chat here: https://t.co/EKXRLsnxJu ^JS",107228,107229
+107228,127769,True,Thu Nov 30 23:29:23 +0000 2017,@AmazonHelp I should be getting a refund and credit for this. Instead I now how to completely reorder my item (which I’ve already waited a week for off of Amazon Prime Shipping) wait for money to be put back in my account and then wait even longer for my stuff to come just to pay again.,,107227
+107229,127769,True,Thu Nov 30 18:56:55 +0000 2017,Hey @115821 can you guys find what I ordered please? Thank you. This was supposed to be here Monday and now it’s lost. Super cool. https://t.co/JswnKcbzrd,107227,
+107230,AmazonHelp,False,Thu Nov 30 18:59:00 +0000 2017,"@139815 Did we give any reason as to why the deliveries were failed or missing, James? We'd like to help, but need more information. ^MT",,107231
+107231,139815,True,Thu Nov 30 18:49:15 +0000 2017,@AmazonHelp Nothing was next day even though I had prime. Deliveries went missing and failed. And today two items delivered and one wasnt for no reason. Two days in a row,107230,107232
+107232,AmazonHelp,False,Thu Nov 30 18:46:33 +0000 2017,"@139815 I'm sorry to hear about the experience you've had with us! Please give us another chance to help you. Without providing your account details, can you give us more information on the issue you're having? ^JS",107231,107233
+107233,139815,True,Thu Nov 30 18:43:21 +0000 2017,@AmazonHelp so much for service? screw all your deliveries. Then proceed to be the rudest customer service explaining sometimes the drivers decide to not deliver. sarcastically end the conversation and delete the chat. Beyond annoyed. Prime is so great now,107232,
+107234,AmazonHelp,False,Thu Nov 30 18:58:55 +0000 2017,@139816 This isn't the experience we want for our cusotmers. Who was the carrier listed for the order as shown on this page: https://t.co/aaDyEz1VgE ^DO,107235,107236
+107235,139816,True,Thu Nov 30 19:05:22 +0000 2017,@AmazonHelp It was delivered by Amazon Shipping. https://t.co/6GETfhMRHu,107237,107234
+107237,AmazonHelp,False,Thu Nov 30 19:21:26 +0000 2017,@139816 I'm very sorry to hear this! This is not what we expect from our drivers. I would like a Social Media specialist to look into this further. Please provide the information that is requested here: https://t.co/CkOgDX2yRs so we can get this escalated. ^ZW,,107235
+107236,139816,True,Thu Nov 30 18:54:04 +0000 2017,"Today I had an @115830  delivery driver break into my locked garage to deliver my parcel... Points for determination, but negative points for breaking and entering.
+#whatweretheythinking",107234,
+107238,AmazonHelp,False,Thu Nov 30 18:58:55 +0000 2017,"@139817 It's not uncommon for items to ship the same day they're delivered. However, if you haven't received your items by 8:00PM tonight, please contact us by phone or chat here: https://t.co/EKXRLsnxJu ^AC",107239,107240
+107239,139817,True,Thu Nov 30 19:00:29 +0000 2017,@AmazonHelp Always helpful! This is why I continue to shop with you guys.,107241,107238
+107241,139818,True,Thu Nov 30 20:36:43 +0000 2017,@139817 @AmazonHelp I had my stream deck saying delivery by 8pm. And then I had to wait on the phone forever but they ended up sending it over via Amazon now. And I got it around 10 pm but they did their best 👏,107242,107239
+107242,139817,True,Thu Nov 30 20:38:12 +0000 2017,"@139818 @AmazonHelp Oh they dropped the ball hard on my streamdeck. It was shipped, then it wasn’t, then it shipped and got pushed back a day, then I got a call that my delivery was early and I needed to be there since they can’t leave it in my gated entry way lol","107243,107244",107241
+107243,AmazonHelp,False,Thu Nov 30 20:45:33 +0000 2017,@139817 I'm sorry for the trouble with your order! Please reach out to us through the link ^AC provided so we can see look into this with you. ^MB,,107242
+107244,139818,True,Thu Nov 30 20:45:51 +0000 2017,"@139817 @AmazonHelp Yeah I had to cancel, order, and then cancel again the lady was as helpful as she could be but would have all been avoided if it was delivered the normal day and time they promised.",,107242
+107240,139817,True,Thu Nov 30 18:54:24 +0000 2017,Me when @115821 says my delivery will be here by 8 PM tonight and one item has delivered while the other two haven't even shipped yet. https://t.co/KMZf7tUAlu,107238,
+107245,AmazonHelp,False,Thu Nov 30 18:58:28 +0000 2017,"@139819 I can't promise it will help with your class, but there is a statistics skill you can add! 📈 We have a variety of skills to expand the things Alexa can help with. Additional details can be found here: https://t.co/8kx4Fcgl2G ^MB",,107246
+107246,139819,True,Thu Nov 30 18:41:29 +0000 2017,Can @115833 help me with my statistics class? #MBA2018,107245,
+107247,AmazonHelp,False,Thu Nov 30 18:57:00 +0000 2017,"@122926 I'm sorry to hear about this! We are unable to view orders via Twitter, but we'd like to help! When you get a moment, please contact us via phone or chat: https://t.co/JzP7hlA23B ^SW",,107248
+107248,122926,True,Thu Nov 30 18:45:57 +0000 2017,Soooo angry! Ordered something for my trip and @117795 failed to deliver because I wasn’t in despite putting several parcels through my letterbox before,107247,
+107249,AmazonHelp,False,Thu Nov 30 18:57:00 +0000 2017,"@139820 Just to confirm, which carrier is listed as delivering your order here: https://t.co/aaDyEz1VgE? Have you had a chance to contact back by phone for an update? If so, what insight was given? ^LI",107250,107251
+107250,139820,True,Thu Nov 30 19:04:11 +0000 2017,"@AmazonHelp It was a Prime delivery, I called again only to find the last person never bothered logging the complaint. At this point I’m one letter box down and on the bad side of my landlord with no clear outcome as to what will happen!",107252,107249
+107252,AmazonHelp,False,Thu Nov 30 19:12:00 +0000 2017,"@139820 When you called in again, what did the agent you spoke with advise?",107253,107250
+107253,139820,True,Thu Nov 30 19:14:03 +0000 2017,@AmazonHelp The agent put in a complaint to Logistics (which they said they did on Monday) but couldn’t tell me any outcome or what to expect.,107254,107252
+107254,AmazonHelp,False,Thu Nov 30 19:23:01 +0000 2017,"@139820 Thanks for letting us know! If you need us in the future, we're always here! ^MT",,107253
+107251,139820,True,Thu Nov 30 17:33:16 +0000 2017,"@AmazonHelp I called the number you gave me Monday, they put my claim through and said I would have an email in 24 hours, it is now well past that and I’ve had no contact since. To clarify, my house is still damaged, I still have half a letter box and amazon haven’t done anything https://t.co/aT2byOV1gY",107249,
+107255,AmazonHelp,False,Thu Nov 30 18:56:31 +0000 2017,@139821 All the winners are published on our website and are contacted by our specialist team via email. Please stay tuned. ^MK,107256,107257
+107256,137122,True,Thu Nov 30 19:07:59 +0000 2017,@AmazonHelp @139821 Are results out for #LgQ6AppQuiz @AmazonHelp,107258,107255
+107258,AmazonHelp,False,Thu Nov 30 19:23:02 +0000 2017,@137122 We haven't made any announcement on it yet. Please stay tuned. ^SD,,107256
+107257,139821,True,Thu Nov 30 18:26:10 +0000 2017,@AmazonHelp Still nothing posted. What are the odds anyway?,"107255,107259",107260
+107260,AmazonHelp,False,Thu Nov 30 07:58:00 +0000 2017,"@139821 The option to notify about the Quiz contests is not available at the moment. However, this shall be shared as feedback internally. I would request you to keep a check on the application or website for all the latest updates. ^KK",107257,107261
+107261,139821,True,Thu Nov 30 07:42:22 +0000 2017,"@115850 
+How do we get notified regarding the quiz?",107260,
+107262,AmazonHelp,False,Thu Nov 30 18:56:00 +0000 2017,@139822 All contest winners are listed here: https://t.co/BNx6VKtg6D. Kindly stay tuned while we announce the winners of LGQ6 quiz. ^NR,,107263
+107263,139822,True,Thu Nov 30 18:24:34 +0000 2017,"@115850 why you are playing fake quiz with fake prizes,worst amazon.
+30th november
+Aveeno baby quiz
+Oneplus5T quiz
+LGQ6 app quiz
+Fake quiz",107262,
+107264,AmazonHelp,False,Thu Nov 30 18:55:00 +0000 2017,"@139823 At your convenience, please reach us directly via the following link. It will enable you to skip sign in so you can report this issue to us: https://t.co/8dJzrYeoGo ^BV","107265,107266",107267
+107265,139823,True,Thu Nov 30 19:04:25 +0000 2017,@AmazonHelp I have emailed you now so will wait for your reply hopefully this can be resolved soon,,107264
+107266,139823,True,Thu Nov 30 21:11:39 +0000 2017,@AmazonHelp just received an email staying I have to send in Information of my address an so on  can you explain why this is? I've purchased from you  before with no hassle and now this?,107268,107264
+107268,AmazonHelp,False,Thu Nov 30 21:18:00 +0000 2017,"@139823 We don't have access to accounts over Twitter. However, you can reply to the e-mail you received with any questions. ^AJ",,107266
+107267,139823,True,Thu Nov 30 18:48:30 +0000 2017,@AmazonHelp I've had no emails only the confirmation  emails that password has been reset and still doesn't let me log in just says incorrect password,107264,107269
+107269,AmazonHelp,False,Thu Nov 30 18:46:33 +0000 2017,"@139823 I'm sorry to hear about the trouble, Tom! Just to confirm, have you received any e-mails regarding the status of your account? Please be sure to check spam/junk folders. Keep us posted! We want to help! ^SD",107267,107270
+107270,139823,True,Thu Nov 30 18:39:10 +0000 2017,anyone having trouble with #Amazon  transactions not going through and not accepting password even if you done a reset @115830,107269,
+107271,AmazonHelp,False,Thu Nov 30 18:54:34 +0000 2017,"@139824 As informed, request you to self ship the order and the refund will be processed once we receive the product.  (2/2) ^GD",,107272
+107272,139824,True,Thu Nov 30 18:37:29 +0000 2017,"@115850 
+Pathetic services from u guys.i have requested a refund for my order on 1st nov u stupids hv not picked it up and now asking me to courier the product back to seller fucking worst service ever seen in my life.i vow to not use your fucking app again","107271,107273",
+107273,AmazonHelp,False,Thu Nov 30 18:54:34 +0000 2017,@139824 Due to courier constraints we're unable to extend our return pick up services for certain orders and certain pin codes. In these cases we request the customers to self return the items using any track-able courier of their choice. (1/2) ^GD,,107272
+107274,AmazonHelp,False,Thu Nov 30 18:54:00 +0000 2017,"@139825 I'm very sorry for any inconveniences. Whenever you have a chance, reach out to us here: https://t.co/hApLpMlfHN We'd be happy to look into this with you in real-time. ^SK",,107275
+107275,139825,True,Thu Nov 30 18:46:29 +0000 2017,".@115821 keeps sending me stuff I didn't order and now I really, genuinely want to meet the person who put two brown fedoras and some Ben Wa balls in his cart and clicked ""buy that shit!"" https://t.co/G0gSZzXmYs",107274,
+107276,AmazonHelp,False,Thu Nov 30 18:54:00 +0000 2017,"@139826 Hi, melde dich gerne mal bei uns im Service - die Kollegen haben Einblick in dein Konto und sehen sich das gerne an: https://t.co/5RHhEVutwe Über den Reiter ""digitale Dienste"" erreichst du die richtigen Ansprechpartner. Gruß ^MI",,107277
+107277,139826,True,Thu Nov 30 18:50:35 +0000 2017,"@115825 habt ihr evtl. Probleme mit dem Download? Immer Fehlermeldung, Limit sei erreicht, habe  aber nur 4 Folgen runtergeladen. Nur bei diesem Gerät verwendet...",107276,
+107278,AmazonHelp,False,Thu Nov 30 18:54:00 +0000 2017,"@139827 We don't intend to keep you waiting. However, the winners of the contest will be announced soon on our website. Stay tuned. ^SD",,107279
+107279,139827,True,Thu Nov 30 18:28:02 +0000 2017,"@115850 
+#LGQ6AppQuiz 
+Where is result?? Winners result???",107278,
+107280,AmazonHelp,False,Thu Nov 30 18:53:33 +0000 2017,@139828 I'm sorry to hear that! Could you tell us more about what you're needing help with? We'd like to try to assist you here. ^MT,,107281
+107281,139828,True,Thu Nov 30 18:49:00 +0000 2017,@115830 Your customer service is an absolute joke. 2 live chats &amp; on hold over 3 times on phone call. 0 resolution and no help. Lost 2 hours of my life. Been passed off to some specialist team now with no email confirmation. So looks like I'm being contacted in 24 hours .. NOT!,107280,
+107282,AmazonHelp,False,Thu Nov 30 18:52:28 +0000 2017,"@139829 I'm so terribly sorry! We'd like to be sure we get this reported directly to the courier management, please contact us directly here: https://t.co/JzP7hlA23B ^NC",107283,107284
+107283,139829,True,Thu Nov 30 18:55:52 +0000 2017,"@AmazonHelp Thank you, have done",,107282
+107284,139829,True,Thu Nov 30 18:49:31 +0000 2017,#Amazon @AmazonHelp https://t.co/6VFfD9pliR,107282,
+107285,AmazonHelp,False,Thu Nov 30 18:51:37 +0000 2017,@139830 Sehr schön! :),,107286
+107286,139830,True,Thu Nov 30 18:50:23 +0000 2017,"@AmazonHelp Wäre super, einen FireTV Stick fand er auch sinnlos und jetzt nutzt er ihn laufend :)",107285,107287
+107287,AmazonHelp,False,Thu Nov 30 18:48:31 +0000 2017,"@139830 Hi, deinen Wunsch nach dieser Option leite ich gerne weiter. :) Leider kann ich nicht versprechen, ob wir das umsetzen können. Liebe Grüße ^SI",107286,107288
+107288,139830,True,Thu Nov 30 18:41:47 +0000 2017,"@116316 Ist für die Zukunft geplant, dass man Amazon Prime verschenken kann? Wäre das perfekte Weihnachtsgeschenk für meinen Vater.",107287,
+107289,AmazonHelp,False,Thu Nov 30 18:51:37 +0000 2017,"@138642 I get your concern regarding the return of mobile. However, unless the phone was delivered to you in a damaged/defective condition, we'll not be unable to authorize a return for the order. For more details please visit the following link: https://t.co/zs6MJyuR90.^SM",,107290
+107290,138642,True,Thu Nov 30 18:32:41 +0000 2017,"Hi Jeff,
+I have purchased the wrong mobile set from amazon. Now, i want to return my mobile (order no 404-9391432-5602714). But amazon support team is saying that, they can't return. This mobile set is not useful for me. Please help me @115851 @115821 @AmazonHelp","107289,107291",
+107292,AmazonHelp,False,Thu Nov 30 18:51:00 +0000 2017,"@139831 Hi Harry, thanks for reaching out to us today! Since we don't have account access via Twitter could you reach out to us  by phone here:  https://t.co/JzP7hlA23B? We'd be happy to look into this for you!  ^AZ",107293,107294
+107293,139831,True,Thu Nov 30 18:51:59 +0000 2017,"@AmazonHelp If I don't get a delivery on the first for my order that I didn't even order, I'm gonna be upset again ☹️",,107292
+107294,139831,True,Thu Nov 30 18:46:58 +0000 2017,"Every now and then I get texts from Amazon saying ""your order will be delivered by DPD on ..."" I didn't order anything, yet on that day I'm wondering where the fuck is my delivery and nothing turns up 😠
+
+@115830",107292,
+107295,AmazonHelp,False,Thu Nov 30 18:50:45 +0000 2017,"@139832 Bonsoir, avez-vous besoin d'assistance ? ^KD",107296,107297
+107296,139832,True,Thu Nov 30 18:51:50 +0000 2017,@AmazonHelp Bonsoir j'aimerais juste que mon colis soit envoyé à la date indiqué,107298,107295
+107298,AmazonHelp,False,Thu Nov 30 19:07:00 +0000 2017,@139832 Que dit le suivi de votre colis s'il vous plaît ? ^SB,107299,107296
+107299,139832,True,Thu Nov 30 19:10:50 +0000 2017,@AmazonHelp Date de livraison prévue aujourd'hui avant 20h,107300,107298
+107300,AmazonHelp,False,Thu Nov 30 19:23:01 +0000 2017,@139832 Je suis sincèrement désolée pour le désagrément causé par cela. Avez-vous signalé cet incident à notre service client s'il vous plait ? ^SB,107301,107299
+107301,139832,True,Thu Nov 30 19:24:31 +0000 2017,@AmazonHelp Non et je n'ai pas à le faire logiquement c'est a Amazon a honorer ses engagements,107302,107300
+107302,AmazonHelp,False,Thu Nov 30 19:39:00 +0000 2017,@139832 Notre service client est en mesure de vérifier l'état de cette livraison et prendre les mesures nécessaires si applicable. ^KD,,107301
+107297,139832,True,Thu Nov 30 18:38:36 +0000 2017,Oulala plus que 23 minute :/ vite @115821,107295,
+107291,AmazonHelp,False,Thu Nov 30 18:50:45 +0000 2017,"@138642 Please don't provide your details, we consider it personal information. Our Twitter page is visible to public. ^MK",,107290
+107303,AmazonHelp,False,Thu Nov 30 18:50:00 +0000 2017,"@128304 I'm sorry to hear about the recent delivery issues! Couriers are out making deliveries until 21:00, if not received by then, please reach us directly via phone or chat so we can look into available options for you: https://t.co/qy3J24VGxb ^BV",,107304
+107304,128304,True,Thu Nov 30 18:45:19 +0000 2017,"@115830 @AmazonHelp any idea all day been waiting, it dose not take all day to get from Enfield to Harlow now does it.....",107303,107305
+107305,128304,True,Thu Nov 30 18:43:19 +0000 2017,At Enfield out for delivery @115830 so is the parcel going to arrive today or another complete WAIST of time,107304,107306
+107306,128304,True,Thu Nov 30 18:15:45 +0000 2017,"Yet another day staying in for a delivery of parcels by the Amazon UK delivery network, last time they said it was delivered, this time, it's on the way today, still hoping for a delivery, but will not be holding my breath! 
+
+Amazon",107305,
+107307,AmazonHelp,False,Thu Nov 30 18:50:00 +0000 2017,"@139833 Hi,he final date is calculated by confirming your delivery address in the order process. I will forward your feedback regarding the user experience! Regards ^MI",107308,107309
+107308,139833,True,Thu Nov 30 18:51:15 +0000 2017,"@AmazonHelp Thank you so much. I think once I'm logged in and you have all my infos already, is easier to show me a more accurate info (or, at least, show the range from 1 to 2 days) ;)",,107307
+107309,139833,True,Thu Nov 30 18:39:48 +0000 2017,"@116316, why you ALWAYS do this to me? I like you so much. don't bring me down :'( https://t.co/O2owF8c15O",107307,
+107310,AmazonHelp,False,Thu Nov 30 18:49:30 +0000 2017,"@139834 Sorry to know the order is undeliverable. Kindly fill in your details here: https://t.co/GIJyeYqKE0, and I'll look into it. ^NR",,107311
+107311,139834,True,Thu Nov 30 18:21:10 +0000 2017,@AmazonHelp this is what happens with your courier.extremely frustrating.im loosing faith on @115850 https://t.co/cd8IFKsSWQ,107310,
+107312,AmazonHelp,False,Thu Nov 30 18:49:30 +0000 2017,@139835 Mi spiace! Puoi dirci se si tratta di un ordine spedito da Amazon o da un venditore terzo? ^FS,107313,107314
+107313,139835,True,Thu Nov 30 23:07:49 +0000 2017,@AmazonHelp La spedizione è stata fatta da Amazon,107315,107312
+107315,AmazonHelp,False,Fri Dec 01 05:12:04 +0000 2017,@139835 Grazie per il riscontro. Contatta i colleghi del Servizio Clienti da qui: https://t.co/jrFo5bLIbk per ricevere assistenza. Restiamo a disposizione! ^PS,107316,107313
+107316,139835,True,Fri Dec 01 09:40:52 +0000 2017,@AmazonHelp Grazie a voi!,,107315
+107314,139835,True,Thu Nov 30 18:38:30 +0000 2017,"Quando ti arriva un pacchetto di #Amazon  a casa, ma non ci sei e il corriere lo lascia sopra la buca delle lettere ma quando torni a casa non c'è e nessuno sa niente... Che bello... #pacchispariti",107312,
+107317,AmazonHelp,False,Thu Nov 30 18:48:00 +0000 2017,"@139836 James, I'm so sorry, but we can't view orders or accounts from Twitter. Without giving any sensitive account information, would you mind telling us what's going on? ^VF","107318,107319,107320",107321
+107318,139836,True,Thu Nov 30 20:46:12 +0000 2017,@AmazonHelp It is truly unfortunate that you’re unable to view my communications within your company utilizing my email address,107322,107317
+107322,AmazonHelp,False,Thu Nov 30 20:52:33 +0000 2017,"@139836 Our account security policies prevent our team from accessing confidential customer information based off of posts on social media. Thank you for taking the time to let us know what happened, I'm glad to hear you've been in direct contact regarding this issue. ^JR",,107318
+107319,139836,True,Thu Nov 30 20:45:04 +0000 2017,"@AmazonHelp I could not possibly explain in the small space provided by twitter, but I fully intend on utilizing social networks to get my story out.",,107317
+107320,139836,True,Thu Nov 30 20:44:06 +0000 2017,@AmazonHelp I finally was able to get a number for a corporate employee In Washington state whom provided me a refund after days of empty promises and unfulfilled guarantees. I am still not happy with the several wasted days and plan to finish my holiday shopping with other vendors,,107317
+107321,139836,True,Thu Nov 30 18:32:07 +0000 2017,@115821 Absolutely a horrific experience with @115821 / still no call from the manager whom guaranteed a call back. Wondering why I do business with this company,107317,107323
+107323,139836,True,Thu Nov 30 18:30:10 +0000 2017,@115821 I encourage you to take a look at my account and my recent experience with your company and explain to me why I’ve yet to find any resolution - email is - __email__,107321,
+107324,AmazonHelp,False,Thu Nov 30 18:46:34 +0000 2017,"@138642 Sorry about this experience, Chandra. Please report this to our support team here: https://t.co/TdDksLo6Mf and we'll look into this. ^MK",,107325
+107325,138642,True,Thu Nov 30 18:22:19 +0000 2017,"I am getting following message
+First, visit this page from the mobile device that needs support. Then, follow the instructions to install the SmartChk app on that device.
+This app saves time by finding the right team to help you. Learn more @115821 @AmazonHelp @115830",107324,
+107326,AmazonHelp,False,Thu Nov 30 18:46:09 +0000 2017,@139837 So sorry to hear about the issue with your delivery! Have you already contacted us regarding the missing TV?  https://t.co/JzP7hlA23B ^GS,107327,107328
+107327,139837,True,Fri Dec 01 12:42:37 +0000 2017,@AmazonHelp Yes. All week. Utterly useless. Two now been stolen,107329,107326
+107329,AmazonHelp,False,Fri Dec 01 12:46:57 +0000 2017,@139837 Oh my! I'm sorry for the trouble! We'd like to help if we can. We don't have access to your account via Twitter. Please reach out to us here: https://t.co/JzP7hlA23B ^MO,107330,107327
+107330,139837,True,Sat Dec 02 20:00:14 +0000 2017,"@AmazonHelp Now a week late. Two missing TV’s, still no replacement and you have offered us a £5 voucher and month free #prime as #compensation utterly appalling #customerservice #shopping #disappointed",107331,107329
+107331,AmazonHelp,False,Sat Dec 02 20:10:00 +0000 2017,@139837 So sorry for the frustrations! We are here to help! I'd like a member of my team to look into this personally for you! Please provide us your information here: https://t.co/uZFh0ZZFfJ and someone will be in touch soon! ^AD,107332,107330
+107332,139837,True,Sat Dec 02 20:29:09 +0000 2017,@AmazonHelp I have spoken endlessly to your colleagues - what is the point? I just can’t believe how derisory your offer of compensation has been. #amazon #disappointed #shopping,107333,107331
+107333,AmazonHelp,False,Sat Dec 02 20:34:54 +0000 2017,@139837 The link ^AD provided will allow a specialist from our team to take another look into the missing parcels and review all available options. ^CS,,107332
+107328,139837,True,Thu Nov 30 18:41:38 +0000 2017,Second TV gone missing from @115830 this week @AmazonHelp awful service as an @117795 member https://t.co/1UgM2zRBci,107326,
+107334,AmazonHelp,False,Thu Nov 30 18:45:00 +0000 2017,"@139838 We understand your concern. We don't have access to your account via Twitter, but we'd like another chance to check into this for you. Please us the link provided by ^TK to contact us by phone or chat, so we can look at this in real time. ^AC",,107335
+107335,139838,True,Thu Nov 30 18:38:56 +0000 2017,"@AmazonHelp hello, she has done that, they have sorted the extra payments that went out but she still hasnt recieved her parcels, and they havent told her where they are, just says they were delivered last friday...Amazon is abit of a joke if im honest!",107334,107336
+107336,AmazonHelp,False,Mon Nov 27 13:41:00 +0000 2017,"@139838 Thanks for reaching out to us! We can help with this. When you have the time, please have your partner contact us via phone/chat here: https://t.co/JzP7hlA23B for real-time assistance. ^TK",107335,107337
+107337,139838,True,Mon Nov 27 13:36:43 +0000 2017,"@AmazonHelp hello, my partner has ordered some things &amp; they still havent arrived although when she checks her account it says they have been delivered,order number 202-1745465-0997939. also 2 extra payments have gone out of her bank account adding up to £19.99, any ideas? thanks",107336,
+107338,AppleSupport,False,Thu Nov 23 19:33:00 +0000 2017,@139839 We want to help with your battery concerns. Reach out via DM using the link below and let us know what version of iOS you have installed. You can check by tapping Settings &gt; General &gt; About. https://t.co/GDrqU22YpT,,107339
+107339,139839,True,Thu Nov 23 18:56:51 +0000 2017,My phone just died on 42%. No joke. @AppleSupport,"107338,107340",
+107341,AppleSupport,False,Thu Nov 23 19:31:24 +0000 2017,@139840 We certainly appreciate you reaching out to us on this. This article should assist: https://t.co/LNMCdqt6fD,,107342
+107342,139840,True,Thu Nov 23 19:04:00 +0000 2017,@AppleSupport where do we forward fake Apple emails?,107341,
+107343,AppleSupport,False,Thu Nov 23 19:31:00 +0000 2017,@139841 Let's have a look at this together. Can you please DM us? https://t.co/GDrqU22YpT,,107344
+107344,139841,True,Thu Nov 23 18:58:03 +0000 2017,"@AppleSupport I’m using Tri 4G LTE (Indonesia), my ios is the latest one, 11.1.2. My friend is using the same provider and it works for her",107343,107345
+107345,AppleSupport,False,Thu Nov 23 18:47:29 +0000 2017,@139841 We are here to help. Let's take a look at this. What is your cell coverage like? What is your current iOS version?,107344,107346
+107346,139841,True,Thu Nov 23 18:04:19 +0000 2017,"@AppleSupport umm, why won’t my personal hotspot connect to my laptop? I’ve tried restarting my network settings on my iphone and restarting my laptop but it still doesn’t work. On my laptop, it says “the connection is limited”",107345,
+107347,AppleSupport,False,Thu Nov 23 19:29:55 +0000 2017,@139259 That's certainly not the type of experience that we want you to go through. Please send us a DM of your current location and we'll look into this with you. https://t.co/GDrqU22YpT,,107348
+107348,139259,True,Thu Nov 23 18:52:09 +0000 2017,"Went to apple store with call receiving issue with my iPhone. Their  reply ""1 to 2 call dropping per week is very standard. we can't do  anything."" That's the level of support you get from apple now a days. @116333 @6126 @115858 @AppleSupport",107347,
+107349,AppleSupport,False,Thu Nov 23 19:28:26 +0000 2017,"@139842 Are you using Control Center or Settings on your iPhone to turn Wi-Fi off? If you're using Control Center, that works a bit differently in iOS 11: https://t.co/G7BHuQnDS6 Let us know in DM if you have any other questions. https://t.co/GDrqU22YpT","107350,107351",107352
+107350,139842,True,Thu Nov 23 19:37:43 +0000 2017,"@AppleSupport I’m wondering why stuff is not sending and I look and it’s because WiFi is on. So not only is data not working, the phone is acting on its own by turning WiFi back on after I turn it off. If I turn it off, it should stay off. Period.",107353,107349
+107353,AppleSupport,False,Thu Nov 23 20:13:51 +0000 2017,"@139842 If you want to ensure that Wi-Fi is off and stays off, you will want to go to Settings &gt; Wi-Fi and turn it off there. In the article we linked, using Control Center doesn't totally turn off Wi-Fi, and walking to a new location can cause that to turn back on.",107354,107350
+107354,139842,True,Fri Nov 24 11:23:37 +0000 2017,"@AppleSupport Ok guys, I’m going to let you have this one because it’s been 3 updates and you haven’t fixed the issue, but I want it on the record that it’s stupid that “control” center doesn’t allow you to control your phone and you have to be all extra and open settings.",107355,107353
+107355,AppleSupport,False,Fri Nov 24 14:52:01 +0000 2017,@139842 We care about your opinion and you can leave your feedback about using Wi-Fi from Control Center in the following link. It will be the best place to let us know what changes you would like to see: https://t.co/eTPVYVFyd8,,107354
+107351,139842,True,Thu Nov 23 19:35:29 +0000 2017,"@AppleSupport But my thing is, it shouldn’t be different. I live in Paris, there are WiFi spots everywhere and my phone doesn’t work right if WiFi is on. Most of those spots require additional login and I think I’m sending a message but I’m not because it’s not on cellular, it’s getting stuck",,107349
+107352,139842,True,Thu Nov 23 18:57:03 +0000 2017,"I swear to god I’m going to throw my iPhone out of frustration. STOP TURNING WIFI BACK ON @AppleSupport I turn it off, it comes back on. Every 5 minutes. It’s fucking annoying not having a phone that works right anymore","107349,107356",
+107357,AppleSupport,False,Thu Nov 23 19:27:42 +0000 2017,@139843 We know how important it is to enjoy your podcasts and we're happy to do everything we can to help. Let's pick back up where we left off. Please DM us to continue. https://t.co/GDrqU22YpT,,107358
+107358,139843,True,Thu Nov 23 18:56:54 +0000 2017,"@AppleSupport ok... woke up yesterday and my podcast app had changed AGAIN. My subscriptions disappeared, and when it restored all my new subs were gone. Also the Listen Now is in NO order whatsoever. How can I get my old app back? https://t.co/aemWLxGmmE",107357,
+107359,AppleSupport,False,Thu Nov 23 19:26:30 +0000 2017,@139844 We'd love to help out. Do you know which Mac OS you're on?,107360,107361
+107360,139844,True,Thu Nov 23 20:27:03 +0000 2017,"@AppleSupport yes, I'm on 10.11.6. It's only doing this for numbers from 1 to 9, times to times.",107362,107359
+107362,AppleSupport,False,Thu Nov 23 20:53:28 +0000 2017,"@139844 Let's boot into safe mode first and see if those issues persist.  You can do that with these steps: https://t.co/PQ4LSYhUTY 
+
+Let us know if the issue persists in Direct Message. https://t.co/GDrqU22YpT",,107360
+107361,139844,True,Thu Nov 23 18:51:51 +0000 2017,@AppleSupport hi apple! How am I supposed to enter my password when my number keyboard refuses to work? 😩 happening to me for a while now! https://t.co/Euo58igWh3,107359,
+107363,AppleSupport,False,Thu Nov 23 19:26:30 +0000 2017,"@139845 Has the device been restarted since it happened? If not, let's do that using these steps: https://t.co/OWRDHWSt4h",107364,107365
+107364,139845,True,Thu Nov 23 19:46:05 +0000 2017,@AppleSupport Thanks for the help! It’s working,107366,107363
+107366,AppleSupport,False,Thu Nov 23 20:09:00 +0000 2017,@139845 You're welcome. Feel free to reach out to us if you have any further questions.  Have a wonderful day!,,107364
+107365,139845,True,Thu Nov 23 18:56:06 +0000 2017,"@AppleSupport I have done so, but still same issues",107363,107367
+107367,AppleSupport,False,Thu Nov 23 18:55:00 +0000 2017,@139845 We'd like to help. Have you tried using a Wi-Fi network to download the app? Let us know.,107365,107368
+107368,139845,True,Thu Nov 23 18:16:07 +0000 2017,@AppleSupport my app suddenly is not working https://t.co/VkbBZsH8bW,107367,
+107369,AppleSupport,False,Thu Nov 23 19:26:00 +0000 2017,"@139846 Let's get you listening to your music again. What kind of device are you trying to connect to Apple Music with, and how are you connecting?",107370,107371
+107370,139846,True,Thu Nov 23 19:27:00 +0000 2017,"@AppleSupport A 7+, and I’m not connecting because it’s not working. I open it, my screen turns black and it closes out by itself.",107372,107369
+107372,AppleSupport,False,Thu Nov 23 20:06:00 +0000 2017,"@139846 How long have you been seeing this on your iPhone? How are you connecting to the internet, through Wi-Fi or a cellular connection? Does restarting your iPhone change anything?",,107370
+107371,139846,True,Thu Nov 23 18:44:37 +0000 2017,MY APPLE MUSIC STILL ISNT WORKING! I AM NOT PAYING FOR A BLACK SCREEN @AppleSupport,107369,
+107373,AppleSupport,False,Thu Nov 23 19:25:33 +0000 2017,@139847 Hey there. Can you please send us a DM of your current iOS version and we will go from there? https://t.co/GDrqU22YpT,,107374
+107374,139847,True,Thu Nov 23 18:52:26 +0000 2017,@AppleSupport Multitasking on iPad Pro 9.7 is getting right on my tits. Edit in Notepad. Switch to another app (Safari). Switch back and it (for no reason) scrolls elsewhere in Notepad. Lack of memory and/or incomplete state save is poor.,107373,
+107375,AppleSupport,False,Thu Nov 23 19:25:00 +0000 2017,"@139848 Thanks for reaching out. We'd like some information to assist. Are you currently signed into the same Apple ID the album was purchased with? Also, are you able to access the song on another device or computer with iTunes? Let us know, we're happy to help.",,107376
+107376,139848,True,Thu Nov 23 18:48:11 +0000 2017,@AppleSupport please help I can’t retrieve a song I downloaded! https://t.co/0U8JeHQQTu,107375,
+107377,AppleSupport,False,Thu Nov 23 19:23:28 +0000 2017,"@139849 We'd like to address this with you. Please shoot us a DM and let us know if you migrated your data to your iPhone X and if so, how it was done. Restored a backup, used Quick Start or set things up as new. https://t.co/GDrqU22YpT",,107378
+107378,139849,True,Thu Nov 23 18:54:21 +0000 2017,"Kinda annoyed that I lost all my data on my @115858⌚️when I upgraded to the iPhone X, even though I [supposedly] restored the watch from the last backup. Oh well, there’ll be plenty of time to make it all up again. P.S. I still can’t believe this @123765 280 character limit. 🤪",107377,
+107379,AskCiti,False,Thu Nov 23 19:27:38 +0000 2017,"@139850 Hi, we have not received a response from you regarding your concern about a Costco credit card. Please click &amp; send the country in which you are interested in applying for a Costco credit card. Sincerely ^FM https://t.co/gvC4jAOA9c",,107380
+107380,139850,True,Wed Nov 22 12:59:32 +0000 2017,"@117176 if i am not eligible for citi Costco credit card, i should close my 10 year old Indian citi credit card too. I ll never apply again. https://t.co/MQPG7VwcXh","107379,107381,107382",
+107383,AskCiti,False,Thu Nov 23 18:51:32 +0000 2017,"@139851 Saw your tweet! For any assistance with your India account, you're welcome to complete the contact request at https://t.co/W7g6iN7ahv. Thank you! ^MG",,107384
+107384,139851,True,Thu Nov 23 18:49:12 +0000 2017,@AskCiti your Citi bank officer are not giving proper reply to me.,107383,
+107385,AskCiti,False,Thu Nov 23 18:29:31 +0000 2017,"@139852 We will be happy to try and help, please click on link &amp; DM me your account type, and country your account was opened in. Please do not include any account numbers or your PIN. ^MG https://t.co/gvC4jAOA9c",,107386
+107386,139852,True,Thu Nov 23 18:25:32 +0000 2017,@AskCiti my phone was stolen. Now I need to change the number on my account but the website keeps asking me to enter a code sent to the old number. What can I do?,107385,
+107387,AskCiti,False,Thu Nov 23 18:17:38 +0000 2017,"@139853 Saw your tweet! For any assistance with your India account, you're welcome to complete the contact request at https://t.co/W7g6iN7ahv. Thank you! ^MG",,107388
+107388,139853,True,Thu Nov 23 18:15:06 +0000 2017,@117176 https://t.co/ZNEldHZVzk,107387,
+107389,AskCiti,False,Thu Nov 23 18:16:43 +0000 2017,"@139854 Hello, Since we haven’t heard from you we will consider this issue resolved. We are here to help, so thanks for reaching out. ^YC",,107390
+107390,139854,True,Tue Nov 21 17:47:09 +0000 2017,Why the fuck does Citibank think people around with a social security card when they can remember the number,"107389,107391",
+107392,AskCiti,False,Thu Nov 23 18:10:00 +0000 2017,"@139855 Hi, Since we haven’t heard from you we'll consider this issue resolved. We're here to help, so thanks for reaching out ^YC",,107393
+107393,139855,True,Tue Nov 21 17:27:35 +0000 2017,@AskCiti Why does my master pass transaction keep getting flagged?! I called in with a support already!!!!,"107392,107394,107395",
+107396,AskCiti,False,Thu Nov 23 18:02:48 +0000 2017,"@139856 I will be happy to try and help you in adding your wife as an authorized signer on your Credit Card. To better assist you please click on the link &amp; DM me your CC type (e.g. Costco, Double Cash, Best Buy, etc.). Please do not include any account numbers or PIN. ^MG https://t.co/gvC4jAOA9c",107397,107398
+107397,139856,True,Thu Nov 23 18:33:26 +0000 2017,"@AskCiti Done, thank you! Happy thanksgiving!",,107396
+107398,139856,True,Thu Nov 23 18:00:50 +0000 2017,@117157 how do I add my wife to my citi credit card?,107396,
+107399,AskCiti,False,Thu Nov 23 17:50:31 +0000 2017,"@139857 Hello, since we haven’t heard from you we will consider this issue resolved. We value you as a Citibank client and we appreciate you making Citibank your bank of choice! ^YC",,107400
+107400,139857,True,Tue Nov 21 14:39:42 +0000 2017,"@AskCiti Already wasted time calling when you should have called when you felt a problem. 2nd time you froze my account no real reason!  Be proactive and, care about customers!  Just CALL if you think there is a problem.  #badservice","107399,107401",107402
+107402,AskCiti,False,Tue Nov 21 14:30:01 +0000 2017,"@139857 Saw your Tweet. If assistance is still needed please click and DM your account type and country of account opening. For security, don't include any account numbers or PINs.^ZJ",107400,107403
+107403,139857,True,Tue Nov 21 14:16:51 +0000 2017,"Thanks @117157 for ruining my $8 lunch because I signed up for applepay??  Really??  Can't contact me?
+#Citiproblems @117176 #credit #Badciti #Citiproblems #WTF",107402,
+107404,AskCiti,False,Thu Nov 23 17:26:00 +0000 2017,"@139858 Hello. I can try to help. Please click and DM acct type, country &amp; details (No acct#/PIN’s) ^YC https://t.co/gvC4jAOA9c",,107405
+107405,139858,True,Thu Nov 23 17:22:27 +0000 2017,"@AskCiti I sent my marriage certificate as proof of a name change - you haven’t sent it back and it was my only copy! Help please, no response from emails I’ve sent 😬","107404,107406",
+107407,GloCare,False,Thu Nov 23 19:33:17 +0000 2017,"@139859 Good evening, glo jumbo is real . May we know what the issue is? AP","107408,107409,107410",107411
+107408,139859,True,Thu Nov 23 19:35:45 +0000 2017,@GloCare  I need a refund and I need to be able to subscribe to real data plans thank you,,107407
+107409,139859,True,Thu Nov 23 19:35:38 +0000 2017,@GloCare I called initially they said my number has not been updated hence they can't know what happened..,,107407
+107410,139859,True,Thu Nov 23 19:35:13 +0000 2017,@GloCare yet they charged my main account wen I had a balance of #1400 on my bonus account.,,107407
+107411,139859,True,Thu Nov 23 19:25:46 +0000 2017,"@GloCare Since you're not picking my calls anymore, I'm beginning 2 see that this Glo Jumbo crap is a big scam, in fact it's a ponzi scheme!",107407,
+107412,GloCare,False,Thu Nov 23 19:32:11 +0000 2017,@139860 Kindly check this link https://t.co/GvxBuIxUZL. AP,,107413
